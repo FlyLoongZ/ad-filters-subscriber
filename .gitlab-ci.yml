@@ -13,7 +13,7 @@ Update_Filters:
 Commit Changes:
   stage: commit
   script:
-    - git commit -m CI update rule
+    - git commit -m "CI update rule"
 
 gitlab push:
   stage: push
