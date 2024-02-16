@@ -13,6 +13,8 @@ Update_Filters:
 Commit Changes:
   stage: commit
   script:
+    - git config user.email "ci@example.com"
+    - git config user.name "CI"
     - git commit -m "CI update rule"
 
 gitlab push:
