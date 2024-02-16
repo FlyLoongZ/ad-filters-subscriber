@@ -1,60 +1,21 @@
-name: Update Filters
-on:
-  push:
-    paths-ignore:
-      - 'README.md'
-      - 'README_en.md'
-      - '.github/**'
-      - '.devcontainer/**'
-      - 'LICENSE'
-    branches: [ main ]
-  schedule:
-    - cron: 0 */8 * * *
-  workflow_dispatch:
+image: maven:latest
 
-env:
-  TZ: Asia/Shanghai
+stages:
+  - Update_Filters
+  - commit
+  - push
 
-jobs:
-  Update_Filters:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      actions: write
+Update_Filters:
+  stage: Update_Filters
+  script:
+    - mvn spring-boot:run
 
-    steps:
-      - uses: actions/checkout@v3
+Commit Changes:
+  stage: commit
+  script:
+    - git commit -m CI update rule
 
-      - name: Set up JDK 17
-        uses: actions/setup-java@v3
-        with:
-          java-version: '17'
-          distribution: 'temurin'
-          cache: maven
-
-      - name: Run Jar
-        run:  mvn spring-boot:run
-
-      - name: Commit Changes
-        id: commit
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: 🚀 CI Updated
-
-      - name: GitHub Push
-        if: steps.commit.outputs.changes_detected == 'true'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{secrets.GITHUB_TOKEN}}
-          branch: ${{github.ref}}
-
-      - name: Mirror Refresh
-        run: sleep 10 && curl 'https://purge.jsdelivr.net/gh/${{github.repository}}/rule'
-
-      - name: Delete Workflow Runs
-        uses: Mattraks/delete-workflow-runs@v2
-        with:
-          token: ${{secrets.GITHUB_TOKEN}}
-          repository: ${{ github.repository }}
-          retain_days: 1
-          keep_minimum_runs: 1
+gitlab push:
+  stage: push
+  script:
+    - git push -o ci.skip https://gitlab-ci-token:<access_token>@gitlab.com/FlyLoongZhuo/ad-filters-subscriber.git
