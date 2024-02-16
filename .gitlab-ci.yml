@@ -2,22 +2,13 @@ image: maven:3.9.6-eclipse-temurin-17
 
 stages:
   - Update_Filters
-  - commit
-  - push
 
 Update_Filters:
   stage: Update_Filters
   script:
     - mvn spring-boot:run
-
-Commit Changes:
-  stage: commit
-  script:
+    - rm -rf log
     - git config user.email "ci@example.com"
     - git config user.name "CI"
     - git commit -m "CI update rule"
-
-gitlab push:
-  stage: push
-  script:
     - git push -o ci.skip https://ci:$CI_ACCESS_TOKEN@gitlab.com/FlyLoongZhuo/ad-filters-subscriber.git
