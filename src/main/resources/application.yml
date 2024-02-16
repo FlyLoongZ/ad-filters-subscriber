@@ -20,6 +20,42 @@ application:
 
     # 仅支持 http/https，不限定响应内容格式
     remote:
+      - name: AdGuard DNS filter
+        path: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+
+      - name: AdBlocker Ultimate Ad Filter
+        path: https://filters.adavoid.org/ultimate-ad-filter.txt
+
+      - name: AdBlocker Ultimate Privacy Filter
+        path: https://filters.adavoid.org/ultimate-ad-filter.txt
+
+      - name: Fanboy's Annoyance List
+        path: https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
+
+      - name: d3Host List by d3ward
+        path: https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+
+      - name: AdAway default blocklist
+        path: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+
+      - name: 大圣净化
+        path: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+
+      - name: WindowsSpyBlocker
+        path: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+
+      - name: NoTrack Malware Blocklist
+        path: https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/malware.hosts
+
+      - name: Hosts contributed by Steven Black
+        path: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
+
+      - name: This hosts file is brought to you by Dan Pollock and can be found at
+        path: https://someonewhocares.org/hosts/zero/hosts
+
+      - name: CJX's Annoyance List
+        path: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+
 #      - name: 'example rule' #规则名称
 #        path: 'https://example.org/rule.txt' #规则地址
 #      - 'https://example.org/rule2.txt' #旧版写法, 不推荐
