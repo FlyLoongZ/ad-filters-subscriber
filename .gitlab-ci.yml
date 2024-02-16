@@ -7,8 +7,9 @@ Update_Filters:
   stage: Update_Filters
   script:
     - mvn spring-boot:run
-    - rm -rf log
+    - rm -rf logs
     - git config user.email "ci@example.com"
     - git config user.name "CI"
+    - git add .
     - git commit -m "CI update rule"
     - git push -o ci.skip https://ci:$CI_ACCESS_TOKEN@gitlab.com/FlyLoongZhuo/ad-filters-subscriber.git
