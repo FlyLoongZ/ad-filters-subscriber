@@ -1,4 +1,4 @@
-image: maven:latest
+image: maven:3-jdk-17
 
 stages:
   - Update_Filters
@@ -18,4 +18,4 @@ Commit Changes:
 gitlab push:
   stage: push
   script:
-    - git push -o ci.skip https://gitlab-ci-token:<access_token>@gitlab.com/FlyLoongZhuo/ad-filters-subscriber.git
+    - git push -o ci.skip https://ci:$CI_ACCESS_TOKEN@gitlab.com/FlyLoongZhuo/ad-filters-subscriber.git
