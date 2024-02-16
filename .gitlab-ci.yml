@@ -12,4 +12,5 @@ Update_Filters:
     - git config user.name "CI"
     - git add .
     - git commit -m "CI update rule"
-    - git push -o ci.skip https://ci:$CI_ACCESS_TOKEN@gitlab.com/FlyLoongZhuo/ad-filters-subscriber.git
+    - git remote set-url origin https://ci:$CI_ACCESS_TOKEN@gitlab.com/FlyLoongZhuo/ad-filters-subscriber.git
+    - git push https://ci:$CI_ACCESS_TOKEN@gitlab.com/FlyLoongZhuo/ad-filters-subscriber.git -o ci.skip
