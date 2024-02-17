@@ -65,7 +65,7 @@ application:
       - name: NoAppDownload
         path: https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
 
-      - name: 轻量广告拦截规则 酷安: 大萌主
+      - name: 轻量广告拦截规则 酷安 大萌主
         path: https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 
       - name: uBlock filters – Privacy
