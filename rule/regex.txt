@@ -1,19 +1,9 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-02-16 15:44:19
-! Homepage: https://github.com/fordes123/ad-filters-subscriber/
-! 👇This Part Merge from: AdBlocker Ultimate Ad Filter (https://filters.adavoid.org/ultimate-ad-filter.txt)
-||gamenguide.com*adbk
-||itechpost.com*adbk
-! 👇This Part Merge from: AdBlocker Ultimate Ad Filter (https://filters.adavoid.org/ultimate-ad-filter.txt)
-||fapnado.*.php|
-Banner468x60
-! 👇This Part Merge from: AdBlocker Ultimate Ad Filter (https://filters.adavoid.org/ultimate-ad-filter.txt)
-rgmechanicsgames.com*VPN.exe
-||ads*.dfiles.eu^
-||ads*.depositfiles.com^
-||ads*.depositfiles.org^
-||ads*.dfiles.ru^
+! Last Modified: 2024-02-17 08:37:36
+! Homepage: https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber
+! Power by: https://github.com/fordes123/ad-filters-subscriber/
+================================================================
 ! 👇This Part Merge from: AdGuard DNS filter (https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt)
 ||putrr*.com^
 ||www.fuze-hill*.xyz^
@@ -31,10 +21,11 @@ rgmechanicsgames.com*VPN.exe
 ||s*.skencituer.com^
 ||prebid-*.rubiconproject.com^
 ||hostingcloud.*.wasm^
-! 👇This Part Merge from: AdBlocker Ultimate Ad Filter (https://filters.adavoid.org/ultimate-ad-filter.txt)
-@@||adobeid-*.services.adobe.com^
 ! 👇This Part Merge from: AdGuard DNS filter (https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt)
 ||get-me-wow.
+! 👇This Part Merge from: AdBlocker Ultimate Ad Filter (https://filters.adavoid.org/ultimate-ad-filter.txt)
+||gamenguide.com*adbk
+||itechpost.com*adbk
 ! 👇This Part Merge from: AdGuard DNS filter (https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt)
 ||logs*.smithsonian.museum^
 ||ads*.textra.me^
@@ -93,8 +84,9 @@ rgmechanicsgames.com*VPN.exe
 ||analytics*.prezly.com^
 ||adcs-*.myappsget.com^
 ||v*.sitecounter.site^
-! 👇This Part Merge from: CJX's Annoyance List (https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
-||acookie.*.gif?
+! 👇This Part Merge from: AdBlocker Ultimate Ad Filter (https://filters.adavoid.org/ultimate-ad-filter.txt)
+||fapnado.*.php|
+Banner468x60
 ! 👇This Part Merge from: AdGuard DNS filter (https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt)
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -289,6 +281,12 @@ rgmechanicsgames.com*VPN.exe
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+! 👇This Part Merge from: AdBlocker Ultimate Ad Filter (https://filters.adavoid.org/ultimate-ad-filter.txt)
+rgmechanicsgames.com*VPN.exe
+||ads*.dfiles.eu^
+||ads*.depositfiles.com^
+||ads*.depositfiles.org^
+||ads*.dfiles.ru^
 ! 👇This Part Merge from: AdGuard DNS filter (https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt)
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
@@ -335,10 +333,15 @@ analytics-*.aasaam.com
 ||qpb*.sohu.com^
 ||union*.365inews.com^
 ! 👇This Part Merge from: AdBlocker Ultimate Ad Filter (https://filters.adavoid.org/ultimate-ad-filter.txt)
-||util-*.simply-hentai.com^
+@@||adobeid-*.services.adobe.com^
+! 👇This Part Merge from: CJX's Annoyance List (https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
+||acookie.*.gif?
+! 👇This Part Merge from: AdBlocker Ultimate Ad Filter (https://filters.adavoid.org/ultimate-ad-filter.txt)
 ||iqkufk^
+||spryptvqguhpwt^
+! 👇This Part Merge from: AdBlocker Ultimate Ad Filter (https://filters.adavoid.org/ultimate-ad-filter.txt)
+||util-*.simply-hentai.com^
 ||centent.streamp1ay.
 ||142.91.159.
 ||cas.*.criteo.com^
-||spryptvqguhpwt^
 ||cintent.streanplay.
