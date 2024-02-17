@@ -61,6 +61,15 @@ application:
 
       - name: 1024 host
         path: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts  
+
+      - name: NoAppDownload
+        path: https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
+
+      - name: 轻量广告拦截规则 酷安: 大萌主
+        path: https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
+
+      - name: uBlock filters – Privacy
+        path: https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
 #      - name: 'example rule' #规则名称
 #        path: 'https://example.org/rule.txt' #规则地址
 #      - 'https://example.org/rule2.txt' #旧版写法, 不推荐
