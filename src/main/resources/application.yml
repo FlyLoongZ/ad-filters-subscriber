@@ -58,6 +58,8 @@ application:
 
       - name: AWAvenue 秋风广告规则
         path: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
+      - name: 1024 host
+        path: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts  
 #      - name: 'example rule' #规则名称
 #        path: 'https://example.org/rule.txt' #规则地址
 #      - 'https://example.org/rule2.txt' #旧版写法, 不推荐
@@ -71,7 +73,9 @@ application:
       [ADFS Adblock List]
       ! Title: ${name}
       ! Last Modified: ${date}
-      ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+      ! Homepage: https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber
+      ! Power by: https://github.com/fordes123/ad-filters-subscriber/
+      ================================================================
     path: rule   #规则文件输出路径，相对路径默认从 项目目录开始
     files:
       all.txt: #输出文件名
