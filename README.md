@@ -1,28 +1,10 @@
 <div align="center">
 <h1>AD Filter Subscriber</h1>
   <p>
-    fork https://github.com/fordes123/ad-filters-subscriber
+    fork https://github.com/fordes123/ad-filters-subscriber<br/>
     广告过滤规则订阅器，整合不同来源的规则，帮助你快速构建属于自己的规则集~
   </p>
 <!-- Badges -->
-<p>
-  <a href="https://github.com/fordes123/ad-filters-subscriber">
-    <img src="https://img.shields.io/github/last-commit/fordes123/ad-filters-subscriber?style=flat-square" alt="last update" />
-  </a>
-  <a href="https://github.com/fordes123/ad-filters-subscriber">
-    <img src="https://img.shields.io/github/forks/fordes123/ad-filters-subscriber?style=flat-square" alt="forks" />
-  </a>
-  <a href="https://github.com/fordes123/ad-filters-subscriber">
-    <img src="https://img.shields.io/github/stars/fordes123/ad-filters-subscriber?style=flat-square" alt="stars" />
-  </a>
-  <a href="https://github.com/fordes123/ad-filters-subscriber/issues/">
-    <img src="https://img.shields.io/github/issues/fordes123/ad-filters-subscriber?style=flat-square" alt="open issues" />
-  </a>
-  <a href="https://github.com/fordes123/ad-filters-subscriber">
-    <img src="https://img.shields.io/github/license/fordes123/ad-filters-subscriber?style=flat-square" alt="license" />
-  </a>
-</p>
-
 <h4>
     <a href="#a">项目说明</a>
   <span> · </span>
