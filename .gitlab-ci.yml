@@ -11,7 +11,7 @@ Update_Filters:
     - git config user.email "ci@example.com"
     - git config user.name "CI"
     - git add .
-    - git commit -m "CI update rule"
+    - git commit -m "🚀 CI update rule"
     - git remote rm origin
     - git remote add origin https://ci:$CI_ACCESS_TOKEN@gitlab.com/FlyLoongZhuo/ad-filters-subscriber.git
     - git push origin HEAD:main -o ci.skip
