@@ -70,6 +70,15 @@ application:
 
       - name: uBlock filters – Privacy
         path: https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+
+      - name: clash-rules - reject
+        path: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt
+
+      - name: 乘风视频过滤规则
+        path: https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
+
+      - name: 乘风通用过滤规则
+        path: https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 #      - name: 'example rule' #规则名称
 #        path: 'https://example.org/rule.txt' #规则地址
 #      - 'https://example.org/rule2.txt' #旧版写法, 不推荐
@@ -85,7 +94,8 @@ application:
       ! Last Modified: ${date}
       ! Homepage: https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber
       ! Power by: https://github.com/fordes123/ad-filters-subscriber/
-      =================================================================
+      ! Raw Link: https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/${name}
+      ###########
     path: rule   #规则文件输出路径，相对路径默认从 项目目录开始
     files:
       all.txt: #输出文件名
