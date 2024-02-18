@@ -1,6 +1,7 @@
 <div align="center">
 <h1>AD Filter Subscriber</h1>
   <p>
+    fork https://github.com/fordes123/ad-filters-subscriber
     广告过滤规则订阅器，整合不同来源的规则，帮助你快速构建属于自己的规则集~
   </p>
 <!-- Badges -->
