@@ -1,9 +1,9 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-02-17 08:37:36
+! Last Modified: 2024-02-17 14:44:38
 ! Homepage: https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber
 ! Power by: https://github.com/fordes123/ad-filters-subscriber/
-================================================================
+=================================================================
 ! 👇This Part Merge from: d3Host List by d3ward (https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt)
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 cs.luckyorange.net
