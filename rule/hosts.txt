@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-02-19 00:04:52
+! Last Modified: 2024-02-19 09:31:16
 ! Homepage: https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber
 ! Power by: https://github.com/fordes123/ad-filters-subscriber/
 ! Raw Link: https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/hosts.txt
@@ -16621,6 +16621,7 @@
 0.0.0.0 e0.extreme-dm.com
 0.0.0.0 rovion.com
 0.0.0.0 classmatescom.112.2o7.net
+0.0.0.0 awuam.com
 0.0.0.0 ad16digital.checkm8.com
 0.0.0.0 db-z.fr
 0.0.0.0 counter6.sextracker.com
@@ -17773,7 +17774,6 @@
 0.0.0.0 www.keepass.com
 0.0.0.0 ometrics.warnerbros.com
 0.0.0.0 adserver.te.pt
-0.0.0.0 www.emarketmakers.com
 0.0.0.0 adman.se
 0.0.0.0 srs.targetpoint.com
 0.0.0.0 www.clickdensity.com
@@ -18030,6 +18030,7 @@
 0.0.0.0 server-br.imrworldwide.com
 0.0.0.0 clausing-advies.nl
 0.0.0.0 solutionscore.com
+0.0.0.0 thisone.online
 0.0.0.0 ads.movieweb.com
 0.0.0.0 counterbot.com
 0.0.0.0 niche247.trade
@@ -18321,7 +18322,6 @@
 0.0.0.0 clubwinnerz.com
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 gdyn.cnngo.com
-0.0.0.0 www.ebaybanner.com
 0.0.0.0 e-2dj6wjk4kkcjalp.stats.esomniture.com
 0.0.0.0 promo.streaming-illimite.net
 0.0.0.0 counter.mycomputer.com
@@ -19278,7 +19278,6 @@
 0.0.0.0 goolgueule.fr
 0.0.0.0 detroithardcore.com
 0.0.0.0 freighttools.live
-0.0.0.0 www.edv-waldherr.at
 0.0.0.0 www.bitraffic.com
 0.0.0.0 bluediamondoffers.com
 0.0.0.0 server-hk.imrworldwide.com
@@ -19373,7 +19372,6 @@
 0.0.0.0 tiku.io
 0.0.0.0 linknotification.com
 0.0.0.0 ad33digital.checkm8.com
-0.0.0.0 www.eshopads2.com
 0.0.0.0 pcgameshardware.de.intellitxt.com
 0.0.0.0 bestorican.com
 0.0.0.0 shorthouse.com
@@ -20410,7 +20408,6 @@
 0.0.0.0 liquidad.narrowcastmedia.com
 0.0.0.0 live-cams-1.livejasmin.com
 0.0.0.0 snaps.vidiemi.com
-0.0.0.0 www.entertainment-specials.com
 0.0.0.0 ads.guardian.co.uk
 0.0.0.0 fromjoytohappiness.com
 0.0.0.0 searchadv.com
@@ -20673,6 +20670,7 @@
 0.0.0.0 tirolcom.oewabox.at
 0.0.0.0 affiliates.genealogybank.com
 0.0.0.0 www.2girls1cup-free.com
+0.0.0.0 cltxhot.fun
 0.0.0.0 ad.hankooki.com
 0.0.0.0 kuhdi.com
 0.0.0.0 atlauncher.fr
@@ -20816,7 +20814,6 @@
 0.0.0.0 ad.eporner.com
 0.0.0.0 movies-box.net
 0.0.0.0 sonycomputerentertai.tt.omtrdc.net
-0.0.0.0 www.euros4click.de
 0.0.0.0 biz5.sandai.net
 0.0.0.0 c3.somalisounds.com
 0.0.0.0 penseedepascal.fr
@@ -21261,6 +21258,7 @@
 0.0.0.0 premium-offers.space
 0.0.0.0 coinad.com
 0.0.0.0 images.sohu.com
+0.0.0.0 nguyennghi.info
 0.0.0.0 mashinkhabar.com
 0.0.0.0 music611.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
@@ -22004,6 +22002,7 @@
 0.0.0.0 firrectly.top
 0.0.0.0 kh1.kimhasa.com
 0.0.0.0 static.2mdn.net
+0.0.0.0 srothuynguyen.com
 0.0.0.0 nytrlakeland.112.2o7.net
 0.0.0.0 lcolissimo.fr
 0.0.0.0 salesforcecom.tt.omtrdc.net
@@ -23191,6 +23190,7 @@
 0.0.0.0 aoljournals.122.2o7.net
 0.0.0.0 321cba.com
 0.0.0.0 bracabrac.fr
+0.0.0.0 joshan.fun
 0.0.0.0 screen-mates.com
 0.0.0.0 securerunner.com
 0.0.0.0 bbcode.fr
@@ -23331,6 +23331,7 @@
 0.0.0.0 d5.zedo.com
 0.0.0.0 track.msadcenter.afgz.com
 0.0.0.0 acnenomor.com
+0.0.0.0 qyh.co.ua
 0.0.0.0 nimes-olympique.fr
 0.0.0.0 ticketspy.fr
 0.0.0.0 c.be.msn.com
@@ -23582,7 +23583,6 @@
 0.0.0.0 adverts.ecn.co.uk
 0.0.0.0 ad.groupon.nl
 0.0.0.0 phobia.net
-0.0.0.0 www.emadesign.net
 0.0.0.0 fref.fr
 0.0.0.0 k3vzn.flx10.com
 0.0.0.0 video-stats.video.google.com
@@ -25181,6 +25181,7 @@
 0.0.0.0 w1.extreme-dm.com
 0.0.0.0 www.wppluginspro.com
 0.0.0.0 w139.hitbox.com
+0.0.0.0 www.emarketmakers.com
 0.0.0.0 www.tbitcoin.me
 0.0.0.0 fioricet-online.blogspot.com
 0.0.0.0 ehg-kingstontechnology.hitbox.com
@@ -25248,6 +25249,7 @@
 0.0.0.0 weight-loss.3.p2l.info
 0.0.0.0 ws05.home.sapo.pt
 0.0.0.0 www.ftjcfx.com
+0.0.0.0 www.entertainment-specials.com
 0.0.0.0 ehg-aha.hitbox.com
 0.0.0.0 nasonex.1.p2l.info
 0.0.0.0 zemgo.com
@@ -25509,6 +25511,7 @@
 0.0.0.0 ehg-ubisoft.hitbox.com
 0.0.0.0 wy.5.p2l.info
 0.0.0.0 buy-vicodin-online.seumala.net
+0.0.0.0 www.euros4click.de
 0.0.0.0 oascentral.cybereps.com
 0.0.0.0 www.skegness.net
 0.0.0.0 www.windaily.com
@@ -25547,6 +25550,7 @@
 0.0.0.0 www.view4cash.de
 0.0.0.0 hg6a.hitbox.com
 0.0.0.0 w101.hitbox.com
+0.0.0.0 www.ebaybanner.com
 0.0.0.0 www.sarge05.plus.com
 0.0.0.0 gu.5.p2l.info
 0.0.0.0 ionamin.1.p2l.info
@@ -25681,6 +25685,7 @@
 0.0.0.0 ehg-ati.hitbox.com
 0.0.0.0 aboutharrypotter.fasthost.tv
 0.0.0.0 pharmacy-news.blogspot.com
+0.0.0.0 www.emadesign.net
 0.0.0.0 www.olioeroli.it
 0.0.0.0 www.idealcasino.net
 0.0.0.0 www.feedstermedia.com
@@ -26127,6 +26132,7 @@
 0.0.0.0 www.thatrendsystem.com
 0.0.0.0 oas.villagevoice.com
 0.0.0.0 zeroredirect11.com
+0.0.0.0 www.edv-waldherr.at
 0.0.0.0 fahrrad.bikesshop.de
 0.0.0.0 www30a2-orig.glam.com
 0.0.0.0 www.friend-card.com
@@ -26179,6 +26185,7 @@
 0.0.0.0 w175.hitbox.com
 0.0.0.0 www.projectwonderful.com
 0.0.0.0 bbs.ws
+0.0.0.0 www.eshopads2.com
 0.0.0.0 www.novelsys.co
 0.0.0.0 w138.hitbox.com
 0.0.0.0 www.invitefashion.com
