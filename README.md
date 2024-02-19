@@ -34,3 +34,5 @@
 - [乘风视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt)
 - [乘风通用过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 - [DD-AD](https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/all.txt)
+- [NEO DEV HOST](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker)
+- [oisd big](https://big.oisd.nl)
