@@ -82,6 +82,12 @@ application:
 
       - name: DD-AD
         path: https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/all.txt
+
+      - name: NEO DEV HOST
+        path: https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
+
+      - name: oisd big
+        path: https://big.oisd.nl
 #      - name: 'example rule' #规则名称
 #        path: 'https://example.org/rule.txt' #规则地址
 #      - 'https://example.org/rule2.txt' #旧版写法, 不推荐
