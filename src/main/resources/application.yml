@@ -112,9 +112,3 @@ application:
         - HOSTS
       hosts.txt:
         - HOSTS
-      regex.txt:
-        - REGEX
-      domain.txt:
-        - DOMAIN
-      modify.txt:
-        - MODIFY
