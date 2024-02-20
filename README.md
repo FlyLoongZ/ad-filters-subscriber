@@ -36,3 +36,4 @@
 - [DD-AD](https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/all.txt)
 - [NEO DEV HOST](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker)
 - [oisd big](https://big.oisd.nl)
+- [1Host - Lite](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt)

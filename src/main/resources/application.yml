@@ -88,6 +88,9 @@ application:
 
       - name: oisd big
         path: https://big.oisd.nl
+
+      - name: 1Host - Lite
+        path: https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 #      - name: 'example rule' #规则名称
 #        path: 'https://example.org/rule.txt' #规则地址
 #      - 'https://example.org/rule2.txt' #旧版写法, 不推荐
