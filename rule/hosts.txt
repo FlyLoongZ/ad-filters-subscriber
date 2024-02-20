@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-02-20 04:02:43
+! Last Modified: 2024-02-20 04:21:58
 ! Homepage: https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber
 ! Power by: https://github.com/fordes123/ad-filters-subscriber/
 ! Raw Link: https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/hosts.txt
