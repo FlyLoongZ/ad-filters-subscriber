@@ -59,16 +59,10 @@ application:
       - name: AWAvenue 秋风广告规则
         path: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
 
-      - name: 1024 host
-        path: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts  
-
       - name: NoAppDownload
-        path: https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
+        path: https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.tx
 
-      - name: 轻量广告拦截规则 酷安 大萌主
-        path: https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
-
-      - name: uBlock filters – Privacy
+      - name: uBlock filters - Privacy
         path: https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
 
       - name: clash-rules - reject
@@ -79,9 +73,6 @@ application:
 
       - name: 乘风通用过滤规则
         path: https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
-
-      - name: DD-AD
-        path: https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/all.txt
 
       - name: NEO DEV HOST
         path: https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
