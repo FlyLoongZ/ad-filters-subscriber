@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ad-filters-subscriber
+    name: adg-rule
   profiles:
     active: prod  #切换至 dev 即可输出调试信息
 
@@ -24,12 +24,89 @@ application:
   rule:
     #远程订阅规则 （！使用前请删除下方示例配置, 注意缩进）
     remote:
-      - name: 'Subscription 1'               #可选参数: 规则名称，如无将使用 path 作为名称
-        path: 'https://example.org/rule.txt' #必要参数: 规则url，仅支持 http/https，不限定响应内容格式
-        type: easylist                       #可选参数: 规则类型：easylist (默认)、dnsmasq、clash、smartdns、hosts
+      - name: AdGuard DNS filter #可选参数: 规则名称，如无将使用 path 作为名称
+        path: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt #必要参数: 规则url，仅支持 http/https，不限定响应内容格式
+        type: easylist #可选参数: 规则类型：easylist (默认)、dnsmasq、clash、smartdns、hosts
 
-      - name: 'Subscription 2'
-        path: 'http://example.org/rule.txt'
+      - name: AdBlocker Ultimate Ad Filter
+        path: https://filters.adavoid.org/ultimate-ad-filter.txt
+        type: easylist
+
+      - name: AdBlocker Ultimate Privacy Filter
+        path: https://filters.adavoid.org/ultimate-ad-filter.txt
+        type: easylist
+
+      - name: Fanboy's Annoyance List
+        path: https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
+        type: easylist
+
+      - name: d3Host List by d3ward
+        path: https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+        type: easylist
+
+      - name: AdAway default blocklist
+        path: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+        type: easylist
+
+      - name: 大圣净化
+        path: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+        type: easylist
+
+      - name: WindowsSpyBlocker
+        path: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+        type: easylist
+
+      - name: NoTrack Malware Blocklist
+        path: https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/malware.hosts
+        type: easylist
+
+      - name: Hosts contributed by Steven Black
+        path: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
+        type: easylist
+
+      - name: This hosts file is brought to you by Dan Pollock and can be found at
+        path: https://someonewhocares.org/hosts/zero/hosts
+        type: easylist
+
+      - name: CJX's Annoyance List
+        path: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+        type: easylist
+
+      - name: AWAvenue 秋风广告规则
+        path: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
+        type: easylist
+
+      - name: NoAppDownload
+        path: https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
+        type: easylist
+
+      - name: uBlock filters - Privacy
+        path: https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+        type: easylist
+
+      - name: clash-rules - reject
+        path: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt
+        type: easylist
+
+      - name: 乘风视频过滤规则
+        path: https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
+        type: easylist
+
+      - name: 乘风通用过滤规则
+        path: https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
+        type: easylist
+
+      - name: NEO DEV HOST
+        path: https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
+        type: easylist
+
+      - name: oisd big
+        path: https://big.oisd.nl
+        type: easylist
+
+      - name: HaGeZi's Normal DNS Blocklist
+        path: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt
+        type: easylist
 
     #本地规则文件
     local:
@@ -41,9 +118,13 @@ application:
     #文件头配置，将自动作为注释添加至每个规则文件开始
     #可使用占位符 ${name}、${type}、${desc} 以及 ${date} (当前日期)
     file_header: |
-      ADFS AdBlock ${type}
-      Last Modified: ${date}
-      Homepage: https://github.com/fordes123/ad-filters-subscriber/
+      [ADFS Adblock List]
+      ! Title: ${name}
+      ! Last Modified: ${date}
+      ! Homepage: https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber
+      ! Power by: https://github.com/fordes123/ad-filters-subscriber/
+      ! Raw Link: https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/${name}
+      ###########
 
     path: rule #输出规则文件的路径，支持绝对/相对路径
     #输出规则文件列表 （！注意缩进，且每个类型只能输出一个文件）
@@ -62,14 +143,3 @@ application:
           - basic
           - wildcard
 
-      - name: dnsmasq.txt
-        type: dnsmasq
-
-      - name: clash.yaml
-        type: clash
-
-      - name: smartdns.txt
-        type: smartdns
-
-      - name: hosts.txt
-        type: hosts
