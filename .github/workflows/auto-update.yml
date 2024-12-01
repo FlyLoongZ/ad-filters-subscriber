@@ -7,7 +7,6 @@ on:
       - '.github/**'
       - '.devcontainer/**'
       - 'LICENSE'
-    branches: [ main ]
   schedule:
     - cron: 0 */8 * * *
   workflow_dispatch:
@@ -21,14 +20,17 @@ jobs:
     permissions:
       contents: write
       actions: write
-      
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Set up JDK 17
-        uses: actions/setup-java@v3
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          java-version: '17'
+          ref: ${{ github.head_ref }}
+
+      - name: Set up JDK 21
+        uses: actions/setup-java@v4
+        with:
+          java-version: '21'
           distribution: 'temurin'
           cache: maven
 
@@ -37,19 +39,9 @@ jobs:
 
       - name: Commit Changes
         id: commit
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 🚀 CI Updated
-
-      - name: GitHub Push
-        if: steps.commit.outputs.changes_detected == 'true'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{secrets.GITHUB_TOKEN}}
-          branch: ${{github.ref}}
-
-      - name: Mirror Refresh
-        run: sleep 10 && curl 'https://purge.jsdelivr.net/gh/${{github.repository}}/rule'
 
       - name: Delete Workflow Runs
         uses: Mattraks/delete-workflow-runs@v2
