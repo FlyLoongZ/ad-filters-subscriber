@@ -1,15 +1,14 @@
 ## AD Filter Subscriber
 
-广告过滤规则整合，使用 [fordes123/ad-filters-subscriber](https://github.com/fordes123/ad-filters-subscriber) 定时更新,添加GitLab CI支持
-> AdGuard 客户端 (软件、扩展)、AdBlock、AdBlockPlus、uBlock Origin 推荐使用：`all.txt`  
+广告过滤规则整合，fork [fordes123/ad-filters-subscriber](https://github.com/fordes123/ad-filters-subscriber) ,添加GitLab CI支持
+> AdGuard 客户端 (软件、扩展)、AdBlock、AdBlockPlus、uBlock Origin 推荐使用：`easylist.txt`  
 > AdGuard Home 推荐使用：`dns.txt`  
-> AdAway 等其他仅支持 hosts 的工具，推荐使用：`hosts.txt`
 
 | 名称          | 说明                                    | GitLab                                                                                 |
 |---------------|:----------------------------------------|:-------------------------------------------------------------------------------------:|
-| `all.txt`     | 完整规则，适用于 `AdGuard`、`AdBlock`等   | [Link](https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/all.txt) |
+| `easylist.txt`     | 完整规则，适用于 `AdGuard`、`AdBlock`等   | [Link](https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/all.txt) |
 | `dns.txt`     | 适用于 `AdGuard Home` 等基于DNS的过滤工具 | [Link](https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/dns.txt) |
-| `hosts.txt`   | 仅包含 `HOSTS` 规则                      | [Link](https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/hosts.txt) |
+
 
 #### 上游规则
 
@@ -33,5 +32,4 @@
 - [乘风通用过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 - [NEO DEV HOST](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker)
 - [oisd big](https://big.oisd.nl)
-- [1Host - Lite](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt)
 - [HaGeZi's Normal DNS Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt)
