@@ -31,5 +31,3 @@
 - [乘风视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt)
 - [乘风通用过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 - [NEO DEV HOST](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker)
-- [oisd big](https://big.oisd.nl)
-- [HaGeZi's Normal DNS Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt)
