@@ -98,7 +98,7 @@ application:
 
       - name: NEO DEV HOST
         path: https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
-        type: hosts
+        type: asylist
 
     #本地规则文件
     local:
