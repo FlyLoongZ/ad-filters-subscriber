@@ -42,31 +42,31 @@ application:
 
       - name: d3Host List by d3ward
         path: https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-        type: easylist
+        type: hosts
 
       - name: AdAway default blocklist
         path: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
-        type: easylist
+        type: hosts
 
       - name: 大圣净化
         path: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-        type: easylist
+        type: hosts
 
       - name: WindowsSpyBlocker
         path: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
-        type: easylist
+        type: hosts
 
       - name: NoTrack Malware Blocklist
         path: https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/malware.hosts
-        type: easylist
+        type: hosts
 
       - name: Hosts contributed by Steven Black
         path: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-        type: easylist
+        type: hosts
 
       - name: This hosts file is brought to you by Dan Pollock and can be found at
         path: https://someonewhocares.org/hosts/zero/hosts
-        type: easylist
+        type: hosts
 
       - name: CJX's Annoyance List
         path: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
@@ -98,7 +98,7 @@ application:
 
       - name: NEO DEV HOST
         path: https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
-        type: easylist
+        type: hosts
 
     #本地规则文件
     local:
