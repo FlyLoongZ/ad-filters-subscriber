@@ -1,6 +1,6 @@
 {
-    "name": "ad filter",
-    "homepage": "https://example.org/",
+    "name": "Ad filter",
+    "homepage": "https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber",
     "sources": [
       {
         "name": "Local rules",
