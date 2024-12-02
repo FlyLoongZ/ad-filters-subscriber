@@ -1,7 +1,7 @@
 !
 ! Title: Ad filter
 ! Homepage: https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber
-! Last modified: 2024-12-02T05:20:47.823Z
+! Last modified: 2024-12-02T05:26:24.240Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
