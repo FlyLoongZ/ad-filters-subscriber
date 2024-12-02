@@ -100,14 +100,6 @@ application:
         path: https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
         type: easylist
 
-      - name: oisd big
-        path: https://big.oisd.nl
-        type: easylist
-
-      - name: HaGeZi's Normal DNS Blocklist
-        path: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt
-        type: easylist
-
     #本地规则文件
     local:
       - name: 'local rule'
