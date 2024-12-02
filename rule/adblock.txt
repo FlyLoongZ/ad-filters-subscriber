@@ -1,13 +1,14 @@
 !
 ! Title: Ad filter
 ! Homepage: https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber
-! Last modified: 2024-12-02T05:26:24.240Z
+! Last modified: 2024-12-02T13:40:37.568Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
 @@||app.chat.xiaomi.net
 @@||resolver.msg.xiaomi.net
 @@||data.bilibili.com
+||black.qimo.ink
 ||joogruphezefaul.net^
 ||legiblyosmols.top^
 ||medbroadcast.com^
@@ -942,6 +943,8 @@
 ||newbluetrue.xyz^
 ||onemediawork.com^
 ||d162h6x3rxav67.cloudfront.net^
+||openx.tiesraides.lv^
+||ctent.povvverz.one^
 ||az-neverblock.aznude.workers.dev^
 ||creatives.wetransfer.net^
 ||ad.wrtn.ai^
@@ -36128,6 +36131,7 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||analytics.shorthand.com^
 ||gh.fanatical.com^
 ||heartbeat.crackle.com^
 ||event.geniee-search.net^
@@ -39298,7 +39302,6 @@ inapps.appsflyersdk.com^
 ||analytics.reyrey.net^
 ||analytics.rogersmedia.com^
 ||analytics.salesanalytics.io^
-||analytics.shorthand.com^
 ||analytics.sleeknote.com^
 ||analytics.snidigital.com^
 ||analytics.strangeloopnetworks.com^
@@ -45101,6 +45104,7 @@ inapps.appsflyersdk.com^
 ||adreach.co^
 ||adreviewcamp.com^
 ||ads-link.net^
+||ads.d21.media^
 ||ads.indosatooredoo.com^
 ||ads.telkomsel.com^
 ||adsbingo.com^
@@ -50764,6 +50768,11 @@ inapps.appsflyersdk.com^
 ||cnzz.trafficmanager.net^
 ||sconat.com^
 ||cidhmxxb.icu^
+||ig69.vip^
+||qdamcsy.top^
+||dv0i.icu^
+||4cx5.icu^
+||criqai.com^
 ||jcwlsofn.icu^
 ||brircel.com^
 ||af6s.icu^
