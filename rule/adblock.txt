@@ -1,7 +1,7 @@
 !
-! Title: ad filter
-! Homepage: https://example.org/
-! Last modified: 2024-12-02T05:14:20.543Z
+! Title: Ad filter
+! Homepage: https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber
+! Last modified: 2024-12-02T05:20:47.823Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
