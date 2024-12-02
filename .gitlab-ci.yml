@@ -1,4 +1,4 @@
-image: maven:eclipse-temurin
+image: node:current
 
 stages:
   - Update
@@ -6,8 +6,8 @@ stages:
 Update Filters:
   stage: Update
   script:
-    - mvn spring-boot:run
-    - rm -rf logs
+    - npm i -g @adguard/hostlist-compiler 
+    - hostlist-compiler -c source.json -o rule/adblock.txt
     - git config user.email "ci@example.com"
     - git config user.name "CI"
     - git add .

@@ -1,13 +1,11 @@
 ## AD Filter Subscriber
 
-广告过滤规则整合，fork [fordes123/ad-filters-subscriber](https://github.com/fordes123/ad-filters-subscriber) ,添加GitLab CI支持
-> AdGuard 客户端 (软件、扩展)、AdBlock、AdBlockPlus、uBlock Origin 推荐使用：`easylist.txt`  
-> AdGuard Home 推荐使用：`dns.txt`  
+广告过滤规则整合，power by [Adguard/HostlistCompiler](https://github.com/AdguardTeam/HostlistCompiler)
 
 | 名称          | 说明                                    | GitLab                                                                                 |
 |---------------|:----------------------------------------|:-------------------------------------------------------------------------------------:|
-| `easylist.txt`     | 完整规则，适用于 `AdGuard`、`AdBlock`等   | [Link](https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/all.txt) |
-| `dns.txt`     | 适用于 `AdGuard Home` 等基于DNS的过滤工具 | [Link](https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/dns.txt) |
+| `adblock.txt`     | 完整规则   | [Link](https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/adblock.txt) |
+
 
 
 #### 上游规则
@@ -18,11 +16,9 @@
 - [Fanboy's Annoyance List](https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt)
 - [d3Host List by d3ward](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt)
 - [AdAway default blocklist](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt)
-- [大圣净化](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts)
 - [WindowsSpyBlocker](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 - [NoTrack Malware Blocklist](https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/malware.hosts)
 - [Hosts contributed by Steven Black](https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts)
-- [This hosts file is brought to you by Dan Pollock and can be found at](https://someonewhocares.org/hosts/zero/hosts)
 - [CJX's Annoyance List](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
 - [AWAvenue 秋风广告规则](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 - [NoAppDownload](https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt)
