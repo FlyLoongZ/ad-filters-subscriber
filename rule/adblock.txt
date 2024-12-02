@@ -1,7 +1,7 @@
 !
 ! Title: ad filter
 ! Homepage: https://example.org/
-! Last modified: 2024-12-02T04:27:06.216Z
+! Last modified: 2024-12-02T05:14:20.543Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
