@@ -1,6 +1,0 @@
-# mipush
-@@||app.chat.xiaomi.net
-@@||resolver.msg.xiaomi.net
-
-# bilibili history
-@@||data.bilibili.com
