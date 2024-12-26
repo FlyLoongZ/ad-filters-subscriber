@@ -1,8 +1,8 @@
 !
-! Checksum: DOffb3TmEbow22vOD6LHqw
+! Checksum: SsmPkT9M+HaAF4LdOWeM5w
 ! Title: Ad filter
 ! Homepage: https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber
-! Last modified: 2024-12-26T06:05:59.447Z
+! Last modified: 2024-12-26T06:08:56.107Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
