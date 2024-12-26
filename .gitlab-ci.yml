@@ -8,6 +8,8 @@ Update Filters:
   script:
     - npm i -g @adguard/hostlist-compiler 
     - hostlist-compiler -c source.json -o rule/adblock.txt
+    - python3 ./smartdns-ad.py
+    - python3 ./smartdns-ad-white.py
     - git config user.email "ci@gitlab.com"
     - git config user.name "CI"
     - git add .
