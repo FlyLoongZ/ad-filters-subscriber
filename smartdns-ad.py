@@ -3,7 +3,7 @@ import re
 # 指定输入文件的路径
 input_file_path = "./rule/adblock.txt"
 # 指定输出文件的路径
-output_file_path = "./rule/smartdns-ad.conf"
+output_file_path = "./rule/smartdns-ad.txt"
 
 # 正则表达式模式，用于匹配以 || 开头，后跟任意字符（非贪婪），直到遇到 ^
 url_pattern = re.compile(r'^\|\|(.*?)\^$', re.MULTILINE)
