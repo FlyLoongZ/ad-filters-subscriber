@@ -6,4 +6,4 @@
 @@||data.bilibili.com
 
 # biliroamingx ban url
-||black.qimo.ink
+||black.qimo.ink^
