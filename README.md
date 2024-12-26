@@ -1,10 +1,13 @@
 ## AD Filter Subscriber
 
-广告过滤规则整合，power by [Adguard/HostlistCompiler](https://github.com/AdguardTeam/HostlistCompiler)
+广告过滤规则整合，power by [Adguard/HostlistCompiler](https://github.com/AdguardTeam/HostlistCompiler) and Python
 
 | 名称          | 说明                                    | GitLab                                                                                 |
 |---------------|:----------------------------------------|:-------------------------------------------------------------------------------------:|
 | `adblock.txt`     | 完整规则   | [Link](https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/adblock.txt) |
+| `smartdns-ad.txt`     | 不完整规则   | [Link](https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/smartdns-ad.txt) |
+| `smartdns-ad-white.txt`     | 不完整规则   | [Link](https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/smartdns-ad-white.txt) |
+
 
 
 
