@@ -18,9 +18,12 @@ try:
 
     # 将提取的网址写入到输出文件中
     with open(output_file_path, 'w') as file:
-        for url in urls:
-            # 由于正则表达式捕获了结尾的 ^ 或 ^|，我们需要去掉这些字符
-            clean_url = url[0] + url[1] if url[1] == '^' else url[0]
+        for url_tuple in urls:
+            # 提取第一个捕获组的内容（真正的网址主体部分）
+            clean_url = url_tuple[0]
+            # 判断第二个捕获组是否匹配到了 ^，如果是，去除多余的 ^
+            if url_tuple[1] == '^':
+                clean_url = clean_url.rstrip('^')
             file.write(clean_url + '\n')
 
     print(f'网址已成功写入到文件 {output_file_path} 中。')
