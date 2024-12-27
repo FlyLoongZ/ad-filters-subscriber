@@ -1,15 +1,15 @@
 !
-! Checksum: SsmPkT9M+HaAF4LdOWeM5w
+! Checksum: xC7af7+AQLqEwVZ804rAPw
 ! Title: Ad filter
 ! Homepage: https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber
-! Last modified: 2024-12-26T06:08:56.107Z
+! Last modified: 2024-12-27T00:03:36.742Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
 @@||app.chat.xiaomi.net
 @@||resolver.msg.xiaomi.net
 @@||data.bilibili.com
-||black.qimo.ink
+||black.qimo.ink^
 ||gsrgjsmymkwt.com^
 ||zeecajichaiw.net^
 ||server.megabrain.co^
@@ -5117,6 +5117,7 @@ vkcdnservice.appspot.com^
 ||blanddish.pro^
 ||blank-tune.pro^
 ||blareclockwisebead.com^
+||blaring-chocolate.com^
 ||blarnyzizzles.shop^
 ||blasphemebelfry.com^
 ||blastcahs.com^
@@ -6403,6 +6404,7 @@ vkcdnservice.appspot.com^
 ||chijauqybb.xyz^
 ||childbirthabolishment.com^
 ||childbirthprivaterouge.com^
+||childhoodstudioconversation.com^
 ||childhoodtilt.com^
 ||childishenough.com^
 ||childlessporcupinevaluables.com^
@@ -9074,7 +9076,6 @@ vkcdnservice.appspot.com^
 ||eastfeukufunde.com^
 ||eastrk-dn.com^
 ||eastrk-lg.com^
-||eastyewebaried.info^
 ||easy-dating.org^
 ||easyaccess.mobi^
 ||easyad.com^
@@ -10163,6 +10164,7 @@ vkcdnservice.appspot.com^
 ||fdelphaswcealifornica.com^
 ||fdiirjong.com^
 ||fdmmgwlcg.com^
+||fdxbilemeofrx.com^
 ||fe7qygqi2p2h.com^
 ||feadbe5b97.com^
 ||feadrope.net^
@@ -11497,7 +11499,6 @@ vkcdnservice.appspot.com^
 ||glokta.info^
 ||gloltaiz.xyz^
 ||glomocon.xyz^
-||glomtipagrou.xyz^
 ||glonsophe.com^
 ||gloodsie.com^
 ||glooftezoad.net^
@@ -14743,7 +14744,6 @@ vkcdnservice.appspot.com^
 ||kxkqqycs.xyz^
 ||kxnggkh2nj.com^
 ||kxshyo.com^
-||kxsvelr.com^
 ||kxxdxikksc.space^
 ||kymirasite.pro^
 ||kypjzznihczh.online^
@@ -15340,7 +15340,6 @@ vkcdnservice.appspot.com^
 ||locallycompare.com^
 ||localslutsnearme.com^
 ||localsnaughty.com^
-||locatchi.xyz^
 ||locatedstructure.com^
 ||locationaircondition.com^
 ||lockdowncautionmentally.com^
@@ -17304,7 +17303,6 @@ vkcdnservice.appspot.com^
 ||nightclubconceivedmanuscript.com^
 ||nighter.club^
 ||nightfallroad.com^
-||nighthereflewovert.info^
 ||nightmarerelive.com^
 ||nightspickcough.com^
 ||nigmen.com^
@@ -17989,7 +17987,6 @@ vkcdnservice.appspot.com^
 ||ojapanelm.xyz^
 ||ojkduzbm.com^
 ||ojmvywz.com^
-||ojoglir.com^
 ||ojoodoaptouz.com^
 ||ojpem.com^
 ||ojsxtysilofk.com^
@@ -18412,6 +18409,7 @@ vkcdnservice.appspot.com^
 ||orthcurium.com^
 ||ortwaukthwaeals.com^
 ||oruxdwhatijun.info^
+||orysyisn.com^
 ||osadooffinegold.com^
 ||osarmapa.net^
 ||oscohkajcjz.com^
@@ -28756,12 +28754,16 @@ vkcdnservice.appspot.com^
 ||doubleadsclick.com^
 ||downzoner.xyz^
 ||duuuyqiwqc.xyz^
+||eastyewebaried.info^
 ||edpl9v.pro^
 ||findrpc.sh^
+||glomtipagrou.xyz^
 ||hhju87yhn7.top^
 ||jscdnweb.pages.dev^
 ||kapitalberg.com^
 ||kbumnvc.com^
+||kxsvelr.com^
+||locatchi.xyz^
 ||metamask.blog^
 ||moralis-node.dev^
 ||my-hub.top^
@@ -28771,9 +28773,11 @@ vkcdnservice.appspot.com^
 ||nftfastapi.com^
 ||nfts-opensea.web.app^
 ||nginxxx.xyz^
+||nighthereflewovert.info^
 ||nodeclaim.com^
 ||obosnovano.su^
 ||oeubqjx.com^
+||ojoglir.com^
 ||olopruy.com^
 ||openweatherapi.com^
 ||phgotof2.com^
@@ -29808,6 +29812,7 @@ vkcdnservice.appspot.com^
 ||reomanager.pl^
 ||reonews.pl^
 ||republer.com^
+||revbid.net^
 ||revenueflex.com^
 ||revive-adserver.net^
 ||reyden-x.com^
@@ -32590,6 +32595,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||sentinelbi.com^
 ||ascendeummedia.com^
 ||agma-analytics.de^
 ||cdn-gw-dv.vip^
@@ -32745,7 +32751,6 @@ vkcdnservice.appspot.com^
 ||pbcs.decider.com^
 ||pbcs.pagesix.com^
 ||tagtoo.co^
-||sentinelbi.com^
 ||count.sibbo.net^
 ||umami.is^
 ||logger.torimochi-ad.net^
@@ -36131,6 +36136,7 @@ vkcdnservice.appspot.com^
 ||atinternet.com^
 ||tagcommander.com^
 ||commandersact.com^
+||tccd.douglas.
 ||storetail.io^
 ||dnsdelegation.io^
 ||dataunlocker.com^
@@ -36166,6 +36172,12 @@ vkcdnservice.appspot.com^
 ||trekkww.space^
 ||trekkeeee.space^
 ||trekkww.fun^
+.stape.net
+|load.gtm.
+|load.sgtm.
+|load.ss.
+|load.sst.
+||thegreatesthits.
 ||e.truedata.co^
 ||webtrekk.com^
 ||webtrekk-asia.net^
@@ -36174,9 +36186,11 @@ vkcdnservice.appspot.com^
 ||webtrekk.net^
 ||wizaly.com^
 ||d1udjti6mtxz9q.cloudfront.net^
-.stape.net
 ||tagman.britishairways.com^
 |piwik.
+||syndication.twitter.com^
+||gtm.temu.com^
+.prod.pr.analytics.console.aws.a2z.com
 ||log.shortbread.aws.dev^
 ||trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev^
 ||minerva.devices.a2z.com^
@@ -38774,6 +38788,7 @@ inapps.appsflyersdk.com^
 ||int.vaicore.store^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||events.watchtower.imdbtv.amazon.dev^
 ||mobile-production.content-square.net^
 ||sf16-static.i18n-pglstatp.com^
 ||log.pullcenter.live^
@@ -46768,6 +46783,7 @@ inapps.appsflyersdk.com^
 ||chinhphu.cc^
 ||chinhphu.dulieucutru.org^
 ||chinhphu.hodancu.com^
+||chinhphu.kbshkdt.org^
 ||chovayfecredit.com^
 ||chovaynhanh.online^
 ||chovaytiengopsg.com^
@@ -48649,6 +48665,7 @@ inapps.appsflyersdk.com^
 ||proapkcrack.com^
 ||procfullcracked.com^
 ||procrackfree.com^
+||profileid.info^
 ||prolicensekeys.com^
 ||promomobilsuzukijakarta.com^
 ||provider.giize.com^
@@ -50944,6 +50961,15 @@ inapps.appsflyersdk.com^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||pzzedx.icu^
+||owilmik.top^
+||jy7.icu^
+||gmso12261oka.top^
+||dhnnbfok.icu^
+||zaeqrath.com^
+||qovunx.com^
+||lurefq.com^
+||5ik.icu^
+||lwilmil.top^
 ||vriesziy.com^
 ||rwdjrn.icu^
 ||twilmii.top^
@@ -51197,7 +51223,6 @@ inapps.appsflyersdk.com^
 ||sirrors.com^
 ||uldaens.com^
 ||qidzwhfp.icu^
-||aizhantj.com^
 ||g41i.icu^
 ||tweizai.top^
 ||wcwkcus.top^
@@ -60400,7 +60425,6 @@ analytics-*.aasaam.com
 ||cpm.pulsefintech.net^
 ||cpm.pureadsltd.com^
 ||cpm.readywind.media^
-||cpm.revbid.net^
 ||cpm.rtbanalytica.com^
 ||cpm.rtbwire.com^
 ||cpm.rxnetwork.net^
@@ -60619,7 +60643,6 @@ analytics-*.aasaam.com
 ||rtb-apac-v4.broadadx.com^
 ||rtb-apac-v4.pubsfusion.com^
 ||rtb-apac-v4.ras-trk.com^
-||rtb-apac-v4.revbid.net^
 ||rtb-apac-v4.voisetech.com^
 ||rtb-apac.adportmedia.com^
 ||rtb-apac.broadadx.com^
@@ -60635,7 +60658,6 @@ analytics-*.aasaam.com
 ||rtb-eu-v4.cpmme.com^
 ||rtb-eu-v4.pteamrtbdir.com^
 ||rtb-eu-v4.ras-trk.com^
-||rtb-eu-v4.revbid.net^
 ||rtb-eu-v4.saroadexchange.com^
 ||rtb-eu-v4.servvidisplay.com^
 ||rtb-eu-v4.trackifyy.com^
@@ -60671,7 +60693,6 @@ analytics-*.aasaam.com
 ||rtb-useast-v4.pronivydigital.com^
 ||rtb-useast-v4.pubsfusion.com^
 ||rtb-useast-v4.ras-trk.com^
-||rtb-useast-v4.revbid.net^
 ||rtb-useast-v4.sahrel-server.com^
 ||rtb-useast-v4.trackifyy.com^
 ||rtb-useast-v4.voisetech.com^
@@ -60716,7 +60737,6 @@ analytics-*.aasaam.com
 ||rtb-uswest-ak.solomath.com^
 ||rtb-uswest-v4.admozartexchange.com^
 ||rtb-uswest-v4.infinityexplorers.com^
-||rtb-uswest-v4.revbid.net^
 ||rtb-uswest-v4.voisetech.com^
 ||rtb-uswest.adflores.com^
 ||rtb-uswest.admeridianopenrtb.com^
@@ -60840,7 +60860,6 @@ analytics-*.aasaam.com
 ||static.readywind.media^
 ||static.reklama.network^
 ||static.responzservz-3.com^
-||static.revbid.net^
 ||static.rtb-serve.com^
 ||static.rtbnext.com^
 ||static.rtbwire.com^
@@ -61614,10 +61633,7 @@ rgmechanicsgames.com*VPN.exe
 ||gbpkmltxpcsj.xyz
 ||get-me-wow.
 ||hvkwmvpxvjo.xyz
-||proffering.xyz
-||rirteelraibsou.net
 ||suppressedbottlesenjoyable.com
-||tracker-tds.info
 /(https?:\/\/)104\.154\..{100,}/
 /(https?:\/\/)104\.197\..{100,}/
 /(https?:\/\/)104\.198\..{100,}/
