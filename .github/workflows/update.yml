@@ -39,7 +39,7 @@ jobs:
           git config --local user.name "GitHub Action"
           current_time=$(date +'%Y-%m-%d %H:%M:%S')
           git add .
-          git commit -m "🚀Update ad rule $current_time"
+          git commit -m "🚀Update rule $current_time UTC"
         else
           echo "No changes to commit."
         fi
