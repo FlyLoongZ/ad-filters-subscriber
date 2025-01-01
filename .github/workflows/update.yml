@@ -1,0 +1,51 @@
+name: Update Adblock Rules
+
+permissions:
+  contents: write
+  
+on:
+  schedule:
+    - cron: "30 0 */2 * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Build adguardhome rule
+      run: |
+        npm install -g @adguard/hostlist-compiler
+        hostlist-compiler -c source.json -o rule/adblock.txt
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Build smartdns rule
+      run: |
+        python3 ./smartdns-ad.py
+        python3 ./smartdns-ad-white.py
+
+    - name: Check for changes
+      run: |
+        if ! git diff --quiet; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          current_time=$(date +'%Y-%m-%d %H:%M:%S')
+          git add .
+          git commit -m "🚀Update ad rule $current_time"
+        else
+          echo "No changes to commit."
+        fi
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: master
