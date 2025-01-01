@@ -4,9 +4,9 @@
 
 | 名称          | 说明                                    | GitLab                                                                                 |
 |---------------|:----------------------------------------|:-------------------------------------------------------------------------------------:|
-| `adblock.txt`     | 完整规则   | [Link](https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/adblock.txt) |
-| `smartdns-ad.txt`     | 不完整规则   | [Link](https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/smartdns-ad.txt) |
-| `smartdns-ad-white.txt`     | 不完整规则   | [Link](https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/smartdns-ad-white.txt) |
+| `adblock.txt`     | 完整规则   | [Link]([https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/adblock.txt](https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/main/rule/adblock.txt)) |
+| `smartdns-ad.txt`     | 不完整规则   | [Link]([https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/smartdns-ad.txt](https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/main/rule/smartdns-ad.txt)) |
+| `smartdns-ad-white.txt`     | 不完整规则   | [Link]([https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/smartdns-ad-white.txt](https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/main/rule/smartdns-ad-white.txt)) |
 
 
 
