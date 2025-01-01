@@ -2,14 +2,12 @@
 
 广告过滤规则整合，power by [Adguard/HostlistCompiler](https://github.com/AdguardTeam/HostlistCompiler) and Python
 
-| 名称          | 说明                                    | GitLab                                                                                 |
-|---------------|:----------------------------------------|:-------------------------------------------------------------------------------------:|
-| `adblock.txt`     | 完整规则   | [Link]([https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/adblock.txt](https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/main/rule/adblock.txt)) |
-| `smartdns-ad.txt`     | 不完整规则   | [Link]([https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/smartdns-ad.txt](https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/main/rule/smartdns-ad.txt)) |
-| `smartdns-ad-white.txt`     | 不完整规则   | [Link]([https://gitlab.com/FlyLoongZhuo/ad-filters-subscriber/-/raw/main/rule/smartdns-ad-white.txt](https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/main/rule/smartdns-ad-white.txt)) |
-
-
-
+| 名称 | 说明 | GitHub | ghproxy |
+|---|---|---|---|
+| `adblock.txt` | 完整规则 | [Link](https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/main/rule/adblock.txt) | [Link](https://ghproxy.net/https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/main/rule/adblock.txt) |
+| `smartdns-ad.txt` | 黑名单 | [Link](https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/main/rule/smartdns-ad.txt) | [Link](https://ghproxy.net/https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/main/rule/smartdns-ad.txt) |
+| `smartdns-ad-white.txt` | 白名单 | [Link](https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/main/rule/smartdns-ad-white.txt) | [Link](https://ghproxy.net/https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/main/rule/smartdns-ad-white.txt) |
+> 黑名单 + 白名单 = 完整规则
 
 #### 上游规则
 
