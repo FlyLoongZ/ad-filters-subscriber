@@ -17,15 +17,15 @@ jobs:
       with:
         node-version: '18'
 
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.13'
+
     - name: Build adguardhome rule
       run: |
         npm install -g @adguard/hostlist-compiler
         hostlist-compiler -c source.json -o rule/adblock.txt
-
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
 
     - name: Build smartdns rule
       run: |
@@ -48,4 +48,4 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: master
+        branch: main
