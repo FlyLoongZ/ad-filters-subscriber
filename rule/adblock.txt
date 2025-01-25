@@ -1,7 +1,7 @@
 !
 ! Title: Ad filter
 ! Homepage: https://github.com/FlyLoongZ/ad-filters-subscriber
-! Last modified: 2025-01-23T01:55:18.351Z
+! Last modified: 2025-01-25T01:50:32.081Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -9,6 +9,7 @@
 @@||resolver.msg.xiaomi.net^
 @@||data.bilibili.com^
 ||black.qimo.ink^
+||wobbly-birth.com^
 ||hotbraraja.cc^
 ||unactkiosk.com^
 ||pinco225.win^
@@ -2762,6 +2763,7 @@ vkcdnservice.appspot.com^
 ||aeffe3nhrua5hua.com^
 ||aegagrilariats.top^
 ||aelgdju.com^
+||aemghfxq.com^
 ||aenoprsouth.com^
 ||aeolinemonte.shop^
 ||aerialmistaken.com^
@@ -3378,6 +3380,7 @@ vkcdnservice.appspot.com^
 ||ampxchange.com^
 ||amre.work^
 ||amshroomishan.com^
+||amtmenlana.com^
 ||amtracking01.com^
 ||amtropiusr.com^
 ||amucresol.com^
@@ -3700,6 +3703,7 @@ vkcdnservice.appspot.com^
 ||argumentsadrenaline.com^
 ||argumentsmaymadly.com^
 ||arilsoaxie.xyz^
+||ariotgribble.com^
 ||aristianewr.club^
 ||arithpouted.com^
 ||arkdcz.com^
@@ -4023,6 +4027,7 @@ vkcdnservice.appspot.com^
 ||atthewonderfu.com^
 ||atticepuces.com^
 ||atticshepherd.com^
+||attingepicrate.com^
 ||attractioninvincibleendurance.com^
 ||attractivesurveys.com^
 ||attractwarningkeel.com^
@@ -4304,6 +4309,7 @@ vkcdnservice.appspot.com^
 ||aymobi.online^
 ||ayrather.com^
 ||aywivflptwd.com^
+||aywnaoliigc.com^
 ||ayzylwqazaemj.top^
 ||azads.com^
 ||azawv.rocks^
@@ -4386,6 +4392,7 @@ vkcdnservice.appspot.com^
 ||backsweka.com^
 ||backupcelebritygrave.com^
 ||baconbedside.com^
+||baculeprudery.com^
 ||badeldestarticulate.com^
 ||badgeclodvariable.com^
 ||badgegirdle.com^
@@ -4494,6 +4501,7 @@ vkcdnservice.appspot.com^
 ||barbecuedilatefinally.com^
 ||barbmerchant.com^
 ||bardatm.ru^
+||bardeearmsize.com^
 ||bardicjazzed.com^
 ||barecurldiscovering.com^
 ||barefootedleisurelypizza.com^
@@ -4608,6 +4616,7 @@ vkcdnservice.appspot.com^
 ||be51586160.com^
 ||bea988787c.com^
 ||beachanatomyheroin.com^
+||beaconyirred.com^
 ||beakerweedjazz.com^
 ||beakexcursion.com^
 ||beakobjectcaliber.com^
@@ -4807,6 +4816,7 @@ vkcdnservice.appspot.com^
 ||berush.com^
 ||berwickveered.shop^
 ||besandileom.com^
+||besaylecran.com^
 ||besidesparties.com^
 ||besitreggae.com^
 ||besmeargleor.com^
@@ -5755,6 +5765,7 @@ vkcdnservice.appspot.com^
 ||businessmenmerchandise.com^
 ||businesstremendoushad.com^
 ||buskerreshoes.website^
+||bustaumtatelt.net^
 ||busticsfibrose.com^
 ||bustlefungus.com^
 ||bustlemiszone.com^
@@ -5966,6 +5977,7 @@ vkcdnservice.appspot.com^
 ||capricetheme.com^
 ||captainad.com^
 ||captchafine.live^
+||captionconjecture.com^
 ||captivatecustomergentlemen.com^
 ||captivatepestilentstormy.com^
 ||captivebleed.com^
@@ -6056,6 +6068,7 @@ vkcdnservice.appspot.com^
 ||catgride.com^
 ||catharskeek.top^
 ||cathedralinthei.info^
+||cathodeoutwood.com^
 ||catholicprevalent.com^
 ||cathrynslues.com^
 ||catiligh.ru^
@@ -6809,6 +6822,7 @@ vkcdnservice.appspot.com^
 ||cmclean.club^
 ||cmfads.com^
 ||cmhoriu.com^
+||cmjvuwtgfzl.com^
 ||cmpgns.net^
 ||cmpsywu.com^
 ||cmrdr.com^
@@ -7587,7 +7601,9 @@ vkcdnservice.appspot.com^
 ||cuesingle.com^
 ||cuevastrck.com^
 ||cufultahaur.com^
+||cugaksoogleptix.xyz^
 ||cuhlsl.info^
+||cuinageaquilid.com^
 ||cuisineenvoyadvertise.com^
 ||cuisineomnipresentinfinite.com^
 ||cullemple-motline.com^
@@ -7876,6 +7892,7 @@ vkcdnservice.appspot.com^
 ||datingtopgirls.com^
 ||datingvr.ru^
 ||datqagdkurce.com^
+||datsunepizzoa.com^
 ||daughterinlawrib.com^
 ||daughtersarbourbarrel.com^
 ||daukshewing.com^
@@ -8106,6 +8123,7 @@ vkcdnservice.appspot.com^
 ||delusionpenal.com^
 ||delutza.com^
 ||deluxe-download.com^
+||delveactivity.com^
 ||demanding-application.pro^
 ||demba.xyz^
 ||demeanourgrade.com^
@@ -8636,6 +8654,7 @@ vkcdnservice.appspot.com^
 ||doastaib.xyz^
 ||doblazikena.com^
 ||doblonsurare.shop^
+||dociblessed.com^
 ||dockboulevardshoes.com^
 ||dockdeity.com^
 ||dockoolser.net^
@@ -8918,6 +8937,7 @@ vkcdnservice.appspot.com^
 ||ds3.biz^
 ||ds7hds92.de^
 ||dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz^
+||dseveralmefarketi.com^
 ||dsnextgen.com^
 ||dsoodbye.xyz^
 ||dsp.wtf^
@@ -9235,6 +9255,7 @@ vkcdnservice.appspot.com^
 ||edgbas.com^
 ||edgevertise.com^
 ||edgychancymisuse.com^
+||edgypollnormandy.com^
 ||ediatesuperviso.com^
 ||edibleinvite.com^
 ||edingrigoguter.com^
@@ -9659,6 +9680,7 @@ vkcdnservice.appspot.com^
 ||eplndhtrobl.com^
 ||epnredirect.ru^
 ||epochheelbiography.com^
+||epreswsentativ.com^
 ||epsaivuz.com^
 ||epsashoofil.net^
 ||epsauthoup.com^
@@ -11407,6 +11429,7 @@ vkcdnservice.appspot.com^
 ||getyoursoft.ru^
 ||gevmrjok.com^
 ||gforanythingam.com^
+||gfrekjhrlc.com^
 ||gfsdloocn.com^
 ||gfstrck.com^
 ||gfufutakba.com^
@@ -11428,6 +11451,7 @@ vkcdnservice.appspot.com^
 ||ggxcoez.com^
 ||ggxqzamc.today^
 ||gharryronier.click^
+||ghcaoaefmj.com^
 ||ghettosteal.shop^
 ||ghhleiaqlm.com^
 ||ghlyrecomemurg.com^
@@ -14557,6 +14581,7 @@ vkcdnservice.appspot.com^
 ||kauleeci.com^
 ||kauraishojy.com^
 ||kaurieseluxate.com^
+||kauriessizzler.shop^
 ||kaushooptawo.net^
 ||kauzishy.com^
 ||kavanga.ru^
@@ -15700,6 +15725,7 @@ vkcdnservice.appspot.com^
 ||lousyfastened.com^
 ||louxoxo.com^
 ||love-world.me^
+||lovedenimori.com^
 ||lovehiccuppurple.com^
 ||lovely-sing.pro^
 ||lovelybingo.com^
@@ -17527,6 +17553,7 @@ vkcdnservice.appspot.com^
 ||ngjgnidajyls.xyz^
 ||nglestpeoplesho.com^
 ||nglmedia.com^
+||ngplansforourco.com^
 ||ngshospicalada.com^
 ||ngsinspiringtga.info^
 ||ngvcalslfbmtcjq.xyz^
@@ -18954,6 +18981,7 @@ vkcdnservice.appspot.com^
 ||owlerydominos.cam^
 ||owlunimmvn.com^
 ||owndata.network^
+||ownhoodmucro.shop^
 ||ownzzohggdfb.com^
 ||owojqopr.com^
 ||owppijqakeo.com^
@@ -19046,6 +19074,7 @@ vkcdnservice.appspot.com^
 ||pafteejox.com^
 ||pagejunky.com^
 ||pagemystery.com^
+||paginaltreitre.shop^
 ||pagnawhouk.net^
 ||paguridrenilla.com^
 ||pahbasqibpih.com^
@@ -19687,6 +19716,7 @@ vkcdnservice.appspot.com^
 ||pihmvhv.com^
 ||pihu.xxxpornhd.pro^
 ||pihzhhn.com^
+||piiqrmvymwue.world^
 ||pilapilkelps.shop^
 ||pilaryhurrah.com^
 ||piledannouncing.com^
@@ -20848,6 +20878,7 @@ vkcdnservice.appspot.com^
 ||puqvwadzaa.com^
 ||puranasebriose.top^
 ||puranaszaramo.com^
+||purchase-shop.com^
 ||purchaserdisgustingwrestle.com^
 ||purchasertormentscoundrel.com^
 ||purgeregulation.com^
@@ -21440,6 +21471,7 @@ vkcdnservice.appspot.com^
 ||rauceesh.com^
 ||raudoufoay.com^
 ||raufajoo.net^
+||rauheestuma.xyz^
 ||raujouca.com^
 ||raumipti.net^
 ||raunooligais.net^
@@ -22042,6 +22074,7 @@ vkcdnservice.appspot.com^
 ||reypelis.tv^
 ||reyungojas.com^
 ||rficarolnak.com^
+||rfidpytri.com^
 ||rfihub.com^
 ||rfihub.net^
 ||rfinidtirz.com^
@@ -22492,6 +22525,7 @@ vkcdnservice.appspot.com^
 ||rufadses.net^
 ||ruftodru.net^
 ||rugcrucial.com^
+||ruggyscallop.top^
 ||rugiomyh2vmr.com^
 ||ruglhiahxam.com^
 ||rugupheessupaik.net^
@@ -22766,6 +22800,7 @@ vkcdnservice.appspot.com^
 ||sauroajy.net^
 ||sausagefaithfemales.com^
 ||sausagegirlieheartburn.com^
+||sauthooptoo.net^
 ||savableee.com^
 ||savefromad.net^
 ||savinist.com^
@@ -22956,6 +22991,7 @@ vkcdnservice.appspot.com^
 ||seatedparanoiaenslave.com^
 ||seatrackingdomain.com^
 ||seatsrehearseinitial.com^
+||seawantyroma.com^
 ||seayipsex.com^
 ||sebateastrier.com^
 ||sebkhapaction.com^
@@ -23362,6 +23398,7 @@ vkcdnservice.appspot.com^
 ||shopliftingrung.com^
 ||shopmonthtravel.com^
 ||shoppinglifestyle.biz^
+||shopsonnies.top^
 ||shorantonto.com^
 ||shoresmmrnews.com^
 ||shortagefollows.com^
@@ -23956,6 +23993,7 @@ vkcdnservice.appspot.com^
 ||sourceconvey.com^
 ||sourishpuler.com^
 ||sourne.com^
+||southeestais.net^
 ||southmailboxdeduct.com^
 ||southolaitha.com^
 ||southsturdy.com^
@@ -24049,6 +24087,7 @@ vkcdnservice.appspot.com^
 ||spicy-development.pro^
 ||spicy-effect.com^
 ||spicygirlshere.life^
+||spijdawmqvs.com^
 ||spikearsonembroider.com^
 ||spikedelishah.com^
 ||spikethat.xyz^
@@ -24382,6 +24421,7 @@ vkcdnservice.appspot.com^
 ||stillfolder.com^
 ||stimaariraco.info^
 ||stimtavy.net^
+||stimtoughougnax.net^
 ||stimulateartificial.com^
 ||stimulatinggrocery.pro^
 ||stinglackingrent.com^
@@ -25643,6 +25683,7 @@ vkcdnservice.appspot.com^
 ||tocontraceptive.com^
 ||toddlecausebeeper.com^
 ||toddlespecialnegotiate.com^
+||todlht-xnm.rocks^
 ||toeapesob.com^
 ||toenailannouncehardworking.com^
 ||toffeeallergythrill.com^
@@ -25749,6 +25790,7 @@ vkcdnservice.appspot.com^
 ||toquetbircher.com^
 ||torchtrifling.com^
 ||toreddorize.com^
+||torekareau.com^
 ||torgadroukr.com^
 ||torhydona.com^
 ||torioluor.com^
@@ -26190,6 +26232,7 @@ vkcdnservice.appspot.com^
 ||tumboaovernet.shop^
 ||tumidlyacorus.shop^
 ||tumordied.com^
+||tumpsmolla.com^
 ||tumri.net^
 ||tumultmarten.com^
 ||tunatastesentertained.com^
@@ -26290,6 +26333,7 @@ vkcdnservice.appspot.com^
 ||txeefgcutifv.info^
 ||txgeszx.com^
 ||txjhmbn.com^
+||txtspjaorddrjqq.com^
 ||txumirk.com^
 ||txzaazmdhtw.com^
 ||tyburnpenalty.com^
@@ -26430,6 +26474,7 @@ vkcdnservice.appspot.com^
 ||uksjogersamyre.com^
 ||ukskxmh.com^
 ||uksofthecomp.com^
+||ukuleqasforsale.com^
 ||ukzoweq.com^
 ||ulaiwhiw.xyz^
 ||ulathana.com^
@@ -26941,6 +26986,7 @@ vkcdnservice.appspot.com^
 ||vanirausones.shop^
 ||vanishedentrails.com^
 ||vanishedpatriot.com^
+||vannaxacqpm.com^
 ||vapedia.com^
 ||vapjcusfua.com^
 ||vapourfertile.com^
@@ -27100,6 +27146,7 @@ vkcdnservice.appspot.com^
 ||vespymedia.com^
 ||vessoupy.com^
 ||vestigeencumber.com^
+||vestrydual.top^
 ||vesuvinaqueity.top^
 ||vetchesthiever.com^
 ||vetoembrace.com^
@@ -27186,6 +27233,7 @@ vkcdnservice.appspot.com^
 ||viewsoz.com^
 ||viewyentreat.guru^
 ||vigilantprinciple.pro^
+||vigorneptune.com^
 ||vigorouslymicrophone.com^
 ||vigourmotorcyclepriority.com^
 ||vigsole.com^
@@ -27816,6 +27864,7 @@ vkcdnservice.appspot.com^
 ||weshooship.net^
 ||wesicuros.com^
 ||wesmallproclaim.com^
+||westcoa.com^
 ||westernhungryadditions.com^
 ||westernwhetherowen.com^
 ||wet-maybe.pro^
@@ -28445,6 +28494,7 @@ vkcdnservice.appspot.com^
 ||wyvlljvbbjvvm.top^
 ||wywkwqqvbvyvr.top^
 ||wzcuinglezyz.one^
+||wzijtuxzut.com^
 ||wzk5ndpc3x05.com^
 ||wzlbhfldl.com^
 ||wzxty168.com^
@@ -28978,6 +29028,7 @@ vkcdnservice.appspot.com^
 ||zanoogha.com^
 ||zaokko.com^
 ||zaparena.com^
+||zapasizzard.com^
 ||zaphakesleigh.com^
 ||zaphararidged.com^
 ||zapunited.com^
@@ -29660,7 +29711,6 @@ vkcdnservice.appspot.com^
 ||affiliategroove.com^
 ||affilimatejs.com^
 ||affilist.com^
-||affilizz.com^
 ||afishamedia.net^
 ||afp.ai^
 ||afrikad.com^
@@ -31784,6 +31834,7 @@ vkcdnservice.appspot.com^
 ||d9b5gfwt6p05u.cloudfront.net^
 ||d9c5dterekrjd.cloudfront.net^
 ||d9qjkk0othy76.cloudfront.net^
+||d9r4lqt28t1fm.cloudfront.net^
 ||d9yk47of1efyy.cloudfront.net^
 ||da26k71rxh0kb.cloudfront.net^
 ||da327va27j0hh.cloudfront.net^
@@ -33146,6 +33197,10 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||mktp-base.mktplatforms.com^
+||f-tra.com^
+||event.dfinery.io^
+||polaranalytics.com^
 ||wsknow.net^
 ||api.taggrs.io^
 ||obseu.netgreencolumn.com^
@@ -33159,7 +33214,6 @@ vkcdnservice.appspot.com^
 ||pabidding.io^
 ||danatrak.com^
 ||optiyield.opti-digital.com^
-||volces.com^
 ||twitter.sx^
 ||lf1-cdn-tos.bytegoofy.com^
 ||view.mngusr.com^
@@ -36761,6 +36815,12 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||apmplus.ap-southeast-1.volces.com^
+||pixels.argusplatform.com^
+||egg.afisha.ru^
+||tracking-app.diginetica.net^
+||c.us.heap-api.com^
+||apay-us.amazon.com^
 ||logging.g.sst.secureserver.net^
 ||metricreceiver.cellrebel.com^
 ||events.app-performance.music.amazon.dev^
@@ -39390,6 +39450,7 @@ inapps.appsflyersdk.com^
 ||int.vaicore.store^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||ulog*.kwai-pro.com^
 ||spider-tracker.xiaohongshu.com^
 ||tp2p.kg.qq.com^
 ||twns.p2ptun.qq.com^
@@ -40070,7 +40131,6 @@ inapps.appsflyersdk.com^
 ||analytics.paddle.com^
 ||analytics.pagefly.io^
 ||analytics.piksel.com^
-||analytics.pinterest.com^
 ||analytics.plasmic.app^
 ||analytics.pop2watch.com^
 ||analytics.prezly.com^
@@ -40585,6 +40645,7 @@ inapps.appsflyersdk.com^
 ||t.bimvid.com^
 ||t.buyist.app^
 ||t.cfjump.com^
+||t.commandbar.com^
 ||t.dgm-au.com^
 ||t.enuygun.com^
 ||t.fullres.net^
@@ -41443,7 +41504,6 @@ inapps.appsflyersdk.com^
 ||analyzer51.fc2.com^
 ||bvr.snva.jp^
 ||collector.t-idr.com^
-||log.f-tra.com^
 ||mail-count.matsui.co.jp^
 ||omt.shinobi.jp^
 ||reproio.com^
@@ -41685,6 +41745,7 @@ inapps.appsflyersdk.com^
 ||templates.buscape.com^
 ||yestorrents.org^
 ||oecistbenton.com^
+||cdn.dmtgvn.com^
 ||llet787bww.com^
 ||1463.info^
 ||prestich.shop^
@@ -44399,6 +44460,9 @@ inapps.appsflyersdk.com^
 ||azol.de^
 ||twiago.com^
 ||bauernative.com^
+||1iuh5l.com^
+||ydxdg.xyz^
+||aafns.xyz^
 ||zbb.bbb.*.pics^
 ||towmfs.com^
 ||hfisngksng.com^
@@ -51587,6 +51651,18 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||qaemphaels.com^
+||vhrhnh.icu^
+||01240sop.xyz^
+||01231sop.xyz^
+||kruraits.com^
+||6lx.fun^
+||brerkols.com^
+||pevpbx.icu^
+||e1s.fun^
+||nvpokyko.icu^
+||xulkervf.com^
+||p2v.fun^
 ||scigzetg.com^
 ||bjfsk.xyz^
 ||jltwxisa.icu^
@@ -51595,6 +51671,10 @@ inapps.appsflyersdk.com^
 ||thangrurs.com^
 ||m4r.fun^
 ||scrorlaets.com^
+||rbzupn.icu^
+||ldjfsdku.icu^
+||lqxzx.com^
+||r0j.fun^
 ||y0o.fun^
 ||icokamio.top^
 ||thrumulr.com^
@@ -62483,6 +62563,7 @@ rgmechanicsgames.com*VPN.exe
 ||app.getsentry.com^
 ||ads-api.twitter.com^
 ||ads.pinterest.com^
+||analytics.pinterest.com^
 ||ads-api.tiktok.com^
 ||ads-sg.tiktok.com^
 ||business-api.tiktok.com^
@@ -65978,6 +66059,7 @@ rgmechanicsgames.com*VPN.exe
 ||mobileservice.cn^
 ||monitor-ads-test.huan.tv^
 ||monitor-uu.play.aiseet.atianqi.com^
+||mssdk.volces.com^
 ||mssdk.zijieapi.com^
 ||mtj.baidu.com^
 ||nadvideo2.baidu.com^
@@ -66620,6 +66702,7 @@ rgmechanicsgames.com*VPN.exe
 ||0ix.4748447.xyz^
 ||0ix.806263.xyz^
 ||0ix.82343243.xyz^
+||0jx.194805473.xyz^
 ||0koryu0.easter.ne.jp^
 ||0l-x-storeinform.12151522.xyz^
 ||0l-x.7632152.xyz^
@@ -66944,6 +67027,7 @@ rgmechanicsgames.com*VPN.exe
 ||14.itscanfinance.com^
 ||142ada5bd7.nrhaw.pl^
 ||142betorspin.com^
+||142trsewtol.freewebhostmost.com^
 ||143betorspin.com^
 ||144.dragonparking.com^
 ||146betorspin.com^
@@ -66952,6 +67036,7 @@ rgmechanicsgames.com*VPN.exe
 ||14b.info^
 ||14betvnd.com^
 ||14digital-exchange.com^
+||14digital-exchange.net^
 ||14teen.com^
 ||14winvn.com^
 ||15-237-144-17.cprapid.com^
@@ -66973,7 +67058,6 @@ rgmechanicsgames.com*VPN.exe
 ||16aq.cn^
 ||16c4465662.sferpls.fun^
 ||16g8ooxqwr.autograalmann.de^
-||1717.1000uc.com^
 ||1789bet.com^
 ||179bet.net^
 ||17chezhan.com^
@@ -67173,7 +67257,6 @@ rgmechanicsgames.com*VPN.exe
 ||224a4c389c.www-dis.lat^
 ||224fbh63t.top^
 ||22639.top^
-||227240.com^
 ||2277789.com^
 ||2278.stats.misstrends.com^
 ||228kbet.com^
@@ -67598,7 +67681,6 @@ rgmechanicsgames.com*VPN.exe
 ||4mgbvlz89np3ka.dsn-plus.lat^
 ||4mtjzwz.bgjjwl.cn^
 ||4n1e.com^
-||4ntf8jej0rf7pbup5vufjkwt1uhq0n4f476ks28l1w3dr.tytusalex.eu^
 ||4o64flb.com^
 ||4plus11.com^
 ||4pornxxx.com^
@@ -68301,7 +68383,6 @@ rgmechanicsgames.com*VPN.exe
 ||99db1288eb.outerbank.autos^
 ||99ms.net^
 ||99njr.com^
-||99smoothfm.com^
 ||99topnn.info^
 ||99vina.club^
 ||99vn.bet^
@@ -68720,6 +68801,7 @@ rgmechanicsgames.com*VPN.exe
 ||abtasty.com^
 ||abtracker.adultbouncer.com^
 ||abudhabioffplanproperty.com^
+||abundantdigitallife.com^
 ||abuvn.cc^
 ||abv-41.top^
 ||abv-marketing.com^
@@ -68757,7 +68839,6 @@ rgmechanicsgames.com*VPN.exe
 ||accelerationlife.blogspot.com^
 ||accept-id852075.com^
 ||acceptlnterac-email-transfer-online-2fasecure.com^
-||acceptlogics.sbs^
 ||accerti.com^
 ||acces.streaming-direct.co^
 ||access-neofinancial.com^
@@ -68804,6 +68885,7 @@ rgmechanicsgames.com*VPN.exe
 ||accountprotection.xyz^
 ||accountprotection2353.info^
 ||accountrenewtime.ge-opep.org^
+||accounts.confirmations.digital^
 ||accounts.consideration.best^
 ||accounts.dormain.best^
 ||accounts.googleaccesspoint.com^
@@ -68931,7 +69013,6 @@ rgmechanicsgames.com*VPN.exe
 ||activity.tuiapple.com^
 ||activity.tuifish.com^
 ||activity.yuyiya.com^
-||actizarpagos.com^
 ||actlni.com^
 ||actlog.dftoutiao.com^
 ||actorseye.com^
@@ -69341,6 +69422,7 @@ rgmechanicsgames.com*VPN.exe
 ||adamsfilms.com^
 ||adanaevyemekleri.com^
 ||adanging.blog^
+||adannaliveswell.com^
 ||adapassiveincome.com^
 ||adapi.gunosy.com^
 ||adapi.lenovogame.com^
@@ -69613,6 +69695,7 @@ rgmechanicsgames.com*VPN.exe
 ||admarket.21cn.com^
 ||admarket.entireweb.com^
 ||admarkt.marktplaats.nl^
+||admarpuntacana.com^
 ||admatch-syndication.mochila.com^
 ||admatcher.videostrip.com^
 ||admatchly.com^
@@ -69635,6 +69718,7 @@ rgmechanicsgames.com*VPN.exe
 ||admin.bookloading.world^
 ||admin.bookview.world^
 ||admin.bookviewcaptcha.com^
+||admin.bookviewextranet.com^
 ||admin.capctha.world^
 ||admin.captcha-extranet.com^
 ||admin.digitalacre.com^
@@ -69654,7 +69738,6 @@ rgmechanicsgames.com*VPN.exe
 ||adminshop.com^
 ||adminviral.com^
 ||admiralbutterfly.xyz^
-||admissionguy.com^
 ||admix.in^
 ||admized.com^
 ||admonitor.com^
@@ -69705,7 +69788,6 @@ rgmechanicsgames.com*VPN.exe
 ||adolf.tv^
 ||adonline.e-kolay.net^
 ||adonspot.com^
-||adopdf.pages.dev^
 ||adopt-sdk.xg.tagtic.cn^
 ||adopt.euroclick.com^
 ||adopt.precisead.com^
@@ -69752,7 +69834,6 @@ rgmechanicsgames.com*VPN.exe
 ||adreporting.com^
 ||adres.myaora.net^
 ||adresowkapsa.pl^
-||adresse-confirmation.com^
 ||adresult-sp.jp^
 ||adresult.jp^
 ||adrianabutnaru.com^
@@ -71376,6 +71457,7 @@ rgmechanicsgames.com*VPN.exe
 ||afe2.specificclick.net^
 ||afecoin.com^
 ||afen.beblon.com^
+||afestivefamily.com^
 ||aff.celebritytrip.club^
 ||aff.indirdik.com^
 ||aff.promodeals.nl^
@@ -71476,7 +71558,6 @@ rgmechanicsgames.com*VPN.exe
 ||afriinfluencer.com^
 ||afriquenouvelle.com^
 ||afriski-recruit.com^
-||afro-melanin.com^
 ||afrolatinosnetwork.org^
 ||afrosana.com^
 ||afs.sacors.top^
@@ -71650,7 +71731,6 @@ rgmechanicsgames.com*VPN.exe
 ||airconditioningpinellaspark.com^
 ||aircraft.dancers-dream.com^
 ||airdropfreightservices.com^
-||airhobi.com^
 ||airmore.co^
 ||airnetinfotech.com^
 ||airpb.com^
@@ -71686,6 +71766,7 @@ rgmechanicsgames.com*VPN.exe
 ||ajhe.lat^
 ||ajialive.com^
 ||ajouny.com^
+||ajoyfulnoisehg.com^
 ||ajscrpjournala.com^
 ||ajscrpjournalb.com^
 ||ajudeaamanda.site^
@@ -71735,6 +71816,7 @@ rgmechanicsgames.com*VPN.exe
 ||aksdkfj.biexsite.net^
 ||akselop.xyz^
 ||akseswings138.lol^
+||akshayelectronics.net^
 ||akshaykodali.com^
 ||aksonural.ru^
 ||akterim.pics^
@@ -71813,6 +71895,7 @@ rgmechanicsgames.com*VPN.exe
 ||alberguecasaanita.com^
 ||albert-automotive.com^
 ||albertaaccessmats.com^
+||albertprivateacc.net^
 ||albertprivateaccess.net^
 ||albiondrugs.com^
 ||albiorix.paincaremd.info^
@@ -71924,7 +72007,6 @@ rgmechanicsgames.com*VPN.exe
 ||alexandranichitus.com^
 ||alexandria-locksmithservice.com^
 ||alexastefan.com^
-||alexbeckercoin.com^
 ||alexbriceno95.com^
 ||alexdaalpheratz.com^
 ||alexeipiskunov.com^
@@ -71951,6 +72033,7 @@ rgmechanicsgames.com*VPN.exe
 ||alfred77.serv00.net^
 ||alfredtpalmer.com^
 ||algerianembassy.co.in^
+||algocryptocurrency.com^
 ||algodon.net^
 ||algointelligent.com^
 ||algonac.info^
@@ -72124,6 +72207,7 @@ rgmechanicsgames.com*VPN.exe
 ||allegro.645432.shop^
 ||allegro.666933.shop^
 ||allegro.723661.cfd^
+||allegro.73873.cfd^
 ||allegro.7584743.one^
 ||allegro.785476.cfd^
 ||allegro.82317.store^
@@ -72293,6 +72377,7 @@ rgmechanicsgames.com*VPN.exe
 ||allegrolokalnie.2952031.xyz^
 ||allegrolokalnie.30961257.xyz^
 ||allegrolokalnie.342536.sbs^
+||allegrolokalnie.3758392.com^
 ||allegrolokalnie.3842027.xyz^
 ||allegrolokalnie.3984542.xyz^
 ||allegrolokalnie.4089376.online^
@@ -72564,6 +72649,7 @@ rgmechanicsgames.com*VPN.exe
 ||allegrolokalnie.o63nc519fja5.pl^
 ||allegrolokalnie.ochronazakupu.pl^
 ||allegrolokalnie.oferta-130043212-pl-aukcja.icu^
+||allegrolokalnie.oferta-1675.top^
 ||allegrolokalnie.oferta-278182.link^
 ||allegrolokalnie.oferta-382718.link^
 ||allegrolokalnie.oferta-4181461.com^
@@ -73436,12 +73522,13 @@ rgmechanicsgames.com*VPN.exe
 ||allegronauw.org^
 ||allegronig.net^
 ||allegronig.org^
+||allegroniga.cc^
 ||allegroniga.com^
 ||allegroniga.vip^
 ||allegronigo.com^
 ||allegronigp.com^
 ||allegronigu.com^
-||allegronnxaslwd.cyou^
+||allegronij.vip^
 ||allegronova.org^
 ||allegrooeu.shop^
 ||allegroolokalnie.59848154.xyz^
@@ -73464,7 +73551,6 @@ rgmechanicsgames.com*VPN.exe
 ||allegrosmart.org^
 ||allegrosnux.cc^
 ||allegrosnux.com^
-||allegroweb.cc^
 ||allepharm.com^
 ||alleqrolokalnie.735648155.xyz^
 ||alleqroolokalnie.26505484.xyz^
@@ -73502,6 +73588,7 @@ rgmechanicsgames.com*VPN.exe
 ||allkpop.fr^
 ||allmuis.com^
 ||allmyshoppindays.fun^
+||allnegers.net^
 ||allnewspipeline.com^
 ||allo-sexe.com^
 ||allo-vera.sbs^
@@ -73683,7 +73770,6 @@ rgmechanicsgames.com*VPN.exe
 ||ambien.3.p2l.info^
 ||ambien.4.p2l.info^
 ||ambien.ourtablets.com^
-||ambitionavenue.cam^
 ||amblxlabs.com^
 ||ambrosewentcurtis.com^
 ||amc.m.qiuwu.net^
@@ -73704,6 +73790,7 @@ rgmechanicsgames.com*VPN.exe
 ||americanballoonbabies.com^
 ||americancatholictribune.com^
 ||americanchristiannationalist.com^
+||americaneagle-auth.org^
 ||americanfootballbetting.com^
 ||americanfreepress.net^
 ||americankitchen.fr^
@@ -73858,14 +73945,11 @@ rgmechanicsgames.com*VPN.exe
 ||an.waptrad.top^
 ||an.wikigifth.com^
 ||an.worldbaseballclassic.com^
-||an.zysklonet.top^
 ||an7iut.hair^
 ||an7tjp.bond^
 ||ana.stg8.com^
 ||ana.tatahn.com^
-||ana.zysklonet.top^
 ||anabiafoods.com^
-||anadolubazaar.space^
 ||anagram-word-solver.com^
 ||anagramophone.com^
 ||anaheim-dental.com^
@@ -74065,6 +74149,7 @@ rgmechanicsgames.com*VPN.exe
 ||anayathakar.com^
 ||anbafood.com^
 ||anbstudios.com^
+||anbudstorget.net^
 ||anccomfort.com^
 ||ancelat.pics^
 ||ancepe.pics^
@@ -74176,8 +74261,6 @@ rgmechanicsgames.com*VPN.exe
 ||anhkosdau.com^
 ||anhthayaiti.com^
 ||ani.waptrad.top^
-||ani.zysklonet.top^
-||ania.zysklonet.top^
 ||anian1.weebly.com^
 ||aniccadatatest.com^
 ||anielagotksa.com^
@@ -74223,6 +74306,7 @@ rgmechanicsgames.com*VPN.exe
 ||ann40annlsmith.com^
 ||anna.awassa.pl^
 ||anna365exchange.com^
+||annaaihub.com^
 ||annaandreadigital.com^
 ||annachis.com^
 ||annajuliana.com^
@@ -74275,7 +74359,6 @@ rgmechanicsgames.com*VPN.exe
 ||ant.waterdamageoc.info^
 ||ant1-project-support.vercel.app^
 ||ant3-project-support.vercel.app^
-||antai-payezvosamendes.com^
 ||antalya.ru^
 ||antares.trade^
 ||antaristore.com^
@@ -74324,6 +74407,7 @@ rgmechanicsgames.com*VPN.exe
 ||anybodyfishing.com^
 ||anycracks.com^
 ||anydamnplace.com^
+||anynumo.com^
 ||anyohome.com^
 ||anzanish.tripod.com^
 ||ao.chslwea.top^
@@ -74523,7 +74607,6 @@ rgmechanicsgames.com*VPN.exe
 ||api2.e.kuaishou.com^
 ||api2.play.cn^
 ||api2.tuisong.baidu.com^
-||api3-telegram.cyou^
 ||api3.tuisong.baidu.com^
 ||api4.tuisong.baidu.com^
 ||api5.tuisong.baidu.com^
@@ -74722,6 +74805,7 @@ rgmechanicsgames.com*VPN.exe
 ||appwebtools.com^
 ||appx.cacafly.com^
 ||appyaviator.com^
+||appylca.net^
 ||aprendizajeonlinecontinuo.com^
 ||aprobarelfirst.com^
 ||apronescrueting.pro^
@@ -74918,6 +75002,7 @@ rgmechanicsgames.com*VPN.exe
 ||artc0nvas.xyz^
 ||artcomix.com^
 ||artdrawingsmd.com^
+||artectractor.net^
 ||artemaiamx.com^
 ||artemisbet10.com^
 ||artenalente.blogspot.com^
@@ -74928,11 +75013,11 @@ rgmechanicsgames.com*VPN.exe
 ||artgboutiquehot.com^
 ||arthamfinancialservices.com^
 ||arthritis.atspace.com^
-||article.wmc-media.com^
 ||articlesbykate.com^
 ||artifactfoto.com^
 ||artifydiy.com^
 ||artilect-studios.com^
+||arting.ee^
 ||artisankitty.com^
 ||artissanat.fr^
 ||artist1cvisi0ns.xyz^
@@ -74954,7 +75039,6 @@ rgmechanicsgames.com*VPN.exe
 ||artsandhealthalliance.org^
 ||artsapien.com^
 ||artsdesign-deco.online^
-||artsprint.world^
 ||artusor.myshopify.com^
 ||artxmarketing.com^
 ||artykulikonline.rest^
@@ -74969,7 +75053,6 @@ rgmechanicsgames.com*VPN.exe
 ||arweavecode.financialmarketsworld.com^
 ||aryansacademyschool.com^
 ||as-98polska.com^
-||as-pwo.web.app^
 ||as.5.p2l.info^
 ||as.ad.impact-ad.jp^
 ||as.adwise.bg^
@@ -75352,7 +75435,6 @@ rgmechanicsgames.com*VPN.exe
 ||auger.pl^
 ||augi.fr^
 ||auirbnb.fr^
-||aulist.com^
 ||aumbim.com^
 ||aupc.info^
 ||aurabackend.com^
@@ -75435,7 +75517,6 @@ rgmechanicsgames.com*VPN.exe
 ||autonewsinfo.fr^
 ||autonomoussystems.xyz^
 ||autonomybd.com^
-||autoparts-online.us^
 ||autopartsquicker.shop^
 ||autoresdecomic.com^
 ||autorhythmus.com^
@@ -75482,6 +75563,7 @@ rgmechanicsgames.com*VPN.exe
 ||avastpx.com^
 ||avatardeclient.com^
 ||avatising.com^
+||avatising.net^
 ||aveklab.xyz^
 ||avengerspg.com^
 ||avenuea.com^
@@ -75544,7 +75626,6 @@ rgmechanicsgames.com*VPN.exe
 ||awdnews.com^
 ||aweland.shop^
 ||awellfamily.com^
-||awesomepossumstore.com^
 ||awfont.com^
 ||awglzxatzd.cfolks.pl^
 ||awin.com^
@@ -75595,7 +75676,6 @@ rgmechanicsgames.com*VPN.exe
 ||az.5.p2l.info^
 ||az361816.vo.msecnd.net^
 ||az512334.vo.msecnd.net^
-||az5aku.top^
 ||az888.bet^
 ||azaria-financial.com^
 ||azaria-financial.net^
@@ -75607,11 +75687,11 @@ rgmechanicsgames.com*VPN.exe
 ||azetaknox.com^
 ||azetoshop.com^
 ||azf8bet.com^
-||azgint.com^
 ||azidacolours.blogspot.com^
 ||azido.blendater.online^
 ||azinpost.buzz^
 ||azinpost.top^
+||azlactation.com^
 ||azoneus-docs.com^
 ||azonmoney.com^
 ||azoracoaching.com^
@@ -75620,6 +75700,7 @@ rgmechanicsgames.com*VPN.exe
 ||aztracking.net^
 ||azulerie.it^
 ||azurehandmails.com^
+||azuretravelcompany.com^
 ||azureus.es^
 ||azuriteitconsulting.com^
 ||azz.badazz.org^
@@ -75627,6 +75708,7 @@ rgmechanicsgames.com*VPN.exe
 ||b-bets.com^
 ||b-gi.gepush.com^
 ||b-gtc.gepush.com^
+||b-rockgroups.net^
 ||b-s.tercept.com^
 ||b.77shw.com^
 ||b.alot.com^
@@ -75759,7 +75841,6 @@ rgmechanicsgames.com*VPN.exe
 ||bababeard.com^
 ||babablue.net^
 ||babablue.org^
-||babadonews.com^
 ||babblewithlaravel.com^
 ||babddbb.onlinecshallenge.com^
 ||babedewetting.com^
@@ -75846,6 +75927,7 @@ rgmechanicsgames.com*VPN.exe
 ||bafkreic73cwiszlzfyym5yow4ndbxgkzk5dwtt3aye5u4t63hgoimvf7nu.ipfs.dweb.link^
 ||bafkreicbme67olhqjmgb7ys4xktit75wflko7xjgtevuzlwprbx5iakh6y.ipfs.flk-ipfs.xyz^
 ||bafkreiccpbu46e3u7vhvh4y6d3sf2ksbau2mw4q2ipxncaqybyx35b76ly.ipfs.dweb.link^
+||bafkreice7s4n6jyc2whhkexvrsrecyaur3rn5o5jmgpaakrjsao337kfva.ipfs.flk-ipfs.xyz^
 ||bafkreicfouqnydnfnrhcfedtxoinp7derfxs6q6tcnsfhjsr6ehd274i2q.ipfs.dweb.link^
 ||bafkreicgaw7m5gyxfkpwh4z2fc635dc6bhkzjt3n2wdxrqej7idmo3lsva.ipfs.flk-ipfs.xyz^
 ||bafkreicjmhrowsrijbkkxitb5jkhbt5anmrtqa66uj4ejqo75ch5tjzfwq.ipfs.flk-ipfs.xyz^
@@ -75885,6 +75967,7 @@ rgmechanicsgames.com*VPN.exe
 ||bafybeicmd36nrguj3lm7dthuvm2yjh7enzutydcs654nfujveuprjzbina.ipfs.dweb.link^
 ||bafybeiczesve4jjxklxnaw6bmc7aixcttysl3ess7puhjbh6o5pje3p67u.ipfs.flk-ipfs.xyz^
 ||bafybeid2otrfc34eap7mjshbgvhet655ukxmvovs3ivkdaz2lz5bmp47zm.ipfs.dweb.link^
+||bafybeid4haisupae5lsxg2xjrwgnnbkhxsds3sdwahrk2xj4v2iyj7wr3i.ipfs.dweb.link^
 ||bafybeidcj6dvhsytqkpa6jdx54jiv4cpkfsxd35uffxp2dtymypwpgtrua.ipfs.dweb.link^
 ||bafybeidh4qovztyu24bllyjg3zvp2sibzishutlkbxarpbd46zxfhlw5z4.ipfs.flk-ipfs.xyz^
 ||bafybeidju2qf43pilmxmvmtrddf3lszevkwvwddg56apqp7cd7p522zovq.ipfs.ipfs.joaoleitao.org^
@@ -75898,6 +75981,7 @@ rgmechanicsgames.com*VPN.exe
 ||bafybeighsayv5avph4xtzf352z7p3nprrq5ur3i5riypkrd3ec6ulfzpde.ipfs.dweb.link^
 ||bafybeigkx6i7pr232zqhwd2qlkr37qfmwi7vftgxxrg6d2m2m632xs53ny.ipfs.flk-ipfs.xyz^
 ||bafybeigmcqdhztsvcdaq53gk47zg5jlgo7zsabrw3zpknjs4bcd7wilzpy.ipfs.flk-ipfs.xyz^
+||bafybeigml3ozizqwolmaegxxxzrl2ey3cwkhs6chfenhrfufmgcjf5knf4.ipfs.dweb.link^
 ||bafybeigrqxg2o4hrlzbbmyanr6duqso336ddoxiwxkpc7jfnudvpduwt5a.ipfs.dweb.link^
 ||bafybeigscncuojztn6n24u3lmv3lf5uc4mfdzaqoqtbtsx27dzlspdmnja.ipfs.dweb.link^
 ||bafybeigzyggyn7bijbv2lms4mfggptxytlehy3ddzhg6ijaidwwoa3thrm.ipfs.dweb.link^
@@ -76223,6 +76307,7 @@ rgmechanicsgames.com*VPN.exe
 ||bardlet.ediahish.lat^
 ||baremetrics.com^
 ||bareqyp.xyz^
+||bargaincove.shop^
 ||bargainservice.online^
 ||bariksbeauty.com^
 ||baristabrews.xyz^
@@ -76231,6 +76316,7 @@ rgmechanicsgames.com*VPN.exe
 ||barleydavid.com^
 ||barmillevani.it^
 ||baroxan.com^
+||barramansalimentos.com^
 ||barrasjourney.com^
 ||barrigalabs.com^
 ||barrylearnsaboutart.blogspot.com^
@@ -76246,7 +76332,6 @@ rgmechanicsgames.com*VPN.exe
 ||basecamp-shop.com^
 ||basecomunicaciones.com^
 ||basedailytrading.com^
-||basic.mastercasc.top^
 ||basketballbelieve.com^
 ||baskettexture.com^
 ||baskidunyasi.net^
@@ -76336,6 +76421,7 @@ rgmechanicsgames.com*VPN.exe
 ||bbin-in-bbin.glitch.me^
 ||bbk6236.jianchajingmk.net^
 ||bbk6302.jianchajingmk.net^
+||bbm-community.org^
 ||bbmmwmotorrad.shop^
 ||bbn.img.com.ua^
 ||bbnn.999xs.com^
@@ -76363,6 +76449,7 @@ rgmechanicsgames.com*VPN.exe
 ||bcufojzz.formester.com^
 ||bcverden.tilda.ws^
 ||bd-js.baixing.net^
+||bd-pl1.fovda.top^
 ||bd.newpol.xyz^
 ||bd1-china.xsfaya.com^
 ||bd1.52che.com^
@@ -76500,6 +76587,7 @@ rgmechanicsgames.com*VPN.exe
 ||bedebtfree123.com^
 ||bedelovski.com^
 ||bedolt.yukkier.world^
+||bedriveling-tileyard556.net^
 ||bedytoi5.pro^
 ||beehivestatenews.com^
 ||beemray.com^
@@ -76508,6 +76596,7 @@ rgmechanicsgames.com*VPN.exe
 ||beerweekindia.com^
 ||bees.news^
 ||beespace.com.ua^
+||beeworkers.com^
 ||befd.fanqingzhou.cn^
 ||beffino.com^
 ||befluentwithspanish.com^
@@ -76988,7 +77077,6 @@ rgmechanicsgames.com*VPN.exe
 ||beutrev.metplxx.com^
 ||bevel-worried-mahogany.glitch.me^
 ||beveragebonanza.xyz^
-||beveragebounty.xyz^
 ||beveragism.org^
 ||bevilla.fr^
 ||bevivua.com^
@@ -77119,6 +77207,7 @@ rgmechanicsgames.com*VPN.exe
 ||bigboss93.com^
 ||bigbrandpromotions.com^
 ||bigbrandrewards.com^
+||bigbrothersgarage.com^
 ||bigbuytwentyfour.icu^
 ||bigchieflaundry.com^
 ||bigchopwellness.com^
@@ -77137,6 +77226,7 @@ rgmechanicsgames.com*VPN.exe
 ||biggxxd.top^
 ||bighop.com^
 ||bighow.net^
+||bigislandstudiorental.com^
 ||bigislandtimes.com^
 ||bigk8th888.com^
 ||biglawnewsline.com^
@@ -77150,6 +77240,7 @@ rgmechanicsgames.com*VPN.exe
 ||bigotka.pl^
 ||bigpenisguide.com^
 ||bigpharmanews.com^
+||bigpick.shop^
 ||bigpzone.com^
 ||bigreal.org^
 ||bigseatsout.net^
@@ -77205,6 +77296,7 @@ rgmechanicsgames.com*VPN.exe
 ||bindfast.com^
 ||bingb0x.xyz^
 ||bingedamp.cc^
+||bingesbea.info^
 ||bingo-de.online^
 ||bingo.com^
 ||bingoknightscampaign.com^
@@ -77226,6 +77318,7 @@ rgmechanicsgames.com*VPN.exe
 ||bintangrtp108.com^
 ||binzahidmall.com^
 ||bio4you.pl^
+||bioabase.net^
 ||biodynamic5ps.com^
 ||bioepisode.com^
 ||biological5ps.com^
@@ -77478,6 +77571,7 @@ rgmechanicsgames.com*VPN.exe
 ||blackarrowcz.com^
 ||blackartistcollective.com^
 ||blackbass.mx^
+||blackberrylive.com^
 ||blackedxporn.com^
 ||blackfootkeystone.com^
 ||blackforestbeauty.xyz^
@@ -77509,7 +77603,6 @@ rgmechanicsgames.com*VPN.exe
 ||blankc2.fun^
 ||blaqmerchandise.org^
 ||blayra.pics^
-||blazeroadside.com^
 ||blazinevo35.blogspot.com^
 ||blcstreams.com^
 ||bld.tpn-wq.xyz^
@@ -77620,6 +77713,7 @@ rgmechanicsgames.com*VPN.exe
 ||bloomcrush.xyz^
 ||bloomessence91.sbs^
 ||bloomfield202.sbs^
+||bloomgardenhub.com^
 ||bloominggarden9.sbs^
 ||bloomingpeonies.sbs^
 ||bloomingshade.xyz^
@@ -77821,7 +77915,6 @@ rgmechanicsgames.com*VPN.exe
 ||bollerbam.com^
 ||bollywoodangels.com^
 ||bollywoodtwist.com^
-||bollywoodwickets.com^
 ||bolsjak.com^
 ||bolsjitrg.com^
 ||bolt.jebe.renren.com^
@@ -77929,6 +78022,7 @@ rgmechanicsgames.com*VPN.exe
 ||booking.portegustpartner.com^
 ||booking.relusyguestnew.com^
 ||booking.rescomunicationshow.com^
+||booking.rewiesbadcheked.com^
 ||booking.rewiewsguestforhouse.com^
 ||booking.rewscomunicationgusty.com^
 ||booking.sign-in27813.cfd^
@@ -77959,6 +78053,7 @@ rgmechanicsgames.com*VPN.exe
 ||bookwormhave.site^
 ||boom66.com^
 ||boomchicawowwow.com^
+||boomerinbloom.com^
 ||boomsticksforever.com^
 ||boomthefuntoyleague.com^
 ||boomtisch.com^
@@ -78017,12 +78112,10 @@ rgmechanicsgames.com*VPN.exe
 ||botap1.wtsprow.top^
 ||botbcasino.com^
 ||botifiles.com^
-||boting.website^
 ||botinsights.site^
 ||botize.xyz^
 ||botlabz.com^
 ||botluckapp.com^
-||botonline.cfd^
 ||bots.io^
 ||bottakoils.com^
 ||bottegarasa.com^
@@ -78099,7 +78192,6 @@ rgmechanicsgames.com*VPN.exe
 ||br.helloweb.vip^
 ||br.meetlocals.com^
 ||br.naked.com^
-||br.nowyplx.top^
 ||br.realitykings.com^
 ||br.rk.com^
 ||br.shangke.asia^
@@ -78168,7 +78260,6 @@ rgmechanicsgames.com*VPN.exe
 ||braze.eu^
 ||brazenufficiale.com^
 ||brazilgametop.com^
-||brazzyss.xyz^
 ||breadbalance.com^
 ||breadloafcorp.com^
 ||breadtalkcambodia.com^
@@ -78184,7 +78275,6 @@ rgmechanicsgames.com*VPN.exe
 ||breakthrough.news^
 ||breakthroughtrend.com^
 ||breanet.pics^
-||breathinginspiration.com^
 ||breathrise.com^
 ||breementle.pics^
 ||breezedrydryerrepair.com^
@@ -78205,8 +78295,6 @@ rgmechanicsgames.com*VPN.exe
 ||brevardsun.com^
 ||brevilleservicecenter.com^
 ||brevio.pl^
-||brewb00st.cam^
-||brewbre3ze.cam^
 ||brewedbeauty.xyz^
 ||brewsandflavours.com^
 ||brfrentalresources.com^
@@ -78286,6 +78374,7 @@ rgmechanicsgames.com*VPN.exe
 ||brocks.spikeark.store^
 ||brocktonasphaltcontractor.com^
 ||brockwaywoodturning.com^
+||brojatrasake-8731.vercel.app^
 ||brokendisrsemo.com.pl^
 ||brokeraggioassicurativo.com^
 ||brokerastauto.com^
@@ -78444,6 +78533,10 @@ rgmechanicsgames.com*VPN.exe
 ||buddyslew.info^
 ||buddythetalkingcat.com^
 ||budgetcharger.biz^
+||budgetmart.shop^
+||budgetshop.shop^
+||budgetsphere.shop^
+||budgetvibe.shop^
 ||budhavis.com^
 ||budi.prtradprog.top^
 ||budprog.tilda.ws^
@@ -78508,6 +78601,7 @@ rgmechanicsgames.com*VPN.exe
 ||bundlesnmore.com^
 ||bungalibaba.com^
 ||bungeejumpingw.shop^
+||buonocoreco.com^
 ||buovlagtiq.cfolks.pl^
 ||bupmangnon.com^
 ||bupropion-hcl.1.p2l.info^
@@ -78538,7 +78632,6 @@ rgmechanicsgames.com*VPN.exe
 ||businage.com^
 ||busines-support-faecboock.cfd^
 ||business-helfp631.top^
-||business-info.mediareard.com^
 ||business-supporrtspages-fb.com^
 ||business.center-verryfyi-alerthub.com^
 ||business.helppolicy-report.com^
@@ -78660,10 +78753,12 @@ rgmechanicsgames.com*VPN.exe
 ||buylicensekey.com^
 ||buylike.pro^
 ||buylivekoi.com^
+||buyloom.shop^
 ||buylortabonline.7h.com^
 ||buyma.site^
 ||buymore.com.ng^
 ||buymyhouseasis.com^
+||buynaturalgoldnuggets.com^
 ||buyorion.com^
 ||buypaxilonline.7h.com^
 ||buyphentermineonline.7h.com^
@@ -78671,7 +78766,6 @@ rgmechanicsgames.com*VPN.exe
 ||buyrent.com^
 ||buyseldholera.com^
 ||buysell-service.net^
-||buytece.com^
 ||buytowe.com^
 ||buyu8001.com^
 ||buyukhanli.com^
@@ -78769,7 +78863,6 @@ rgmechanicsgames.com*VPN.exe
 ||bytebridge247.com^
 ||bytecrft.xyz^
 ||byteresabrady.com^
-||byteshift.cyou^
 ||bytomfullsale.com^
 ||bytomstore.com^
 ||bytwinvest.top^
@@ -79170,7 +79263,6 @@ rgmechanicsgames.com*VPN.exe
 ||cafecasino.lv^
 ||cafecoc.com^
 ||cafecomptoirbarranco.com^
-||cafecra7t.cam^
 ||cafecrema1.cam^
 ||caffeinatedmotorsports.com^
 ||cafj.fr^
@@ -79191,9 +79283,9 @@ rgmechanicsgames.com*VPN.exe
 ||caisse-apargne.fr^
 ||cajamandarina.com^
 ||cajondersi.com^
-||cajunua1.pro^
 ||cajymia.com^
 ||cakebite6.xyz^
+||cakechain.net^
 ||cakecraft4.xyz^
 ||cakedelight3.xyz^
 ||cakedelight5.xyz^
@@ -79322,6 +79414,7 @@ rgmechanicsgames.com*VPN.exe
 ||cancerscams.com^
 ||cancersolutions.news^
 ||cancertumors.news^
+||cancerwithapurpose.com^
 ||cancommunitydashboard.org^
 ||candidography.com^
 ||candisbingo.co.uk^
@@ -79380,6 +79473,7 @@ rgmechanicsgames.com*VPN.exe
 ||canvas-group.com^
 ||canvascreations.xyz^
 ||canvastrip.com^
+||canyoningsaintlary.com^
 ||canyonspringsranch.com^
 ||caoi.inhhome.top^
 ||caokakao.com^
@@ -79482,7 +79576,6 @@ rgmechanicsgames.com*VPN.exe
 ||caribstate.com^
 ||cariinsuraanceisa.com^
 ||caringcast.com^
-||caringforyousupport.com.au^
 ||carinsrancesa.com^
 ||carinsuraanceiasaa.com^
 ||carinsuraanceisaa.com^
@@ -79531,6 +79624,7 @@ rgmechanicsgames.com*VPN.exe
 ||cartelreport.com^
 ||carterbeer.store^
 ||carterlye.com^
+||cartescadeauxcrypto.com^
 ||cartoonnetworkarabic.fr^
 ||cartoonpornguide.com^
 ||cartooonstudies.blogspot.com^
@@ -79682,7 +79776,6 @@ rgmechanicsgames.com*VPN.exe
 ||cautismsol.com^
 ||cavgemini.com^
 ||cavubae.com^
-||caxysuu0.pro^
 ||caycecole.com^
 ||cazyvye.com^
 ||cb-investms.com^
@@ -79785,8 +79878,6 @@ rgmechanicsgames.com*VPN.exe
 ||cdmd.skin^
 ||cdn-api.appadhoc.com^
 ||cdn-cf-hc-banners.hgonline.net^
-||cdn-connect.docusigner.info^
-||cdn-general.cyou^
 ||cdn-gritautomation.com^
 ||cdn-guile.akamaized.net^
 ||cdn-haokanapk.baidu.com^
@@ -80148,7 +80239,6 @@ rgmechanicsgames.com*VPN.exe
 ||chaliehebdo.fr^
 ||chalkandthimble.com^
 ||challeges.fr^
-||chalupapp.com^
 ||chambanasun.com^
 ||chambord.solutionshiguera.com^
 ||chamelaonpaints.com^
@@ -80159,12 +80249,12 @@ rgmechanicsgames.com*VPN.exe
 ||championsdigest.com^
 ||chance.cz^
 ||chancehill.com^
+||chandler-real-estate-homes.com^
 ||chandlerberry.xyz^
 ||chandlerloanofficer.com^
 ||chandrasheel.com^
 ||chanel-argovpn-bridge.shop^
 ||changan.bama555.com^
-||changeedfrostes.pro^
 ||changeeye.pro^
 ||changepassword-x.com^
 ||changgrowing.site^
@@ -80265,9 +80355,9 @@ rgmechanicsgames.com*VPN.exe
 ||cheekywin.com^
 ||cheer68.com^
 ||cheerdashl9.cam^
-||cheerfuldelights.shop^
 ||cheerfulgamespark615.sbs^
 ||cheerfulpathx2.cam^
+||cheerfulplants.com^
 ||cheerfulstepy4.cam^
 ||cheerfultrekl2.cam^
 ||cheerfulwaym2.cam^
@@ -80654,6 +80744,7 @@ rgmechanicsgames.com*VPN.exe
 ||cilidae.com^
 ||cilsp3u9xbf27q.plusdis.lat^
 ||ciltbakimiveguzellik.com^
+||cimentocapilar.com^
 ||cimorypola.com^
 ||cin19-nine.vercel.app^
 ||cinao.shop^
@@ -80793,7 +80884,6 @@ rgmechanicsgames.com*VPN.exe
 ||classicjack.com^
 ||classicreads.cfd^
 ||classicvet.standard.us-east-1.oortech.com^
-||classicvet2.standard.us-east-1.oortech.com^
 ||classmatesimprov.com^
 ||classoflash.com^
 ||classtech-eu.com^
@@ -80839,7 +80929,6 @@ rgmechanicsgames.com*VPN.exe
 ||cleaningmasters.site^
 ||cleaningpros.xyz^
 ||cleaningtoolspro.com^
-||cleaningwindowsca.click^
 ||cleanmobilephone.com^
 ||cleanmypc.com^
 ||cleannd.net^
@@ -81170,6 +81259,7 @@ rgmechanicsgames.com*VPN.exe
 ||cmcsofttech.com^
 ||cmctokensale.com^
 ||cmd.customink.com^
+||cmd24.org^
 ||cmd368max.com^
 ||cmd368t.com^
 ||cmd368tip.com^
@@ -81294,7 +81384,6 @@ rgmechanicsgames.com*VPN.exe
 ||cocoopt.com^
 ||cocounselgpt.com^
 ||cod.newsplbal.site^
-||code-woof.com^
 ||code.bianxianwu.com^
 ||code.cdjsblm.com^
 ||code.orange-jelly.net^
@@ -81303,17 +81392,17 @@ rgmechanicsgames.com*VPN.exe
 ||code1fa.m.shushu8.com^
 ||codeadnetwork.com^
 ||codeads.com^
+||codeandcradle.com^
 ||codeandwork.pl^
 ||codebiogblog.com^
-||codeblaze.cyou^
 ||codeblurb.com^
 ||codebounties.com^
 ||codeconfyweb.com^
 ||codeexplain.com^
+||codeguardians.cyou^
 ||codegur.com^
 ||codeine.ourtablets.com^
 ||codejourney.xyz^
-||codelabs.sbs^
 ||codelogic.fr^
 ||codemasteryacademy.com^
 ||codenettechnology.cfd^
@@ -81367,6 +81456,7 @@ rgmechanicsgames.com*VPN.exe
 ||coinfalcon.com^
 ||coinhive.com^
 ||coinhiveproxy.com^
+||coins-pockets.com^
 ||coinsapps.net^
 ||coinspatb.com^
 ||coinsrcash.com^
@@ -81416,12 +81506,12 @@ rgmechanicsgames.com*VPN.exe
 ||coloradovalleyguide.com^
 ||coloresdeboda.com^
 ||colorfulnotebooks.com^
-||coloringbookwallpaper.com^
 ||colorking.es^
 ||colors-app.blogspot.com^
 ||colorsoflife.online^
 ||colossusbets.com^
 ||colostralbitapp.info^
+||colourblinddesigner.com^
 ||colssimo.fr^
 ||columbahouse.com^
 ||columbiamonews.com^
@@ -81447,7 +81537,6 @@ rgmechanicsgames.com*VPN.exe
 ||comeatable.com^
 ||comebackdb.org^
 ||comebackskins.com^
-||comebackstays.com^
 ||comebet.xyz^
 ||comebetvn1.com^
 ||comebetvn10.com^
@@ -81511,8 +81600,8 @@ rgmechanicsgames.com*VPN.exe
 ||compasssafari.com^
 ||compe-nickel.fr^
 ||compendiumradio.com^
-||competitioncyclemetrics.com^
 ||compiledoctor.com^
+||compitenthosting.com^
 ||compitte.com^
 ||complaint.attentde07674.world^
 ||complaint.attentde09574.world^
@@ -81527,7 +81616,6 @@ rgmechanicsgames.com*VPN.exe
 ||complaint.room888884.world^
 ||complantbussinessverypagepolicy.com^
 ||completa-informazioni-binance.com^
-||completelifeimprovement.com^
 ||completeprotectioninternationalstandard.com^
 ||completesportsbetting.com.au^
 ||complexcom.skimlinks.com^
@@ -81581,8 +81669,11 @@ rgmechanicsgames.com*VPN.exe
 ||concreteindallas.com^
 ||concreteingrandrapids.com^
 ||concreteinlosangeles.com^
+||concreteinpittsburgh.com^
 ||concreteinriverside.com^
 ||concreteinsanbernardino.com^
+||concreteinvictorville.com^
+||concretemiamiusa.com^
 ||concretize-credible-97fb652d52ce24f-1797160d1e0bb243877.pages.dev^
 ||concursolutions.styliav.pl^
 ||condemgupd.cfd^
@@ -81712,7 +81803,6 @@ rgmechanicsgames.com*VPN.exe
 ||contactos-gay.com^
 ||contactpackage-ns02.dns.army^
 ||contas-stone.com^
-||contemporaryslateandstone.com^
 ||content-olx.domain-go.shop^
 ||content-olx.link-life.shop^
 ||content-olx.net-get.shop^
@@ -81849,7 +81939,6 @@ rgmechanicsgames.com*VPN.exe
 ||coreglead.co.uk^
 ||coremagonline.com^
 ||coremetrics.carrier.com^
-||corepatchcraft.com^
 ||coreplays.com^
 ||corezone.pl^
 ||cori1andercraft1.xyz^
@@ -82116,6 +82205,7 @@ rgmechanicsgames.com*VPN.exe
 ||cpaclickoffer.com^
 ||cpagettistream6.com^
 ||cpanelset.b-cdn.net^
+||cpanelsolutions.net^
 ||cpapollingbitapp.info^
 ||cpatrack.leadn.com^
 ||cpatraffictracker.com^
@@ -82124,7 +82214,6 @@ rgmechanicsgames.com*VPN.exe
 ||cpc.brand.sogou.com^
 ||cpc.sogou.com^
 ||cpc.sohu.com^
-||cpcentru24.com^
 ||cpeauto-cn.com^
 ||cplelangues.fr^
 ||cpm.adspine.com^
@@ -82161,6 +82250,8 @@ rgmechanicsgames.com*VPN.exe
 ||cracksplanet.com^
 ||crackzplanet.com^
 ||craftconduct.online^
+||craftingfamilyeq.com^
+||craftinglocals.com^
 ||craftkarkhana.com^
 ||craftpdf.com^
 ||craftresin.quest^
@@ -82184,7 +82275,6 @@ rgmechanicsgames.com*VPN.exe
 ||crazymasale.com^
 ||crazynews24.co.zw^
 ||crazynewsreports.com^
-||crazypaintings.com^
 ||crazypopups.com^
 ||crazyprotocol.com^
 ||crbacquisition.com^
@@ -82273,9 +82363,9 @@ rgmechanicsgames.com*VPN.exe
 ||cricketweb.net^
 ||cricknewz.com^
 ||cricrosterrumble.com^
+||crilly.top^
 ||crimevictimsfunds-taskunit.com^
 ||crimg.sv.publicus.com^
-||criminalincome.com^
 ||crimsonhorizon.ink^
 ||crimsonmeadow.com^
 ||crimsonwine.cyou^
@@ -82301,6 +82391,8 @@ rgmechanicsgames.com*VPN.exe
 ||cropprotectionnews.com^
 ||cropstead.store^
 ||cropwellphotography.com^
+||crosenergygh.com^
+||crosscountrys-consulting.com^
 ||crossfittobaccoroad.com^
 ||crossfordhealthcare.com^
 ||crosslinplumbinghvac.com^
@@ -82370,10 +82462,12 @@ rgmechanicsgames.com*VPN.exe
 ||cryptolivethailand.com^
 ||cryptomacaw.com^
 ||cryptominded.com^
+||cryptomonnaiesuisse.com^
 ||cryptomusk.io^
 ||cryptonewslines.com^
 ||cryptonitro.com^
 ||cryptonowz.xyz^
+||cryptopotato.net^
 ||cryptoprofit.pl^
 ||cryptorelated.com^
 ||cryptoscapesnow.com^
@@ -82534,6 +82628,7 @@ rgmechanicsgames.com*VPN.exe
 ||ctpethiopia1.com^
 ||ctr.hd.sohu.com^
 ||ctrck.com^
+||ctsgulff.com^
 ||cttr244.com^
 ||cttracking08.com^
 ||cu.kzvr.top^
@@ -82566,7 +82661,6 @@ rgmechanicsgames.com*VPN.exe
 ||cul1narymasterpieces.xyz^
 ||culinarycha.xyz^
 ||culinarydelight.xyz^
-||culinaryodyssey.xyz^
 ||cullligan.fr^
 ||cultl.com^
 ||cultstheater.com^
@@ -82812,7 +82906,6 @@ rgmechanicsgames.com*VPN.exe
 ||cyberlaws.digital^
 ||cyberlaws.pro^
 ||cybermecca.com^
-||cybermet.space^
 ||cybernergic.com^
 ||cybernodsecurity.com^
 ||cyberpanel.fr^
@@ -82836,7 +82929,6 @@ rgmechanicsgames.com*VPN.exe
 ||cyils.com^
 ||cykusai.xyz^
 ||cylefya.online^
-||cyndie-lafeebulleuse.com^
 ||cynergyper4mers.com^
 ||cynthiacurley.com^
 ||cynthiavotemarkpinsly.com^
@@ -82883,6 +82975,7 @@ rgmechanicsgames.com*VPN.exe
 ||czytamyartykuly.rest^
 ||czytm.top^
 ||czytooszustwo.pl^
+||d-bd.fovda.top^
 ||d-p-d.065236523.xyz^
 ||d-pd.7903423.xyz^
 ||d-pdproduct.64534419.xyz^
@@ -83035,7 +83128,6 @@ rgmechanicsgames.com*VPN.exe
 ||d9bet88.com^
 ||d9bksd.hair^
 ||d9bscd.cyou^
-||d9dxqy.icu^
 ||d9vcjl.lat^
 ||d9w.fl1c.com^
 ||da.mmarket.com^
@@ -83252,6 +83344,7 @@ rgmechanicsgames.com*VPN.exe
 ||darisea.com^
 ||dariusjula.com^
 ||darkblue.rouninfightware.com^
+||darkcheckers.net^
 ||darknagar.ru^
 ||darkravenbooks.com^
 ||darlasuescreations.com^
@@ -83375,7 +83468,9 @@ rgmechanicsgames.com*VPN.exe
 ||davulkayit.com^
 ||daw.biquge.info^
 ||dawahfood.com^
+||dawnbloom.shop^
 ||dawnnationaladvertiser.com^
+||daxiahealthcare.com^
 ||daxigei8.pro^
 ||daxiogroup.com^
 ||daycareprofits.com^
@@ -83533,6 +83628,7 @@ rgmechanicsgames.com*VPN.exe
 ||debrisgurus.com^
 ||debt.shengen.ru^
 ||debtfreewithmariska.com^
+||debttowealthbundle.com^
 ||debug.mssp.adunite.com^
 ||debugreport.mobiledissector.com^
 ||debugworkz.click^
@@ -83578,12 +83674,14 @@ rgmechanicsgames.com*VPN.exe
 ||deepimmediate.xyz^
 ||deepimmediateone.xyz^
 ||deepinsidetherabbithole.com^
+||deepquestanalytics.com^
 ||deepseacreatures.xyz^
 ||deepseaintellect.xyz^
 ||deepsearefitting.com^
 ||deepstate.news^
 ||deepthoughts.homes^
 ||deepuniverse.cam^
+||deepvibes.shop^
 ||deeranddeerhunting.shop^
 ||deerlock.org^
 ||def.5.p2l.info^
@@ -83657,6 +83755,7 @@ rgmechanicsgames.com*VPN.exe
 ||deliveryposta.online^
 ||dellvery324o1x.42151522.xyz^
 ||dellveryinfocustomsaddress.com^
+||delmontoya.org^
 ||delogicsolutions.com^
 ||deloitteca.com^
 ||deloo.de^
@@ -83764,7 +83863,6 @@ rgmechanicsgames.com*VPN.exe
 ||designednetwork.com^
 ||designer-catering.com^
 ||designerbagcatalog.com^
-||designsforest.com^
 ||designsupplyfit.com^
 ||desiredirt.com^
 ||desk.mspaceads.com^
@@ -83780,7 +83878,6 @@ rgmechanicsgames.com*VPN.exe
 ||dessertnestl6.xyz^
 ||dessertshift9.xyz^
 ||dessertwave8.xyz^
-||dessireizaguirre.com^
 ||dessove.com^
 ||destinyshoppy.com^
 ||destrodog.com^
@@ -83814,7 +83911,6 @@ rgmechanicsgames.com*VPN.exe
 ||dev.tg.youxi.com^
 ||dev.umeng.com^
 ||dev.wifi8.com^
-||devamars.com^
 ||devart.adbureau.net^
 ||devbhoomitourist.com^
 ||develope.bigfat.supplies^
@@ -83833,14 +83929,15 @@ rgmechanicsgames.com*VPN.exe
 ||devillershunt.com^
 ||devimark.com^
 ||devmius.com^
-||devotiondreams.xyz^
 ||devsofttechnology.click^
 ||devwrapi.washrocks.com^
 ||dew.proslow.top^
+||dewdropbliss.shop^
 ||dewdroplagoon.com^
 ||dewgleam.xyz^
 ||dewinci.fr^
 ||dewittreview.com^
+||dewshine.shop^
 ||dextertrapteam.com^
 ||dezedi.clickadsshifters.com^
 ||dezinebazar.com^
@@ -83965,6 +84062,7 @@ rgmechanicsgames.com*VPN.exe
 ||dig.zjurl.cn^
 ||digestion.news^
 ||digestiondrawer.com^
+||digestiverepairmethod.com^
 ||digi.asafedigital.com^
 ||digiaquascr.com^
 ||digiarz.com^
@@ -83999,7 +84097,6 @@ rgmechanicsgames.com*VPN.exe
 ||digitalbookofworld.com^
 ||digitalcentral.store^
 ||digitalclick.cfd^
-||digitalcrafters.cyou^
 ||digitaldialog-email.com^
 ||digitaldialogs-email.com^
 ||digitaldiamondzz.com^
@@ -84138,7 +84235,6 @@ rgmechanicsgames.com*VPN.exe
 ||dishwimper.com^
 ||disinislot8800.cfd^
 ||disinislot8800.makeup^
-||disk.accord1key.cn^
 ||disnayplius.account58632.synoserver.com^
 ||disney-vod.com^
 ||disneyholidays.fr^
@@ -84153,6 +84249,7 @@ rgmechanicsgames.com*VPN.exe
 ||displaytag.net^
 ||disposableinstruments.com^
 ||dispositioning.blogspot.com^
+||dispraises.com^
 ||disproportionateness.pro^
 ||disrooting.seroconver.store^
 ||disruptasaur.com^
@@ -84179,12 +84276,14 @@ rgmechanicsgames.com*VPN.exe
 ||divineprestigio.com^
 ||divinitynow.org^
 ||divisioncore.com^
+||divvanews.com^
 ||divx.adbureau.net^
 ||divx.it^
 ||diwsonmiwu.com^
 ||diwufiu.com^
 ||dixavae.pics^
 ||diy.nowyplx.top^
+||diycoffeerecipes.com^
 ||diypowertoolsquest.com^
 ||dizzcloud.com^
 ||dizzygirlguidebook.com^
@@ -84253,7 +84352,6 @@ rgmechanicsgames.com*VPN.exe
 ||dla.url-backup.online^
 ||dlaczegoomega3.natural.pl^
 ||dlagier.com^
-||dlapexvisiongroup.info^
 ||dlaptrent.com^
 ||dlaptsite.com^
 ||dlartvista.info^
@@ -84411,7 +84509,6 @@ rgmechanicsgames.com*VPN.exe
 ||dlprozone.com^
 ||dlpurecode.com^
 ||dlpuregems.com^
-||dlpurelife.info^
 ||dlquickfix.com^
 ||dlrealty.info^
 ||dlrenthaven.com^
@@ -84618,6 +84715,7 @@ rgmechanicsgames.com*VPN.exe
 ||document.pppo-govbd.com^
 ||documentariestowatch.com^
 ||documentsplaza.com^
+||docusign2.godaddysites.com^
 ||docusign67657890.weebly.com^
 ||docusign7567543.weebly.com^
 ||dod.wodmell.top^
@@ -84643,11 +84741,14 @@ rgmechanicsgames.com*VPN.exe
 ||dogi.medalmart.xyz^
 ||dogpial.com^
 ||dogry.fr^
+||dogsmining.com^
 ||dogtrace.fr^
+||dogtrainingbyletsgo.com^
 ||dogygram.com^
 ||doheth.co.uk^
 ||dohiqiy.online^
 ||dohocare.com^
+||dohyen.com^
 ||doike4.construtorapillar.eng.br^
 ||doit.freetheme.top^
 ||doitformom.com^
@@ -85016,6 +85117,8 @@ rgmechanicsgames.com*VPN.exe
 ||dribbleindia.com^
 ||drickelell.com^
 ||driev.store^
+||driftcharm.shop^
+||driftlaunch.com^
 ||drifttaxexemp.info^
 ||drillf3.com^
 ||drinknirvanahmb.com^
@@ -85220,6 +85323,7 @@ rgmechanicsgames.com*VPN.exe
 ||duhprogressive.com^
 ||duhyziy.pics^
 ||duic.troove.top^
+||dukadiary.com^
 ||dukaradio.com^
 ||dukenzo.sa.com^
 ||dukl.lat^
@@ -85243,8 +85347,10 @@ rgmechanicsgames.com*VPN.exe
 ||dunawea7.pro^
 ||dunder.com^
 ||dunelabs.com^
+||dunewave.shop^
 ||dungeofdestinys.com^
 ||dungeonofdestinys.com^
+||dungworthy.net^
 ||dunnbrook.com^
 ||duocsilamdep.com^
 ||duocsitv.com^
@@ -85302,6 +85408,7 @@ rgmechanicsgames.com*VPN.exe
 ||dw.xcar.com.cn^
 ||dwaf.top^
 ||dwclick.com^
+||dwiwebinar.com^
 ||dwnlad.ws^
 ||dwops.com^
 ||dwtracking.sdo.com^
@@ -85674,6 +85781,7 @@ rgmechanicsgames.com*VPN.exe
 ||ebayet.net^
 ||ebayeu.com^
 ||ebaywebpay.com^
+||ebazaarelite.shop^
 ||ebbaguate.com^
 ||ebbqcnfyta.cfolks.pl^
 ||ebdr2.com^
@@ -85694,6 +85802,8 @@ rgmechanicsgames.com*VPN.exe
 ||ebt-checker.com^
 ||ebt-gate.com^
 ||ebtmarketing.com^
+||ebuyelite.shop^
+||ebuymore.shop^
 ||ebwos3m3a2.pages.dev^
 ||ebycustoms.com^
 ||ec.uhhokker.top^
@@ -85703,6 +85813,7 @@ rgmechanicsgames.com*VPN.exe
 ||ecampuskbds.com^
 ||ecantal.fr^
 ||ecard4all.com^
+||ecartdirect.shop^
 ||ecatrion.pics^
 ||eccentrix.ru^
 ||eccobet.com^
@@ -85717,6 +85828,7 @@ rgmechanicsgames.com*VPN.exe
 ||echinahub.com^
 ||echitwankhabar-com.stackstaging.com^
 ||echo-dnia.24.eu^
+||echoicedeals.shop^
 ||echoingfieldsof.pro^
 ||echomiasteczka.rest^
 ||echopolski.rest^
@@ -85766,7 +85878,6 @@ rgmechanicsgames.com*VPN.exe
 ||ecomuful.de^
 ||econkoreabuzz.org^
 ||econnova.xyz^
-||economiacompassiva.com^
 ||economic-gaz.energympt.com^
 ||economic-global.mediareard.com^
 ||economicspathshala.com^
@@ -85800,6 +85911,7 @@ rgmechanicsgames.com*VPN.exe
 ||eddy.noneto.com^
 ||edecideur.fr^
 ||edemonitoring.top^
+||edenestate.info^
 ||edengroupinvesting.com^
 ||edge.metroleads.com^
 ||edgecast-vod.yahoo.net^
@@ -85812,6 +85924,7 @@ rgmechanicsgames.com*VPN.exe
 ||edificutur.cfd^
 ||edifydigitalworld.com^
 ||edirect.hotkeys.com^
+||edirect.shop^
 ||edisk.ukr.net.ssl2.in^
 ||edisonbsolutions.com^
 ||editmyway.com^
@@ -85914,7 +86027,6 @@ rgmechanicsgames.com*VPN.exe
 ||effective.shipblankzaxk.com^
 ||effectivebrand.com^
 ||effectivespeech.net^
-||effetgestaodemarketing.com^
 ||effexor-xr.1.p2l.info^
 ||efflate.lysteros.cfd^
 ||effworkemail.net^
@@ -86052,6 +86164,8 @@ rgmechanicsgames.com*VPN.exe
 ||electroenchufe.com^
 ||electroline.pl^
 ||electronic-security.com^
+||electrum-usdt.com^
+||electrum-xrp.net^
 ||electruma.org^
 ||elegantplace.online^
 ||elegantvalances.com^
@@ -86103,6 +86217,7 @@ rgmechanicsgames.com*VPN.exe
 ||elivetixs.com^
 ||elixirreservespowai.com^
 ||elixmediasurvey.com^
+||elizabethdsimkins.com^
 ||elizabethscleanremedy.com^
 ||elizabethtowntimes.com^
 ||elj.finnewspl.com^
@@ -86113,6 +86228,7 @@ rgmechanicsgames.com*VPN.exe
 ||ell.lubao-food.mobi^
 ||ell.zgzlw.biz^
 ||ellaclaireblog.com^
+||ellaclaireblog.net^
 ||ellaeelinwood.com^
 ||ellemoney.com^
 ||ellenreillypatterson.com^
@@ -86187,6 +86303,7 @@ rgmechanicsgames.com*VPN.exe
 ||emailstation.daemonchecks.top^
 ||emailway.datasetn.site^
 ||emanuelpsarakisadr.com^
+||emarketelite.shop^
 ||emarketshopper.com^
 ||embed.tagboard.com.herokudns.com^
 ||embeeeereeef.xyz^
@@ -86242,7 +86359,6 @@ rgmechanicsgames.com*VPN.exe
 ||emotionride543.sbs^
 ||emotionsparkplay364.sbs^
 ||emp.news^
-||emp.tesxappes.top^
 ||empiezaelviaje.com^
 ||empire.casino^
 ||empireherald.com^
@@ -86308,6 +86424,7 @@ rgmechanicsgames.com*VPN.exe
 ||endicia.fr^
 ||endingthefed.com^
 ||endoftheamericandream.com^
+||endrowgin.com^
 ||eneaduke.com^
 ||eneagrenn.paskaite.com^
 ||eneapl.paskaite.com^
@@ -86461,7 +86578,6 @@ rgmechanicsgames.com*VPN.exe
 ||eo2qdh.icu^
 ||eo9jko.cyou^
 ||eobuwie.superdrug-gb.shop^
-||eoirwwprwiorw.site^
 ||eol1.egyptonline.com^
 ||eologyt.pics^
 ||eomachae.com^
@@ -86471,6 +86587,7 @@ rgmechanicsgames.com*VPN.exe
 ||eosanchorwallet.com^
 ||eosbr.com^
 ||eoufaoeuhoauengi.su^
+||eoutletpro.shop^
 ||ep.egod.lat^
 ||ep.gapkod.com^
 ||epa.news^
@@ -86482,7 +86599,6 @@ rgmechanicsgames.com*VPN.exe
 ||epc-service.com^
 ||epi.net^
 ||epicureanbl.xyz^
-||epicureanexploration.xyz^
 ||epicureans.xyz^
 ||epilationlviv.com^
 ||epltgroup.com^
@@ -86496,6 +86612,7 @@ rgmechanicsgames.com*VPN.exe
 ||epoxyresin.quest^
 ||epp.2polj.top^
 ||epp.bih.net.ba^
+||eprime.shop^
 ||epseudosuchian.info^
 ||epsilon-skullgames.com^
 ||epsilonpureis.com^
@@ -86523,13 +86640,11 @@ rgmechanicsgames.com*VPN.exe
 ||equityedgepros.com^
 ||equitywar.com^
 ||eqy.link^
-||er.nowyplx.top^
 ||er8zft.rest^
 ||era.finnewspl.com^
 ||erainvestor.com^
 ||erawords.com^
 ||erbanedersi.com^
-||ercc.depactive.top^
 ||ercfactfinding.com^
 ||erectile.byethost33.com^
 ||eremogaudio.it^
@@ -86576,7 +86691,6 @@ rgmechanicsgames.com*VPN.exe
 ||ertopcu.com^
 ||eruga.autotrdes.top^
 ||eruting.com^
-||eruy.actyprogss.top^
 ||ervlous.com^
 ||erwqw.zh1155.com^
 ||erythromycinz.com^
@@ -86673,6 +86787,7 @@ rgmechanicsgames.com*VPN.exe
 ||estereotecum502.com^
 ||estevedieteticienne.com^
 ||estilond.xyz^
+||estorepro.shop^
 ||estorilsolcasinos.pt^
 ||estuarybotanics.com^
 ||estucce93.com^
@@ -86710,6 +86825,7 @@ rgmechanicsgames.com*VPN.exe
 ||ethereumproair.net^
 ||etherfidrops.com^
 ||ethetfinvest.com^
+||ethicalinfotech.com^
 ||ethiopia-sugar.net^
 ||ethioplanairlines.com^
 ||ethnicafrique.com^
@@ -86860,7 +86976,6 @@ rgmechanicsgames.com*VPN.exe
 ||evelynswonderland.com^
 ||evelyntilley.com^
 ||eveningaura.xyz^
-||eveningembers.xyz^
 ||event-logger.tagboard.com.herokudns.com^
 ||event-tracking.com^
 ||event.mackeeper.com^
@@ -86995,6 +87110,7 @@ rgmechanicsgames.com*VPN.exe
 ||executation.com^
 ||executive-aide.com^
 ||executive-specialist.com^
+||executivepartnermovement.com^
 ||executives-unfpa.org^
 ||exelate.com^
 ||exelformation.fr^
@@ -87055,7 +87171,6 @@ rgmechanicsgames.com*VPN.exe
 ||experimentalmetrology.pro^
 ||expertbike.pl^
 ||expertcourseguide.com^
-||expertdevelopers.cyou^
 ||expertfinanciarbz.com^
 ||expertfinanciarbz.net^
 ||expertfinanciarbz.org^
@@ -87147,7 +87262,6 @@ rgmechanicsgames.com*VPN.exe
 ||ezfreightshrteam.com^
 ||ezgrohydro.com^
 ||ezicepro.com^
-||eziquiz.com^
 ||ezl.com^
 ||ezmedtext.com^
 ||ezoliniawrozby.com^
@@ -87240,7 +87354,6 @@ rgmechanicsgames.com*VPN.exe
 ||f8mchx.cyou^
 ||f99.265958.com^
 ||f9fe62e383.www-dis.lat^
-||f9kedk.rest^
 ||f9szdd.lat^
 ||f9uri.mymobilelead.com^
 ||fa-ceit.join-mhub.pro^
@@ -87331,9 +87444,11 @@ rgmechanicsgames.com*VPN.exe
 ||fact.lasteprog.site^
 ||factorymsn.serv00.net^
 ||factsn.com^
+||facturasgaso.shop^
 ||facultymembers.sbu.ac.ir^
 ||fadadosexo.com.br^
 ||fadedsnow.com^
+||fadelmitchell.cfd^
 ||faecbook.com.vn^
 ||fafa-999.com^
 ||fafabyy0.pro^
@@ -87712,7 +87827,6 @@ rgmechanicsgames.com*VPN.exe
 ||fbweryfikacja123.blogspot.com^
 ||fbwinkeyboard.org^
 ||fc.lben.skin^
-||fc2kwt.skin^
 ||fc76.infroil.com^
 ||fcb8.club^
 ||fcb8.com^
@@ -87745,7 +87859,6 @@ rgmechanicsgames.com*VPN.exe
 ||fdahealthnews.com^
 ||fdareporter.com^
 ||fdbdo.com^
-||fdc.xiproject.top^
 ||fddo.lat^
 ||fdfeast.xyz^
 ||fdfiesta.xyz^
@@ -87756,9 +87869,7 @@ rgmechanicsgames.com*VPN.exe
 ||fdlnks.xyz^
 ||fdmx.lat^
 ||fdoverbilled.com^
-||fdpost24.one^
 ||fdpost24.sbs^
-||fdpost24.top^
 ||fdpost36.top^
 ||fds.api.moji.com^
 ||fdsb.troove.top^
@@ -87803,7 +87914,6 @@ rgmechanicsgames.com*VPN.exe
 ||feedback.windows.com^
 ||feedbackexplorer.com^
 ||feedbackguest84950.world^
-||feedbackinnguest999214.world^
 ||feedbackresearch.com^
 ||feedbackroom08350.world^
 ||feedmob.com^
@@ -87926,6 +88036,7 @@ rgmechanicsgames.com*VPN.exe
 ||fhjhgjdh.weebly.com^
 ||fhyuifojn32teydudmiouhge7y8uik2io3ueyrfuido.pages.dev^
 ||fi-mobiillepay.com^
+||fi-mobille-paylla.com^
 ||fi.casiplay.com^
 ||fi88.app^
 ||fi88.club^
@@ -88158,6 +88269,7 @@ rgmechanicsgames.com*VPN.exe
 ||finead.cn^
 ||finefinery.xyz^
 ||finetestinc.com^
+||finewoodworkingguy.com^
 ||fingerboardconvention.com^
 ||fingerlakesfingerlings.com^
 ||fingerlakestoday.com^
@@ -88238,7 +88350,6 @@ rgmechanicsgames.com*VPN.exe
 ||fislfjsklf.com^
 ||fiso.campaigninsightpro.su^
 ||fit-poradnik.pl^
-||fit.sspamedia.com^
 ||fit.uuywe.top^
 ||fit4form.fr^
 ||fitboxy.pl^
@@ -88288,7 +88399,6 @@ rgmechanicsgames.com*VPN.exe
 ||fiverr.id-7991.com^
 ||fiverr.offers-go.com^
 ||fivestarhelicopters.com^
-||fivetecno.com^
 ||fivevn.net^
 ||fix-issue.com^
 ||fixaleakyfaucet.com^
@@ -88373,7 +88483,6 @@ rgmechanicsgames.com*VPN.exe
 ||flexibleassessment.ru^
 ||flexingsituation.xyz^
 ||flexkey.biz^
-||flexlearningcentre.com^
 ||flextra.1.p2l.info^
 ||flfthnutrisupply.net^
 ||flhforge.com^
@@ -88424,9 +88533,7 @@ rgmechanicsgames.com*VPN.exe
 ||floressanmiguel.com.co^
 ||florida-shelving.com^
 ||florida-ulcminister.com^
-||floridadoverelease.com^
 ||floridalawncarexperts.com^
-||floridamermaidfestival.com^
 ||floridamotorcycleinjurylawyer.com^
 ||floridaparishnews.com^
 ||floridapropainting.com^
@@ -88485,12 +88592,10 @@ rgmechanicsgames.com*VPN.exe
 ||fmads.osdn.com^
 ||fmapt.com^
 ||fmcurling.org^
-||fmfnqpoeei.site^
 ||fmg.aty.sohu.com^
 ||fmi-icloud-locate.info^
 ||fmm4rpdh6.top^
 ||fmobserver.com^
-||fmote.powerlift.top^
 ||fmworldz.ru^
 ||fmzg.skin^
 ||fn.drrd.lat^
@@ -88621,10 +88726,12 @@ rgmechanicsgames.com*VPN.exe
 ||forexopinia.pl^
 ||forexpay24.com^
 ||forexyestrader.pl^
+||forfouchtenovercriticalness198.org^
 ||forgen.sbs^
 ||forgenelifesciences.com^
 ||forgutandglory.com^
 ||forkrush.com^
+||forlandandsea.org^
 ||form-ap1-546070.public.500apps.org^
 ||form-ap1-555049.public.500apps.org^
 ||form-ap1-555513.public.500apps.org^
@@ -88752,7 +88859,6 @@ rgmechanicsgames.com*VPN.exe
 ||francebootball.fr^
 ||francelbleu.fr^
 ||francele.com^
-||franchisesoperations.com^
 ||franci.shop^
 ||franciscodelgadoneurocirugia.com^
 ||francofooods.com^
@@ -88764,6 +88870,7 @@ rgmechanicsgames.com*VPN.exe
 ||franklikeme.blogspot.com^
 ||franklindigitalweb.com^
 ||franko.info^
+||fransize-veryf.com^
 ||frant.frantinvest.site^
 ||frappefusion.xyz^
 ||frasaa.xyz^
@@ -89194,7 +89301,6 @@ rgmechanicsgames.com*VPN.exe
 ||fylagya6.pro^
 ||fyls88zqyb.content-ad.net^
 ||fynsubik.space^
-||fyricoo0.pro^
 ||fywewiula.xyz^
 ||fyxd.lat^
 ||fyxm.net^
@@ -89243,9 +89349,11 @@ rgmechanicsgames.com*VPN.exe
 ||g1388.com^
 ||g1bngvefe.top^
 ||g1qsnm.lol^
+||g1swqs.top^
 ||g1woft.lol^
 ||g2.072m.com^
 ||g2g1199.com^
+||g2hministries.org^
 ||g2lgem.lat^
 ||g2play.fr^
 ||g2povh.top^
@@ -89268,7 +89376,6 @@ rgmechanicsgames.com*VPN.exe
 ||g8mamx.lol^
 ||g8njgf.lol^
 ||g8wuoo.lat^
-||g9jilk.lol^
 ||g9qhlx.cyou^
 ||g9rufd.lat^
 ||g9tfee.rest^
@@ -89452,7 +89559,6 @@ rgmechanicsgames.com*VPN.exe
 ||gamesdailynews.com^
 ||gamesflasher.com^
 ||gamesfly.com^
-||gamesforwordpress.com^
 ||gamesharck.com^
 ||gamesiteads.com^
 ||gamesites100.net^
@@ -89508,6 +89614,7 @@ rgmechanicsgames.com*VPN.exe
 ||gardensigma.com^
 ||gardenstatetimes.com^
 ||garitaa3.pro^
+||garlicsaltlime.com^
 ||garmah.com^
 ||garmah.net^
 ||garss.jp^
@@ -89556,7 +89663,10 @@ rgmechanicsgames.com*VPN.exe
 ||gawin88.com^
 ||gawx.florenda.com^
 ||gayedaproperty.net^
+||gazcta.com^
 ||gazcta24.com^
+||gazctapl.com^
+||gazefa.com^
 ||gazeta-pl.world^
 ||gazeta-polska.24.eu^
 ||gazeta-polska.cosmoenergynew.com^
@@ -89595,7 +89705,6 @@ rgmechanicsgames.com*VPN.exe
 ||gcesab.com^
 ||gcgfinancespain.com^
 ||gcigmbh.net^
-||gcin.actyprogss.top^
 ||gcirm.argusleader.com^
 ||gcirm.argusleader.gcion.com^
 ||gcirm.battlecreekenquirer.com^
@@ -89642,7 +89751,6 @@ rgmechanicsgames.com*VPN.exe
 ||gcirm.thespectrum.com^
 ||gcirm2.indystar.com^
 ||gcn-1nterc.com^
-||gcnn.actyprogss.top^
 ||gco.g-cointrad.top^
 ||gcoes.g-cointrad.top^
 ||gcounter.hosting4u.net^
@@ -89666,6 +89774,7 @@ rgmechanicsgames.com*VPN.exe
 ||gddgle.site^
 ||gdg7ifnwwk.pages.dev^
 ||gdgy56.com^
+||gdlandscape-ae.com^
 ||gdllandscape-ae.com^
 ||gds786bomyc.com^
 ||gdwbetvn888.com^
@@ -89725,12 +89834,14 @@ rgmechanicsgames.com*VPN.exe
 ||gen-pl-poctza.weebly.com^
 ||gen.alicdn.com^
 ||gen2server.com^
+||genaro8565ivan5612.net^
 ||gencmakers.com^
 ||gender.news^
 ||genedarocha.com^
 ||generaldigital.sbs^
 ||generaldigital.site^
 ||generalrisknew.k8s.optimizaclick.com^
+||generalskalsk.net^
 ||generalsoft.sbs^
 ||generaltg.com^
 ||generateoffice.com^
@@ -89956,7 +90067,6 @@ rgmechanicsgames.com*VPN.exe
 ||ggljjk.cc^
 ||ggm.zarobab.top^
 ||ggr.yxdown.com^
-||ggrengaarnish.cam^
 ||ggx02.miguvideo.com^
 ||ggx10.miguvideo.com^
 ||gh-hr.cn^
@@ -89966,6 +90076,7 @@ rgmechanicsgames.com*VPN.exe
 ||ghaziabadmarket.com^
 ||ghdissocial.shop^
 ||gherkinr.info^
+||ghfff.co.uk^
 ||ghia450ss.com^
 ||ghichancejkl.xyz^
 ||ghj.whyizh.site^
@@ -90112,6 +90223,7 @@ rgmechanicsgames.com*VPN.exe
 ||glendalesun.com^
 ||glendrall.com^
 ||glenelderguide.com^
+||glennmedina.com^
 ||glennmorton.com^
 ||glentot.com^
 ||glf2i8q.grndhkd.cn^
@@ -90154,7 +90266,7 @@ rgmechanicsgames.com*VPN.exe
 ||globalnathaliaairs.com^
 ||globalnews247.net^
 ||globalpickleballacademy.com^
-||globalproftab.xyz^
+||globalplaycommunity.com^
 ||globalqualitytires.com^
 ||globalresearch.ca^
 ||globalsenterprises.com^
@@ -90406,7 +90518,6 @@ rgmechanicsgames.com*VPN.exe
 ||godfreyweir.com^
 ||godover.top^
 ||godpoori.org^
-||godrejnewlaunchproject.com^
 ||godrejpropertiesmumbai.com^
 ||godrix.com^
 ||godsadvice.com^
@@ -90469,6 +90580,7 @@ rgmechanicsgames.com*VPN.exe
 ||goldlasermachine.com^
 ||goldmedalbingo.com^
 ||goldpostmailroom.com^
+||goldsolutions.eu^
 ||goldspak.xyz^
 ||goldzeusbonanza.com^
 ||golenshine.xyz^
@@ -90611,7 +90723,6 @@ rgmechanicsgames.com*VPN.exe
 ||govlogowania.com^
 ||govpl-24724.com^
 ||govpl.org^
-||govpl230724.com^
 ||govpl24724.com^
 ||govpl25724.com^
 ||govplweryfikacjalogowania.com^
@@ -90649,7 +90760,6 @@ rgmechanicsgames.com*VPN.exe
 ||gqpfilters.com^
 ||gqrims.com^
 ||gqsnt.com^
-||gr1ndgratitude.cam^
 ||gr1ndguru.cam^
 ||gr2zse.icu^
 ||gr88.com^
@@ -90838,7 +90948,6 @@ rgmechanicsgames.com*VPN.exe
 ||griefpluckpiece.live^
 ||griggsteam.com^
 ||grimesjournal.com^
-||grindgl0w.cam^
 ||grizzlybeards.com^
 ||grnpower.io^
 ||grocery.news^
@@ -90873,7 +90982,6 @@ rgmechanicsgames.com*VPN.exe
 ||growthuppakistan.com^
 ||growtreechange.pro^
 ||growwtips.com^
-||grs.kastaff.top^
 ||grtdrvsevse.socdocu.top^
 ||grubberies.info^
 ||grudzienpolska.com^
@@ -90894,6 +91002,7 @@ rgmechanicsgames.com*VPN.exe
 ||grupocedva.mx^
 ||grupodisal.com.co^
 ||grupoeq.com^
+||grupomoebius.com^
 ||grupoponto10.com.br^
 ||grupopsantos.pt^
 ||grupoviasmaquina.com^
@@ -90945,6 +91054,7 @@ rgmechanicsgames.com*VPN.exe
 ||guaranteedbusinessbanking.com^
 ||guaranty.com.cn^
 ||guard-cbwallet.com^
+||guard-security.net^
 ||guardeddirection.com^
 ||guardedschool.com^
 ||guardiansesports.com^
@@ -91017,7 +91127,6 @@ rgmechanicsgames.com*VPN.exe
 ||gurukripafurniturehub.com^
 ||guruonlyteam.com^
 ||gusoqau.pro^
-||gustavu.shop^
 ||gustaw.shop^
 ||gustomagro.it^
 ||guthriecountyguide.com^
@@ -91071,6 +91180,7 @@ rgmechanicsgames.com*VPN.exe
 ||gymnastunifo.com^
 ||gymnogpzsn.site^
 ||gymratcat.com^
+||gymroll.net^
 ||gymsharkpolska-pl.cc^
 ||gymsharkpolska-pl.me^
 ||gymsharksklep.pl^
@@ -91098,7 +91208,6 @@ rgmechanicsgames.com*VPN.exe
 ||h-adashx4yt.ut.taobao.com^
 ||h-gsolicitors.com^
 ||h-mo.top^
-||h-n-balticpipe-pl.firebaseapp.com^
 ||h-n-balticpipe-pl.web.app^
 ||h-villamotel.com^
 ||h.2laezi9.cn^
@@ -91222,6 +91331,7 @@ rgmechanicsgames.com*VPN.exe
 ||haigekassaandmed.com^
 ||hail-reporting.tutelatechnologies.com^
 ||haileyoei.net^
+||hairbybecca.com^
 ||hairstreak.xyz^
 ||hairtransplantlucknow.com^
 ||hairzcares.com^
@@ -91289,6 +91399,7 @@ rgmechanicsgames.com*VPN.exe
 ||handsfeetfoundation.com^
 ||handsomehandsnails.com^
 ||handsomehose.com^
+||handsomemangang.com^
 ||handspunfiberarts.com^
 ||handtruckmanufacturer.com^
 ||handyarchive.com^
@@ -91596,6 +91707,7 @@ rgmechanicsgames.com*VPN.exe
 ||heimo.rrsdl.com^
 ||heimzentralchteam.com^
 ||heladosmaya.com^
+||helenakitchenshop.com^
 ||helikontex.shop^
 ||helikontexoutdoor.com^
 ||helios.fvn.no^
@@ -91687,6 +91799,7 @@ rgmechanicsgames.com*VPN.exe
 ||henymia.top^
 ||hepevee.xyz^
 ||heptagoninvestments.net^
+||heptaunall.com^
 ||hepuloa.online^
 ||her1bhave1n.xyz^
 ||heratiorr.site^
@@ -91725,6 +91838,7 @@ rgmechanicsgames.com*VPN.exe
 ||herplus.org^
 ||herposv.com^
 ||hertzsales.com^
+||herupriseera.com^
 ||heryderlakewa.com^
 ||hessaalwaeli.com^
 ||hessystems.com^
@@ -91802,7 +91916,6 @@ rgmechanicsgames.com*VPN.exe
 ||highlanderfreight.com^
 ||highlifebingo.com^
 ||highpro1.com^
-||highriseenvironmental.com^
 ||highroller.com^
 ||highscanprotect.com^
 ||highschoolbouldering.com^
@@ -91942,7 +92055,6 @@ rgmechanicsgames.com*VPN.exe
 ||hitsite.crazy-bee.com^
 ||hitslap.com^
 ||hitslog.com^
-||hitstation.nl^
 ||hitvisit.com^
 ||hitweb.chosun.com^
 ||hiuinder.beauty^
@@ -92065,6 +92177,7 @@ rgmechanicsgames.com*VPN.exe
 ||hollandmichiganmortgage.com^
 ||hollandreporter.com^
 ||hollowafterthought.com^
+||hollychristmasgift.com^
 ||hollywoodbattery.com^
 ||hollywoodbets.net^
 ||hollywoodhater.com^
@@ -92114,7 +92227,6 @@ rgmechanicsgames.com*VPN.exe
 ||homelycrown.com^
 ||homemeditationretreats.com^
 ||homemycology.com^
-||homeofhousemusic.com^
 ||homepageking.de^
 ||homepl-poczta.p827279.website^
 ||homepl-serwer.log92092.online^
@@ -92124,7 +92236,6 @@ rgmechanicsgames.com*VPN.exe
 ||homerunsportsbetting.com^
 ||homesafetyarms.com^
 ||homeschooling.news^
-||homesellingfacts.com^
 ||homesolarrenew.com^
 ||homestrategiczapas.com^
 ||homesverified.com^
@@ -92249,7 +92360,6 @@ rgmechanicsgames.com*VPN.exe
 ||hot24profit.life^
 ||hot51.com^
 ||hotbet90.com^
-||hotbot.beauty^
 ||hotbtpt.shop^
 ||hotchat-im.iqiyi.com^
 ||hotchatdate.com^
@@ -92262,7 +92372,6 @@ rgmechanicsgames.com*VPN.exe
 ||hotelholidayresorts.com^
 ||hotelissimo.fr^
 ||hotelkrome.com^
-||hotellhundvanliga.com^
 ||hotelrotat.com^
 ||hotelzipline.com^
 ||hotflix-32.org^
@@ -92336,6 +92445,8 @@ rgmechanicsgames.com*VPN.exe
 ||howtodiys.com^
 ||howtoffgrid.com^
 ||howtogambler.com^
+||howtoreport.com^
+||howtosetgoals.com^
 ||howtostartainternetbusiness.com^
 ||howtostyleguide.com^
 ||howtotek.com^
@@ -92358,7 +92469,6 @@ rgmechanicsgames.com*VPN.exe
 ||hq6sqm.rest^
 ||hq9fky.bond^
 ||hqoutdoorhome.com^
-||hr2019.vrcom7.com^
 ||hradvanceportal.com^
 ||hradware.fr^
 ||hrcworld.net^
@@ -92419,6 +92529,7 @@ rgmechanicsgames.com*VPN.exe
 ||htracker4.zmzfile.com^
 ||htracker5.zmzfile.com^
 ||htrair.shop^
+||http.vseuasthfxzzqxev.xyz^
 ||httpaccess.com^
 ||httpads.com^
 ||httpdns.c.cdnhwc2.com^
@@ -92551,6 +92662,7 @@ rgmechanicsgames.com*VPN.exe
 ||hurt-rower777.com^
 ||hurtjedrus.irenaos.store^
 ||hurtowe-promocje24.com^
+||husbandlinessnav.info^
 ||hustleandmusclesport.com^
 ||hustlercash.hit.bg^
 ||hustlerplugz.com^
@@ -92566,7 +92678,6 @@ rgmechanicsgames.com*VPN.exe
 ||huvividfolio.org^
 ||huwediu.com^
 ||huwerhet.xyz^
-||huyanhnongdo.io.vn^
 ||hv.code.tanwanyx.com^
 ||hv.isttopsd.com^
 ||hvacprotip.com^
@@ -92744,7 +92855,6 @@ rgmechanicsgames.com*VPN.exe
 ||i5.vaishnaviinterior.com^
 ||i5aety.lol^
 ||i5fyku.bond^
-||i5lfvs.bond^
 ||i5o6kwjluxgrpb.dis-tv.fun^
 ||i6.ictorganisers.com^
 ||i6.vaishnaviinterior.com^
@@ -93451,7 +93561,6 @@ rgmechanicsgames.com*VPN.exe
 ||immedivolt.space^
 ||immensehoney.com^
 ||immerselymedia.com^
-||immersivewaters.com^
 ||immigranttees.com^
 ||immo-ventura.com^
 ||immodiat.net^
@@ -93813,7 +93922,6 @@ rgmechanicsgames.com*VPN.exe
 ||informacjezeswiata.rest^
 ||informacyjnyportalrm24.eu^
 ||informalabs.com^
-||information-binance.com^
 ||informationarchitech.com^
 ||informationreviewmarrket.com^
 ||informations-colissimo.com^
@@ -93863,7 +93971,6 @@ rgmechanicsgames.com*VPN.exe
 ||ingredients.news^
 ||inhotvw.com^
 ||inhumbs.news^
-||ini-pg.web.app^
 ||ini.inhhome.top^
 ||ini.sh-pp.com^
 ||init.phpwind.com^
@@ -93907,6 +94014,7 @@ rgmechanicsgames.com*VPN.exe
 ||inno.bisrv.com^
 ||innocentwax.com^
 ||innopond.com^
+||innorise.webflow.io^
 ||innov8tion.com^
 ||innovatefuture.xyz^
 ||innovatiahub.site^
@@ -93981,7 +94089,6 @@ rgmechanicsgames.com*VPN.exe
 ||inposbo.buzz^
 ||inposbo.one^
 ||inposboo.buzz^
-||inposd.mom^
 ||inposdon.help^
 ||inposit.cyou^
 ||inpositem.com^
@@ -94138,6 +94245,7 @@ rgmechanicsgames.com*VPN.exe
 ||inpost.oferta-691753.link^
 ||inpost.ommebex.shop^
 ||inpost.order6378.life^
+||inpost.pfogoidsiis.org^
 ||inpost.pl-basederecom.pw^
 ||inpost.pl-info-trackcode-id734564.xyz^
 ||inpost.pl-info-trackcode-id973214.xyz^
@@ -94237,7 +94345,6 @@ rgmechanicsgames.com*VPN.exe
 ||inpostoe.xyz^
 ||inpostof.xyz^
 ||inpostoffice.help^
-||inpostoffice.mom^
 ||inpostoi.xyz^
 ||inpostok.xyz^
 ||inpostol.xyz^
@@ -94253,7 +94360,6 @@ rgmechanicsgames.com*VPN.exe
 ||inpostpl.help^
 ||inpostpl.ink^
 ||inpostpl.lat^
-||inpostplapp.icu^
 ||inpostplib.top^
 ||inpostplin.help^
 ||inpostplkkcl.top^
@@ -94285,7 +94391,6 @@ rgmechanicsgames.com*VPN.exe
 ||inpostst.xyz^
 ||inpoststpl.xyz^
 ||inpostsvip.top^
-||inpostt.click^
 ||inpostt.com^
 ||inpostt.xin^
 ||inposttogo.icu^
@@ -94294,7 +94399,6 @@ rgmechanicsgames.com*VPN.exe
 ||inpostv.cfd^
 ||inpostv.cyou^
 ||inpostv.mom^
-||inpostweb.icu^
 ||inpostxe.icu^
 ||inpotech.top^
 ||inpots.top^
@@ -94310,6 +94414,7 @@ rgmechanicsgames.com*VPN.exe
 ||insertbeakproductions.buzz^
 ||insgly.net^
 ||inside.bitcomet.com^
+||insideandoutsidecreativedesigns.com^
 ||insidechance.lat^
 ||insider-trust.com^
 ||insightattire.com^
@@ -94355,6 +94460,7 @@ rgmechanicsgames.com*VPN.exe
 ||instantmadness.com^
 ||instantpropayments.com^
 ||instantstreetview.fr^
+||instarnces.click^
 ||instaslot888s.com^
 ||instastory.pl^
 ||instinction.info^
@@ -94393,6 +94499,7 @@ rgmechanicsgames.com*VPN.exe
 ||intenfix.com^
 ||intensv.com^
 ||intensywneinfo.rest^
+||intentionalhospitalitystore.com^
 ||intera-x.com^
 ||interac-etransfer.net^
 ||interac1-ssl2.info^
@@ -94456,6 +94563,7 @@ rgmechanicsgames.com*VPN.exe
 ||international-branding.com^
 ||internationalcommissioningengineers.com^
 ||internationalhelp.online^
+||internationalstudentscholarinsurance.net^
 ||internationaltacosco.com^
 ||internationaltibecom.com^
 ||internet-cleaning-tool.capital-software.qarchive.org^
@@ -94531,6 +94639,7 @@ rgmechanicsgames.com*VPN.exe
 ||investbooking.de^
 ||investgrow.xyz^
 ||investigatordetective.com^
+||investimmediate.com^
 ||investingly.xyz^
 ||investingops.com^
 ||investingworld.cfd^
@@ -94678,7 +94787,6 @@ rgmechanicsgames.com*VPN.exe
 ||iptvgoldenhub.com^
 ||iptvplusplay.com^
 ||iptvstreaming.cam^
-||ipvo.online^
 ||ipzd.pl^
 ||iq001.adtech.fr^
 ||iq001.adtech.us^
@@ -94719,7 +94827,6 @@ rgmechanicsgames.com*VPN.exe
 ||irs01.net^
 ||irvine-concept.com^
 ||irvinglamadrid.com^
-||irvingsac.com^
 ||irygym.xyz^
 ||is-ervelia.pl^
 ||is.snssdk.com^
@@ -94743,6 +94850,7 @@ rgmechanicsgames.com*VPN.exe
 ||islandgps.org^
 ||islandmob.com^
 ||islandoverheaddoor.com^
+||islandsoundvideo.com^
 ||isledelarge.com^
 ||isleofbingo.com^
 ||islingtonreiki.com^
@@ -94792,6 +94900,7 @@ rgmechanicsgames.com*VPN.exe
 ||itempana.site^
 ||itencate.com^
 ||iterativecode.com^
+||itgoshi.com^
 ||ithosworld.com^
 ||itincorpora.com^
 ||itoman.doorblog.jp^
@@ -94819,9 +94928,9 @@ rgmechanicsgames.com*VPN.exe
 ||iu7jcn.bond^
 ||iu7ndv.lat^
 ||iurche.com^
+||iv-usa.com^
 ||iv.uhhokker.top^
 ||iv24.pl^
-||iv3bfo.icu^
 ||iveena.org^
 ||ivgault.fr^
 ||ivideo360.com^
@@ -94835,6 +94944,7 @@ rgmechanicsgames.com*VPN.exe
 ||iw4pas.lat^
 ||iwan.sogou.com^
 ||iwantmusclemass.com^
+||iwashko.com^
 ||iwbubcs.v01aelux.space^
 ||iwellnesswave.com^
 ||iweysacro.sacors.top^
@@ -95210,7 +95320,6 @@ rgmechanicsgames.com*VPN.exe
 ||jav.ee^
 ||javacabanacoffee.com^
 ||javacenter.pl^
-||javaj0y.cam^
 ||javajive.xyz^
 ||javajubilee.xyz^
 ||javalongpepper.com^
@@ -95302,6 +95411,7 @@ rgmechanicsgames.com*VPN.exe
 ||jeffreydbailey.com^
 ||jeffreykenttherapy.com^
 ||jeffreysbrown.com^
+||jefinance.net^
 ||jegotao6.sbs^
 ||jehdin.net^
 ||jehlumtravel.com^
@@ -95390,7 +95500,6 @@ rgmechanicsgames.com*VPN.exe
 ||jh0spt0d.6619462.com^
 ||jh0spt0d.757864378.com^
 ||jh0spt0d.id6756588.shop^
-||jh1slu.top^
 ||jh4bng.lol^
 ||jhbjhvhgcgfncnmvgfcjyh.co.in^
 ||jhhkl.25ku.com^
@@ -95412,7 +95521,6 @@ rgmechanicsgames.com*VPN.exe
 ||jiejiekan.net^
 ||jifen.2345.com^
 ||jifendownload.2345.cn^
-||jiferiu.info^
 ||jigavlogs.com^
 ||jihehuaban.com^
 ||jijxdryer.com^
@@ -95540,7 +95648,6 @@ rgmechanicsgames.com*VPN.exe
 ||jobcep.com^
 ||jobcity.com^
 ||jobfreelance.fr^
-||jobjump.cam^
 ||jobleessreport.click^
 ||joblp.com^
 ||jobpz.com^
@@ -95553,6 +95660,7 @@ rgmechanicsgames.com*VPN.exe
 ||jodybelisle.blogspot.com^
 ||joe-robot.com^
 ||joebiden.news^
+||joeenglishinstitute.com^
 ||joeforamerica.com^
 ||joes-footwears.com^
 ||joetec.net^
@@ -95564,10 +95672,12 @@ rgmechanicsgames.com*VPN.exe
 ||joggiez.com^
 ||jogging-business.com^
 ||joggyjanart.online^
+||joginatlife.xyz^
 ||jogossantacasa.pt^
 ||johafey.com^
 ||johngaltsol.com^
 ||johngraham.com^
+||johnhds876.mfs.gg^
 ||johnny-walker.com^
 ||johnrudnick.org^
 ||johnslots.com^
@@ -95613,7 +95723,6 @@ rgmechanicsgames.com*VPN.exe
 ||jonytuy.xyz^
 ||joocasino31.com^
 ||joomlaworks.fr^
-||joopshoop.shop^
 ||jorban-risceo.com^
 ||jordanbuty.pl^
 ||jordanshenk.com^
@@ -95641,6 +95750,7 @@ rgmechanicsgames.com*VPN.exe
 ||jotrobot.com^
 ||jouhaneplaccount.grupoimeba.com^
 ||journal-neo.org^
+||journeyhomeblog.com^
 ||journeyofchoices.com^
 ||journeytotibet.com^
 ||journeywithheros.com^
@@ -95684,6 +95794,7 @@ rgmechanicsgames.com*VPN.exe
 ||jpfolks.net^
 ||jpg.inte.sogoucdn.com^
 ||jpg.mengbingyuan.com^
+||jpinvrkp.my^
 ||jpkamsia.quest^
 ||jpkurgt1c.top^
 ||jplightcity.com^
@@ -95856,6 +95967,7 @@ rgmechanicsgames.com*VPN.exe
 ||juliettehasagun.fr^
 ||julistorm.com^
 ||juliyea.sbs^
+||julpharsign.com^
 ||julyneeds.com^
 ||jumbleashen.store^
 ||jump.001union.com^
@@ -95911,7 +96023,6 @@ rgmechanicsgames.com*VPN.exe
 ||justk8.com^
 ||justoner.click^
 ||justosm.com^
-||justpetz.com^
 ||justrabbiting.com^
 ||justsooh.com^
 ||justthere.taplink.ws^
@@ -97164,7 +97275,6 @@ rgmechanicsgames.com*VPN.exe
 ||k98l.b-cdn.net^
 ||k9gifts.com^
 ||k9hbuk.rest^
-||k9pyno.cyou^
 ||k9vn1.com^
 ||k9vn2.com^
 ||ka.aluu.lat^
@@ -97246,7 +97356,6 @@ rgmechanicsgames.com*VPN.exe
 ||kanedacigars.com^
 ||kanew.store^
 ||kangaexchangee-trade.blogspot.com^
-||kangshart.shop^
 ||kankakeetimes.com^
 ||kankokukopi.com^
 ||kanog.com^
@@ -97257,6 +97366,7 @@ rgmechanicsgames.com*VPN.exe
 ||kansupply.com^
 ||kanunegitimi.com^
 ||kanzlei-borchers.de^
+||kaori-tw.com^
 ||kaostheorygroup.com^
 ||kaprazatos.club^
 ||kaptondots.com^
@@ -97300,13 +97410,13 @@ rgmechanicsgames.com*VPN.exe
 ||kasa.m.biqubao.com^
 ||kashflowkitwithkelly.com^
 ||kashmobet.com^
-||kashyapinsuranceservice.com^
 ||kasia-czat.24.eu^
 ||kasihtaxi4d.sbs^
 ||kasinoguru-bg.com^
 ||kasinot.fi^
 ||kasmetalelaktronik.com^
 ||kasmetalelektronk.com^
+||kaspa-br.com^
 ||kaspersky-shop.ch^
 ||kasselsounds.com^
 ||kassu.com^
@@ -97345,9 +97455,9 @@ rgmechanicsgames.com*VPN.exe
 ||katu.adbureau.net^
 ||kau.li^
 ||kauaisun.com^
+||kaufenanabolika.org^
 ||kaufmanaudio.com^
 ||kaul.inhhome.top^
-||kaustuvmohanty.com^
 ||kavahglass.com^
 ||kavalkursu.com^
 ||kavuepea.pics^
@@ -97575,6 +97685,7 @@ rgmechanicsgames.com*VPN.exe
 ||khronowerx.net^
 ||khronowerx.org^
 ||khtp.org^
+||khulnarentalservice.com^
 ||khuyenmai.cloud^
 ||khuyenmaibw.com^
 ||khytoys.com^
@@ -97897,6 +98008,7 @@ rgmechanicsgames.com*VPN.exe
 ||koc-kw.com^
 ||kocareus.skin^
 ||kocham-cie.c0.pl^
+||kochdamore.cfd^
 ||kochilo.com^
 ||kociwoy4.pro^
 ||kocoengage.com^
@@ -97918,11 +98030,11 @@ rgmechanicsgames.com*VPN.exe
 ||kodypremium.pl^
 ||kodyumyslu.pl^
 ||kofiup.pl^
-||kohh.maxiaztr.top^
 ||kohlermetricssecure.kohler.com^
 ||koi-footwearpolska.com^
 ||koiluck.com^
 ||koim.org^
+||koinalk.com^
 ||koink.org^
 ||kojiohigyuhjhiojoijiok.weebly.com^
 ||kok.eroterest.net^
@@ -97957,12 +98069,10 @@ rgmechanicsgames.com*VPN.exe
 ||kompallarge.click^
 ||kompasads.com^
 ||komunikatmiasto.rest^
-||kon.nowyplx.top^
 ||konasunscreen.com^
 ||konfdek.com^
 ||konferencjamedia.rest^
 ||konferencjaprasowa.rest^
-||konfirmads.com^
 ||kong88.com^
 ||kongmingsuan.com^
 ||kongsibet.org^
@@ -97975,6 +98085,7 @@ rgmechanicsgames.com*VPN.exe
 ||konta-dis.clustercubes.com^
 ||konta-id.net^
 ||konta-sms.com^
+||kontaktinformacyjny24.pl^
 ||konto-onet-pl.studio.site^
 ||konto-polska-pm.order1159.info^
 ||konto-polska-sj.order1159.info^
@@ -98081,7 +98192,6 @@ rgmechanicsgames.com*VPN.exe
 ||kristinee.com^
 ||krisworksonline.com^
 ||kritikkalatharan.com^
-||krkfvoorirjjj.site^
 ||krohn-realestate.com^
 ||kroknawolnosc.pl^
 ||krolarlekin.com.pl^
@@ -98352,7 +98462,6 @@ rgmechanicsgames.com*VPN.exe
 ||l0vndrd0rms.xyz^
 ||l1.britannica.com^
 ||l16888.net^
-||l1eaafylanes.cam^
 ||l1fzqy.lol^
 ||l1gtny.lol^
 ||l1jniz.hair^
@@ -98499,6 +98608,7 @@ rgmechanicsgames.com*VPN.exe
 ||lambdahub.org^
 ||lamdep-365.com^
 ||lameletters.com^
+||lamelgring.com^
 ||lamgiau99.club^
 ||lami.beblon.com^
 ||lamicoidmakers.com^
@@ -98569,6 +98679,7 @@ rgmechanicsgames.com*VPN.exe
 ||laporal.com^
 ||lapsenow.com^
 ||laptevzebj.one^
+||laptoppluspune.com^
 ||laptopreportcard.com^
 ||laptoprewards.com^
 ||laptoprewardsgroup.com^
@@ -98625,7 +98736,6 @@ rgmechanicsgames.com*VPN.exe
 ||latesttrendonline.info^
 ||latexmattresses.org^
 ||latiendadediego.com^
-||latiendadeldeseo.com^
 ||latify.click^
 ||latinbusinessdaily.com^
 ||latinopoker.eu^
@@ -98633,7 +98743,6 @@ rgmechanicsgames.com*VPN.exe
 ||latloto.lv^
 ||latribuen.fr^
 ||latrubune.fr^
-||lattelux3.cam^
 ||latticescience.com^
 ||latticescipub.com^
 ||latvoy.top^
@@ -98656,7 +98765,6 @@ rgmechanicsgames.com*VPN.exe
 ||lav1ndrw1sper.xyz^
 ||lavaloya.com^
 ||lavamyst.xyz^
-||lavdrf1lds.xyz^
 ||lavehr.info^
 ||lavendarpath777.sbs^
 ||lavende7luminance.xyz^
@@ -98684,6 +98792,7 @@ rgmechanicsgames.com*VPN.exe
 ||lawrenceeqiupment.com^
 ||lawrencereporter.com^
 ||lawrencetimes.com^
+||lawstudentswife.com^
 ||lawyerspointusa.com^
 ||lax.boostteen.top^
 ||laxifoot.fr^
@@ -98849,6 +98958,7 @@ rgmechanicsgames.com*VPN.exe
 ||leftliquid.com^
 ||leftoverdense.com^
 ||lefylou.pics^
+||legacygardensliving.com^
 ||legacypropertyoffers.com^
 ||legal-uss.com^
 ||legalender.com^
@@ -98984,6 +99094,7 @@ rgmechanicsgames.com*VPN.exe
 ||letswinstuff.com^
 ||letterafilms.com^
 ||lettreouvertea.com^
+||lettucecaribou.com^
 ||lettucesalada.com^
 ||letyoufall.com^
 ||letzonke.com^
@@ -99046,7 +99157,6 @@ rgmechanicsgames.com*VPN.exe
 ||lgsy3itr4.top^
 ||lgwzrxzyc.top^
 ||lgz.poewage.top^
-||lh4nqv.top^
 ||lhafy.com^
 ||lhcswtk.com^
 ||lhs-email.com^
@@ -99092,6 +99202,7 @@ rgmechanicsgames.com*VPN.exe
 ||libertyvideos.org^
 ||libertywritersnews.com^
 ||liblog.click^
+||library.arihantmbainstitute.ac.in^
 ||library.cowley.edu^
 ||library.minghui.org^
 ||libraryperfume.com^
@@ -99165,6 +99276,7 @@ rgmechanicsgames.com*VPN.exe
 ||lifeofaschnauzer.com^
 ||lifeofmrsround.blogspot.com^
 ||lifeofpie.fr^
+||lifeonfernhill.com^
 ||lifes.glowtrad.com^
 ||lifeskillguides.com^
 ||lifestylor.com^
@@ -99204,12 +99316,12 @@ rgmechanicsgames.com*VPN.exe
 ||liketopdiscounts.world^
 ||likigoo.com^
 ||lilawilding.com^
-||lilithphoto.com^
 ||lilithsolaire.com^
 ||lillyberryfarm.com^
 ||lilustriousdate.com^
 ||lilyclan-warriors.blogspot.com^
 ||lilyguertin.com^
+||lilymecham.com^
 ||lilytailsblog.blogspot.com^
 ||limacharliegaming.com^
 ||limareporter.com^
@@ -99234,7 +99346,6 @@ rgmechanicsgames.com*VPN.exe
 ||lindependnant.fr^
 ||lindependnt.fr^
 ||lindexkids-eu.sa.com^
-||lindnerelektroanlagen.de^
 ||lindoscarrental.com^
 ||line.look-home.shop^
 ||linearbknossosmycenae.com^
@@ -99380,6 +99491,7 @@ rgmechanicsgames.com*VPN.exe
 ||littlestore.pl^
 ||liujopolska.com^
 ||liuxiaosheng.com^
+||liuyi.neectar.info^
 ||liv-tt.foremns.net^
 ||livablemidwest.com^
 ||livablenortheast.com^
@@ -99433,6 +99545,7 @@ rgmechanicsgames.com*VPN.exe
 ||livingsimplistic.org^
 ||livingsleet.com^
 ||livingstontoday.com^
+||livingstonyoga.com^
 ||livingwatersfpc.org^
 ||liviqida.de^
 ||livoncemartialart.com^
@@ -99496,8 +99609,10 @@ rgmechanicsgames.com*VPN.exe
 ||lladinserts.us.publicus.com^
 ||llama-meta.com^
 ||llamabet.co.uk^
+||llamapal.com^
 ||llanyarias.com^
 ||llb.kastaff.top^
+||lldfs.spectare.top^
 ||lldi.pl^
 ||lldj.com^
 ||lle.reposilvzh.top^
@@ -99600,6 +99715,7 @@ rgmechanicsgames.com*VPN.exe
 ||lnpostpl.netsons.org^
 ||lnposz.xyz^
 ||lnterac-accepts.com^
+||lntrumlaskutus.net^
 ||lnvoipos.buzz^
 ||lo2.me^
 ||lo2gin-4watching.tvshows2pay.website^
@@ -99635,9 +99751,9 @@ rgmechanicsgames.com*VPN.exe
 ||loc89.fun^
 ||loc89.vip^
 ||local-download.com^
-||localcontractorinalbany.com^
 ||localgins.com^
 ||localh0st.info^
+||localmailserver.com^
 ||localmarketingmethods.com^
 ||localo.fr^
 ||localprofinder.com^
@@ -99753,6 +99869,7 @@ rgmechanicsgames.com*VPN.exe
 ||login-kkraken.com^
 ||login-linkedin.seodump.com^
 ||login-lnk.marketingmotiongraphics.com^
+||login-main.bigwnet.com^
 ||login-microsoftonline.priaso.com^
 ||login-mobywatel-gov.net^
 ||login-parc.seoservicescompany-bss.com^
@@ -100028,7 +100145,6 @@ rgmechanicsgames.com*VPN.exe
 ||lpostoffice.top^
 ||lpweb.xyz^
 ||lq.inmq.lat^
-||lq.nowyplx.top^
 ||lq.osik.skin^
 ||lq4bzh.top^
 ||lr6mff.icu^
@@ -100160,7 +100276,6 @@ rgmechanicsgames.com*VPN.exe
 ||lukematusik3gmail.online^
 ||lukigroup.com^
 ||luknij.video^
-||lukowoin24.atthost24.pl^
 ||lukufae0.cyou^
 ||luky88.me^
 ||luliduo.pics^
@@ -100283,6 +100398,7 @@ rgmechanicsgames.com*VPN.exe
 ||lyricshook.com^
 ||lyrobau.com^
 ||lysolecithins.info^
+||lyuantigua.wixsite.com^
 ||lywq.skin^
 ||lyzhutingqi.com^
 ||lz.whafwl.com^
@@ -100633,7 +100749,6 @@ rgmechanicsgames.com*VPN.exe
 ||m.zzhangqing.top^
 ||m00tuo.webwave.dev^
 ||m0bilepay.com^
-||m0chamagic.cam^
 ||m1-shop.ru^
 ||m1.asklib.com^
 ||m1.daumcdn.net^
@@ -100670,7 +100785,6 @@ rgmechanicsgames.com*VPN.exe
 ||m6jeqx.hair^
 ||m6pjtx.bond^
 ||m6pptm.bond^
-||m6wxar.hair^
 ||m6ymuu.cyou^
 ||m7bawr.lol^
 ||m7kjhy.icu^
@@ -100711,7 +100825,6 @@ rgmechanicsgames.com*VPN.exe
 ||ma211-r.analytics.edgesuite.net^
 ||ma76-r.analytics.edgesuite.net^
 ||maa1kaa6mmm9nmm.com^
-||maacmulundkalyan.com^
 ||maad.maru.jp^
 ||maanageo.fr^
 ||maasonlefebvre.pichlertoolsdocumentreview.sbs^
@@ -100981,7 +101094,6 @@ rgmechanicsgames.com*VPN.exe
 ||makeuptutorialspro.com^
 ||makfastark.com^
 ||makingmoneyapp.com^
-||makingseoweb.com^
 ||makingthemost.com^
 ||makingthingsbettermethod.com^
 ||makozee.cyou^
@@ -101068,6 +101180,7 @@ rgmechanicsgames.com*VPN.exe
 ||mangoeurope.shop^
 ||mangomchile.com^
 ||mangoses.com^
+||mangostore-es.shop^
 ||manguisuave.com^
 ||manhall.com^
 ||manheimautorecon.com^
@@ -101164,6 +101277,7 @@ rgmechanicsgames.com*VPN.exe
 ||marie-gerardmer.fr^
 ||marijuana-packaging.com^
 ||marina-emogirl.blogspot.com^
+||marinacala.com^
 ||marineexplorers.online^
 ||marineli.xyz^
 ||marinepjs.com^
@@ -101240,11 +101354,13 @@ rgmechanicsgames.com*VPN.exe
 ||markettadvisor.buzz^
 ||markettplaceecosystem.com^
 ||markettrendsstart.com^
+||markettreport.click^
 ||markettupdate.xyz^
 ||marketupdate.buzz^
 ||marketwithamber.com^
 ||markform.com^
 ||markhughneri.com^
+||markitos.shop^
 ||markjarvisbet.com^
 ||marko.wito13ch.pl^
 ||markowebstudio.com^
@@ -101356,6 +101472,7 @@ rgmechanicsgames.com*VPN.exe
 ||mathbabies.org^
 ||mathemdlzw.site^
 ||mathenea.com^
+||mathsmd.com^
 ||mathtacy.com^
 ||matildakahl.com^
 ||matleyco.com^
@@ -101385,6 +101502,7 @@ rgmechanicsgames.com*VPN.exe
 ||mattressdevil.info^
 ||mattressquestions.net^
 ||matureporno.info^
+||matzofrogs.com^
 ||maubinh.club^
 ||mauireporter.com^
 ||mauritius-contacting-gathered-lat.trycloudflare.com^
@@ -101517,14 +101635,12 @@ rgmechanicsgames.com*VPN.exe
 ||mcdn.batmobi.net^
 ||mcdonaldfarmstree.com^
 ||mcdonalds-mcdelivery.winyourdeal.today^
-||mcentru24.com^
 ||mcfg.sandai.net^
 ||mcfundraiser.com^
 ||mcgi.play.cp81.ott.cibntv.net^
 ||mcgi.v.qq.com^
 ||mcgm.sakura.ne.jp^
 ||mchenrytimes.com^
-||mcin.truproggs.top^
 ||mcjq.com^
 ||mckenziepost.com^
 ||mclarrenlife.com^
@@ -101563,6 +101679,7 @@ rgmechanicsgames.com*VPN.exe
 ||mdnhinc.com^
 ||mdrd.org^
 ||mdstatewire.com^
+||mdtake.com^
 ||mdtxtbpjournal.com^
 ||mdunker.gmxhome.de^
 ||me-bu.pro^
@@ -101676,6 +101793,7 @@ rgmechanicsgames.com*VPN.exe
 ||mediaexpertt.shop^
 ||mediafaze.com^
 ||mediafile.pl^
+||mediaforbd.com^
 ||mediageneral.com^
 ||mediagenesisinteractive.com^
 ||mediaid.click^
@@ -101862,12 +101980,10 @@ rgmechanicsgames.com*VPN.exe
 ||mentorsynthesis.com^
 ||mentract.website^
 ||menuimmediate.info^
-||menuiserie-charpente-lecoultre.com^
 ||menujuglowin.com^
 ||menuridamusic.com^
 ||meo257na3rch.com^
 ||meonli.com^
-||meow-vpn.com^
 ||mepoch.monster^
 ||meradentalclinic.com^
 ||merakiartsndesigns.com^
@@ -101998,7 +102114,6 @@ rgmechanicsgames.com*VPN.exe
 ||metinfo.cyou^
 ||meting.website^
 ||metiorg.info^
-||metise.space^
 ||metish.xyz^
 ||metland.bond^
 ||metleague.org^
@@ -102273,7 +102388,6 @@ rgmechanicsgames.com*VPN.exe
 ||mezczyzna-trendy.pl^
 ||mezmerband.com^
 ||meztro.com^
-||mezzosol.com^
 ||mf-ghost.com^
 ||mf.bonsgep.top^
 ||mf01.zybang.com^
@@ -102294,7 +102408,6 @@ rgmechanicsgames.com*VPN.exe
 ||mginf.com^
 ||mgiorno.com^
 ||mgjmp.com^
-||mgn125k2mklsamf-12dqwd.com^
 ||mgogo.com^
 ||mgogroupusa.com^
 ||mgonlineagency.com^
@@ -102419,7 +102532,6 @@ rgmechanicsgames.com*VPN.exe
 ||microsoftoniines.com^
 ||microsoftss.pages.dev^
 ||microsoftsupport.xyz^
-||microsoftz.com^
 ||microstatic.pl^
 ||microticker.com^
 ||microwavebites.com^
@@ -102476,7 +102588,6 @@ rgmechanicsgames.com*VPN.exe
 ||mikefreeresume.com^
 ||mikelsenprize.com^
 ||mikemillerconsulting.com^
-||mikenziebiernat.com^
 ||mikethebikeshop.com^
 ||mikeyguggenheim.com^
 ||mikeylocksmithca.com^
@@ -102512,6 +102623,7 @@ rgmechanicsgames.com*VPN.exe
 ||milosc.co^
 ||milosnaprzystan.pl^
 ||milotree.com^
+||milta.shop^
 ||miltonvaleguide.com^
 ||milyondolar.com^
 ||mimetictheory.org^
@@ -102534,14 +102646,14 @@ rgmechanicsgames.com*VPN.exe
 ||mindengqin.shop^
 ||mindenszo.hu^
 ||mindfoxstore.com^
+||mindfulessentialshome.com^
 ||mindfulmeditation.xyz^
 ||mindfulnesshub.xyz^
-||mindgrowthmatrix.com^
+||mindlessforminerva.com^
 ||mindmeldconnected.pro^
 ||mindroutines.com^
 ||mindshareworld.fr^
 ||mindtimeclothing.com^
-||mindwavepro.com^
 ||mindworkglobal.com^
 ||mineacraft.fr^
 ||minecraft-connect.pl^
@@ -102630,7 +102742,6 @@ rgmechanicsgames.com*VPN.exe
 ||misguidedn.baneberryi.pl^
 ||misinvcon.com^
 ||miskindle.muchflaw.click^
-||misljen.net^
 ||miso88.bet^
 ||miso88.boats^
 ||miso88.bz^
@@ -102716,7 +102827,6 @@ rgmechanicsgames.com*VPN.exe
 ||mjknripnio.pages.dev^
 ||mjlunalaw.com^
 ||mjoba.com^
-||mjobe.com^
 ||mjonkers.nl^
 ||mjsqdv.m.zwda.com^
 ||mjsqurej.com^
@@ -102782,7 +102892,6 @@ rgmechanicsgames.com*VPN.exe
 ||mn.mn.co.cu^
 ||mn.ullz.lat^
 ||mn6njb.lat^
-||mn7o.space^
 ||mna-inc.com^
 ||mnbuildsandremodels.com^
 ||mnbusinessdaily.com^
@@ -102794,7 +102903,6 @@ rgmechanicsgames.com*VPN.exe
 ||mncr-pl.whta.site^
 ||mnecraft.fr^
 ||mnet-ad.net^
-||mnew.actiprogz.top^
 ||mnme.skin^
 ||mnn-a.pe-nf.top^
 ||mnoui.pinnters.net^
@@ -102955,7 +103063,6 @@ rgmechanicsgames.com*VPN.exe
 ||mocaversei.com^
 ||mocbai.cc^
 ||moch4mix.cam^
-||moch4muse.cam^
 ||mochimob.com^
 ||mocnewydarzenie.pics^
 ||mocnewyzwanie.pics^
@@ -103004,7 +103111,6 @@ rgmechanicsgames.com*VPN.exe
 ||moj-plus.lat^
 ||moj.garmet.top^
 ||moja-ochrona.top^
-||moja-prosba.info^
 ||moja-prsba.info^
 ||moja.strefawyznan.cam^
 ||moja1.strefawyznan.cam^
@@ -103020,7 +103126,6 @@ rgmechanicsgames.com*VPN.exe
 ||moje.pl-29724.com^
 ||mojeair.com^
 ||mojeaplikacjaweryfikacja.com^
-||mojegovpl.com^
 ||mojehya.autos^
 ||mojein24724.com^
 ||mojekobe.is-best.net^
@@ -103046,10 +103151,13 @@ rgmechanicsgames.com*VPN.exe
 ||moldinspectionnorthcarolina.com^
 ||moldovapress.com^
 ||moldremediationboston.com^
+||moldremovaldenverusa.com^
 ||moldremovalexpertscincinnati.com^
 ||moldremovalineugene.com^
+||moldremovalinmemphis.com^
 ||moldremovalinphiladelphia.com^
 ||moldremovalohio.com^
+||moldremovalsalem.com^
 ||molecularbiotechnologies.pro^
 ||molilulu.com^
 ||mollynaples.blogspot.com^
@@ -103061,7 +103169,9 @@ rgmechanicsgames.com*VPN.exe
 ||mom.freetheme.top^
 ||momatyn.store^
 ||mombabycare.com^
+||mombuilt.com^
 ||momentspa.fr^
+||momfindsherselfagain.com^
 ||mommathings.com^
 ||mommybag.pl^
 ||momoxxio.com^
@@ -103112,6 +103222,7 @@ rgmechanicsgames.com*VPN.exe
 ||moneybot.net^
 ||moneyclub360.com^
 ||moneyfist.com^
+||moneylifemedia.com^
 ||moneymastertutorials.com^
 ||moneyplayscasino.com^
 ||moneyraid.com^
@@ -103127,6 +103238,7 @@ rgmechanicsgames.com*VPN.exe
 ||monitorfx.pl^
 ||monitorkolejowy.rest^
 ||monitorosobowy.rest^
+||monkearms.com^
 ||monkeyball.osa.pl^
 ||monkeyslo.xyz^
 ||monkposseacre.casa^
@@ -103139,6 +103251,7 @@ rgmechanicsgames.com*VPN.exe
 ||mononoteapp.firebaseio.com^
 ||monontoday.com^
 ||monopris.fr^
+||monoswaves.com^
 ||monppaiement.fr^
 ||monroeconews.com^
 ||monroenynews.com^
@@ -103163,6 +103276,7 @@ rgmechanicsgames.com*VPN.exe
 ||montgomerymdnews.com^
 ||monthlyincomeacademy.com^
 ||montig.fr^
+||montluionsnav.info^
 ||montreal-dance-academy.top^
 ||monyproft.com^
 ||moodoo.com.cn^
@@ -103223,7 +103337,6 @@ rgmechanicsgames.com*VPN.exe
 ||morningelectric.com^
 ||morningreceiver.com^
 ||moro-can-film.com^
-||moroccoadvisors.com^
 ||morocconews24.com^
 ||morrisleader.com^
 ||morristowntimes.com^
@@ -103236,7 +103349,6 @@ rgmechanicsgames.com*VPN.exe
 ||mosellia.com^
 ||moseslaketoday.com^
 ||mosquesaroundtheworld.com^
-||mossosanatakademi.com^
 ||mossquito.com^
 ||mossymeadow.homes^
 ||mossypinebush903.sbs^
@@ -103249,7 +103361,9 @@ rgmechanicsgames.com*VPN.exe
 ||motamemsearch.com^
 ||motd.pinion.gg^
 ||motherbet.org^
+||motherhoodguam.com^
 ||motherlandbook.com^
+||mothermeetsworld.com^
 ||mothertreeproductions.com^
 ||moti.motivtel.info^
 ||motifiles.com^
@@ -103377,7 +103491,6 @@ rgmechanicsgames.com*VPN.exe
 ||mr8ahb.lat^
 ||mras.skin^
 ||mrazens.com^
-||mrbearentertainment.com^
 ||mrbs.cacafly.com^
 ||mre7626.icu^
 ||mreco0.jp^
@@ -103509,7 +103622,6 @@ rgmechanicsgames.com*VPN.exe
 ||mtradpro.powerlift.top^
 ||mtrcs.popcap.com^
 ||mtrcs.redhat.com^
-||mtrd.nieza.site^
 ||mtrd.powerlift.top^
 ||mtrpw.nieza.site^
 ||mtrqq.powerlift.top^
@@ -103579,7 +103691,6 @@ rgmechanicsgames.com*VPN.exe
 ||mukshpurihotel.com^
 ||mukunth.com^
 ||mulato.info^
-||mulberryfood.com^
 ||mulight-ha.com^
 ||multi.xnxx.com^
 ||multi8287a-view7827az.cukierniakozacka.com.pl^
@@ -103788,7 +103899,6 @@ rgmechanicsgames.com*VPN.exe
 ||mybitcore.com^
 ||mybookie.ag^
 ||mybotmarket.com^
-||mybrigadexanadu.com^
 ||mybrightidea.co^
 ||mycaal.fr^
 ||mycamsguide.com^
@@ -103882,10 +103992,10 @@ rgmechanicsgames.com*VPN.exe
 ||myjollyrudder.com^
 ||myjtlr.com^
 ||myk8.live^
-||mykagye2.pro^
 ||mykronikaluxury.com^
 ||mykubet.com^
 ||mylakipro.com^
+||mylastmonday.net^
 ||mylax.metplxx.com^
 ||mylead-tracking.tracknow.info^
 ||mylegacyglobal.com^
@@ -103969,7 +104079,6 @@ rgmechanicsgames.com*VPN.exe
 ||mystat.pl^
 ||mysticfjord.xyz^
 ||mysticloom.info^
-||mystictune.com^
 ||mysticviolets.xyz^
 ||mysticwhisper.info^
 ||mystiqueperfume.xyz^
@@ -104020,8 +104129,6 @@ rgmechanicsgames.com*VPN.exe
 ||n.guvdfs.cn^
 ||n.hzhfhkj.cn^
 ||n.juhuasuanguanwang.cn^
-||n.kliphirofey.shop^
-||n.kliphyzivui.shop^
 ||n.mark.letv.com^
 ||n.mtradi.top^
 ||n.mtradinfo.top^
@@ -104047,6 +104154,7 @@ rgmechanicsgames.com*VPN.exe
 ||n1up.fr^
 ||n1ynds.top^
 ||n1zntb.lol^
+||n2.aroundpayablequirk.shop^
 ||n2.nskfyl.com^
 ||n2.zuoyebang.cc^
 ||n2bwog.lol^
@@ -104098,7 +104206,6 @@ rgmechanicsgames.com*VPN.exe
 ||n9viit.cyou^
 ||n9vxpx.top^
 ||n9yweb.lol^
-||n9ztke.top^
 ||na-grp.com^
 ||na-ratunek24.xyz^
 ||na-sygnale24.xyz^
@@ -104111,7 +104218,6 @@ rgmechanicsgames.com*VPN.exe
 ||naacphs.org^
 ||naapptbwf.com^
 ||nab.finnewspl.com^
-||nabawitransport.com^
 ||nabazarze.pl^
 ||nabilacengal.blogspot.com^
 ||nabsproducts.com^
@@ -104127,6 +104233,7 @@ rgmechanicsgames.com*VPN.exe
 ||naemowse.com^
 ||nafacco.com^
 ||nafipyo.online^
+||nafisweb.com^
 ||nafonya.com^
 ||naglasniamyonline.pics^
 ||nagpurstudents.org^
@@ -104170,6 +104277,7 @@ rgmechanicsgames.com*VPN.exe
 ||name-base.com^
 ||name-olx.live-link.shop^
 ||name927z-for927az.edytka2111.pl^
+||nameailedanismanlik.com^
 ||nameguess.com^
 ||nameheroprimersitioweb.com^
 ||nameketathar.pro^
@@ -104190,6 +104298,7 @@ rgmechanicsgames.com*VPN.exe
 ||nanayv.com^
 ||nancyprisk.com^
 ||nandeepriya.com^
+||nandorr.com^
 ||nanimaly-shop.myshopify.com^
 ||nanisp.com^
 ||nanoadexchange.com^
@@ -104234,7 +104343,6 @@ rgmechanicsgames.com*VPN.exe
 ||nasserbutiadvocates.ae^
 ||naszagmina.rest^
 ||naszakolej.rest^
-||naszapaczka.cloud^
 ||naszapolska.rest^
 ||naszatelewizyjne.rest^
 ||nasze-info-24.x9.eu^
@@ -104320,7 +104428,6 @@ rgmechanicsgames.com*VPN.exe
 ||naturefirvalley435.sbs^
 ||naturemeadow124.sbs^
 ||naturemeadowmoss612.sbs^
-||naturenestspa.com^
 ||naturephotographie.fr^
 ||natureroots384.sbs^
 ||naturevivarium.com^
@@ -104335,7 +104442,6 @@ rgmechanicsgames.com*VPN.exe
 ||navacei.com^
 ||navahok.asumption.lat^
 ||navajolandus.com^
-||navatihi2024.com^
 ||naveenagarwal.com^
 ||navegador.oi.com.br^
 ||navegador.telefonica.com.br^
@@ -104347,6 +104453,7 @@ rgmechanicsgames.com*VPN.exe
 ||navi.limited^
 ||navibuzz.com^
 ||navicorpvn.com^
+||navifoxx.com^
 ||navigator.financial^
 ||navigator.io^
 ||naviuno.com^
@@ -104554,6 +104661,7 @@ rgmechanicsgames.com*VPN.exe
 ||nekentuckynews.com^
 ||neki.org^
 ||nekigee.com^
+||nekkii.com^
 ||neko-scan.fr^
 ||nekosei.store^
 ||nelexiy9.pro^
@@ -104566,7 +104674,6 @@ rgmechanicsgames.com*VPN.exe
 ||neminte.com^
 ||nemissnews.com^
 ||nemissourinews.com^
-||nemo.endiim.com^
 ||nemo.vin^
 ||nemontananews.com^
 ||nemscomputing.com^
@@ -104808,7 +104915,6 @@ rgmechanicsgames.com*VPN.exe
 ||newarkreporter.com^
 ||newarrivals.club^
 ||newashingtonnews.com^
-||newauctionedcars.com^
 ||newauthentication-required.freewebhostmost.com^
 ||newbelfastarts.org^
 ||newbiestorert.shop^
@@ -104818,7 +104924,6 @@ rgmechanicsgames.com*VPN.exe
 ||newcenturytimes.com^
 ||newchaptermuse.com^
 ||newclk.com^
-||newconstructionmortgagebrokers.com^
 ||newcontrolmajdkjduehsohfmahkfhrirnsohdk.newcontrolsystem.com.di-fong.cam^
 ||newcqtr.com^
 ||newcracks.net^
@@ -104894,6 +104999,7 @@ rgmechanicsgames.com*VPN.exe
 ||news76today.com^
 ||newsbiscuit.com^
 ||newsbreakers.org^
+||newsbridgeway.com^
 ||newsbuzzdaily.com^
 ||newsbyav.com^
 ||newscurrent.info^
@@ -104939,11 +105045,9 @@ rgmechanicsgames.com*VPN.exe
 ||newswindorbit.com^
 ||newswire-24.com^
 ||newswithviews.com^
-||newsworldcity.com^
 ||newsyintera24.medianewsonline.com^
 ||newsyoucanread24.com^
 ||newt1.adultworld.com^
-||newtidefunding.com^
 ||newtokyoofharrison.com^
 ||newtravcreo.opnlibreu.com^
 ||newwaggishs-canions-webmai-updatelocale-updatregg-jhgfddgfsd.freewebhostmost.com^
@@ -105072,6 +105176,7 @@ rgmechanicsgames.com*VPN.exe
 ||nhbusinessdaily.com^
 ||nhern.org^
 ||nhn.dk^
+||nhpdcorp.com^
 ||nhs1967.com^
 ||nht-engineering.com^
 ||nhz.adwo.com^
@@ -105097,7 +105202,10 @@ rgmechanicsgames.com*VPN.exe
 ||niceassdesign.com^
 ||nicebatik.com^
 ||nicebonusbooi7.com^
+||nicedelta.com^
+||nicemain.com^
 ||niceoplight.com^
+||nicesumo.com^
 ||niceteacuppuppies.com^
 ||niche247.trade^
 ||niche60.com^
@@ -105148,7 +105256,6 @@ rgmechanicsgames.com*VPN.exe
 ||nilapila.com^
 ||nildenaksoy.com^
 ||nili.hauntedrewards.xyz^
-||niloyinternational.com^
 ||nimcllub-net41.site^
 ||nimeboo.pics^
 ||nimes-olympique.fr^
@@ -105187,7 +105294,6 @@ rgmechanicsgames.com*VPN.exe
 ||njbusinessdaily.com^
 ||njibe.monster^
 ||njihtedrejtattua.org^
-||njkk.actyprogss.top^
 ||njlandscapershq.com^
 ||nk.waptrad.top^
 ||nkfdonor.org^
@@ -105195,7 +105301,6 @@ rgmechanicsgames.com*VPN.exe
 ||nkriselalumenang.com^
 ||nkugu.gazeta-regionalna.com^
 ||nkymobile.com^
-||nl.immediateedge-official.com^
 ||nl.rcd.iqiyi.com^
 ||nl.rcd.ptqy.gitv.tv^
 ||nl5fuh.icu^
@@ -105228,9 +105333,7 @@ rgmechanicsgames.com*VPN.exe
 ||nmobi.kuwo.cn^
 ||nmv.troove.top^
 ||nmvb.skin^
-||nmvo.activdep.top^
 ||nmvv.actiprogz.top^
-||nmwev.actiprogz.top^
 ||nn.uhhokker.top^
 ||nnatrimin.com^
 ||nnavigo.fr^
@@ -105242,7 +105345,6 @@ rgmechanicsgames.com*VPN.exe
 ||no-homo.com^
 ||no.adak-kurbanliksatisyeri.com^
 ||no.ibaza.in^
-||no.immediateedge-official.com^
 ||no.lrscoach.training^
 ||no.lrsdeutschland.com^
 ||no.lrsdeutschland.eu^
@@ -105323,7 +105425,6 @@ rgmechanicsgames.com*VPN.exe
 ||noobpost.com^
 ||noodle-pack.com^
 ||noogaguitartech.com^
-||noogawebuyhouses.com^
 ||nooitmeerskeer.com^
 ||noon.spectare.top^
 ||noonkoinds.sbs^
@@ -105362,7 +105463,6 @@ rgmechanicsgames.com*VPN.exe
 ||northacadiananews.com^
 ||northalaskanews.com^
 ||northalleghenynews.com^
-||northamericanmaids.com^
 ||northaustinnews.com^
 ||northbaltimorejournal.com^
 ||northbirminghamtimes.com^
@@ -105497,10 +105597,12 @@ rgmechanicsgames.com*VPN.exe
 ||notification.lionmobi.com^
 ||notifications-lucky-cake-5a4d.fresfst.workers.dev^
 ||notifications-lucky-cake-eastcloud67.fresfst.workers.dev^
+||notificationsupport.org^
 ||notificationupdate.com^
 ||notify.51dzt.com^
 ||notify.nuviad.com^
 ||notifyday.com^
+||notiziecristiane.org^
 ||notowani.pl^
 ||notrecommended.co.uk^
 ||nottepad-plus-plus.org^
@@ -105549,7 +105651,6 @@ rgmechanicsgames.com*VPN.exe
 ||noweciezarowe.pl^
 ||noweinforamcjegmina24h.com.pl^
 ||nowemozliwosci7f.webflow.io^
-||nowfitnesscj.com^
 ||nowheremeditation.org^
 ||nowinki.blog-online.eu^
 ||nowmarket.pl^
@@ -105659,18 +105760,20 @@ rgmechanicsgames.com*VPN.exe
 ||nuitphilo-ens.fr^
 ||nuja.inhhome.top^
 ||nujipokycrest.org^
-||nulite.website^
 ||nullitics.com^
 ||numa-design.com^
 ||numberone-mobile-network.net^
 ||numberonetechreseller.xyz^
 ||numizmatycznysklep.com^
+||nunaiababy.com^
+||nunaiabeautywellness.com^
 ||nunaiahomme.com^
 ||nunaiaorganicskincare.com^
 ||nunaiarituals.com^
 ||nuodying.pics^
 ||nuoigada.com^
 ||nuqebii.com^
+||nura24.com^
 ||nurkidt.com^
 ||nurshazcadbury.blogspot.com^
 ||nurturesimple.com^
@@ -105696,6 +105799,7 @@ rgmechanicsgames.com*VPN.exe
 ||nutritionbestfacts.com^
 ||nutritiondistilled.com^
 ||nutritiousbean.com^
+||nuucompany.com^
 ||nuvialabfemalefertility.pl^
 ||nuvialabflex.pl^
 ||nuvialabimmune.pl^
@@ -105715,6 +105819,7 @@ rgmechanicsgames.com*VPN.exe
 ||nv2fyx.cyou^
 ||nv2kku.lol^
 ||nvbusinessdaily.com^
+||nvcor.com^
 ||nvda-presales.org^
 ||nvdbw.shop^
 ||nvgtn-pl.com^
@@ -105804,7 +105909,6 @@ rgmechanicsgames.com*VPN.exe
 ||nzfc.2zm4.cn^
 ||nzlwha.com^
 ||nzviplounge.com^
-||nzy3tvbb72g3.top^
 ||o-interior.com^
 ||o-l-x.redirect-link.icu^
 ||o-lx.038262828.xyz^
@@ -105876,6 +105980,7 @@ rgmechanicsgames.com*VPN.exe
 ||o4xoub.rest^
 ||o4yarz.cyou^
 ||o56p.space^
+||o5ogim.staticfast.com^
 ||o7uowq.skin^
 ||o8.aus.cc^
 ||o8fbkg.skin^
@@ -106111,7 +106216,6 @@ rgmechanicsgames.com*VPN.exe
 ||oddsmaker.ag^
 ||oddsring.com^
 ||oderkaopole.pl^
-||odetteallston.com^
 ||odevo.pl^
 ||odii.wodmell.top^
 ||odinbet.com^
@@ -106319,7 +106423,6 @@ rgmechanicsgames.com*VPN.exe
 ||ojskdjkf.mmlala.com^
 ||ojskdkjfsl.jufengputao.com^
 ||ojskdlfjkd.xinyansaas.com^
-||ojulwhale.info^
 ||ojx-ipko-pl.authorezed.site^
 ||ojx.04230569.xyz^
 ||ojx.0653265.xyz^
@@ -106344,6 +106447,7 @@ rgmechanicsgames.com*VPN.exe
 ||okchichy.com^
 ||okclub.org.uk^
 ||okcounter.com^
+||okcrealestategroup.com^
 ||okcstandard.com^
 ||okcyoulater.com^
 ||okeechobeetimes.com^
@@ -108327,7 +108431,6 @@ rgmechanicsgames.com*VPN.exe
 ||onlysuccessesstore.com^
 ||onlytoday.biz^
 ||onlywinners.com^
-||onme.depactive.top^
 ||onmore.top^
 ||onmydigital-app.com^
 ||onmypc.net^
@@ -108344,8 +108447,6 @@ rgmechanicsgames.com*VPN.exe
 ||ontraventure.com^
 ||ontymdelivery.com^
 ||onunon.com^
-||onvr.actiprogz.top^
-||onvw.depactive.top^
 ||onwardclick.com^
 ||onwardpath.sbs^
 ||onwardroad.sbs^
@@ -108358,6 +108459,7 @@ rgmechanicsgames.com*VPN.exe
 ||oo1rfn.rest^
 ||oofun.com^
 ||oolo.fr^
+||oolvi.com^
 ||oolx-834.784154871.xyz^
 ||oolx-92.984154871.xyz^
 ||oolx-storeinfo.168989999.xyz^
@@ -108673,6 +108775,7 @@ rgmechanicsgames.com*VPN.exe
 ||organizationingcockatooes.pro^
 ||organizationingphysicianes.pro^
 ||organizationingsnowying.pro^
+||organizedhomeschoolingplanner.com^
 ||organogold.com^
 ||organyscigania.rest^
 ||orgiacs.info^
@@ -108724,6 +108827,7 @@ rgmechanicsgames.com*VPN.exe
 ||ornamentik.com^
 ||ornateclothes.com^
 ||ornatyourservices.com^
+||orndurgan.cfd^
 ||orner.fr^
 ||ornge.dotadowanie.org^
 ||orogab.com^
@@ -108851,6 +108955,7 @@ rgmechanicsgames.com*VPN.exe
 ||ourorder.info^
 ||ourpetbuddies.com^
 ||ourpricebet.com^
+||ourpursuitofhome.com^
 ||ourshiftingperspective.com^
 ||ourstalbans.com^
 ||oursupercars.com^
@@ -108889,7 +108994,6 @@ rgmechanicsgames.com*VPN.exe
 ||outstandingbacker.online^
 ||outtogetme.com^
 ||outwitagency.com^
-||ouvs.actiprogz.top^
 ||ov-game.com^
 ||ov.iqyd.skin^
 ||ov.snvq.top^
@@ -109259,6 +109363,7 @@ rgmechanicsgames.com*VPN.exe
 ||palmsbet.com^
 ||palmshade.xyz^
 ||palulili.com^
+||palurui.pro^
 ||palyazatfigyelo.info^
 ||paman-aini.blogspot.com^
 ||pamanahomes.com^
@@ -109295,6 +109400,7 @@ rgmechanicsgames.com*VPN.exe
 ||panel.starlitquarry.com^
 ||pangolin.snssdk.com^
 ||panhandletimes.com^
+||panicattacksolutions.com^
 ||panickycurtain.com^
 ||panickypancake.com^
 ||paniezukrainy.pl^
@@ -109310,9 +109416,7 @@ rgmechanicsgames.com*VPN.exe
 ||pantaya.fr^
 ||pantoffels.shop^
 ||pantrypot.com^
-||panygie.com^
 ||panzukuri.com^
-||paoloofitness.com^
 ||paonancs.cn^
 ||paopao-monitor.iqiyi.com^
 ||paopao.iqiyi.com^
@@ -109354,7 +109458,6 @@ rgmechanicsgames.com*VPN.exe
 ||pareeq.com^
 ||parentingsky.com^
 ||parentpicture.com^
-||parfaitesshouldering.pro^
 ||parfaitingeverydayed.pro^
 ||parfumislami.com^
 ||pari.loyal-program.live^
@@ -109533,7 +109636,6 @@ rgmechanicsgames.com*VPN.exe
 ||pavementpromenade.xyz^
 ||pavisee.com^
 ||pawel-dawidowicz-elbangbit-app.blogspot.com^
-||paweldudzinski.eu^
 ||pawezyy9.fun^
 ||pawfulpoopmanagement.com^
 ||pawfulwastemanagement.com^
@@ -109557,6 +109659,7 @@ rgmechanicsgames.com*VPN.exe
 ||pay777tiger.com^
 ||payae8moon9.com^
 ||payback-int.org^
+||paybackint.sbs^
 ||paycounter.com^
 ||paydailynetwork.com^
 ||payday-loans.now-cash.com^
@@ -109721,6 +109824,7 @@ rgmechanicsgames.com*VPN.exe
 ||peerfly.com^
 ||peever.myzen.co.uk^
 ||pef.srl.mybluehost.me^
+||peggyawheeler.com^
 ||peggymoore.website^
 ||pegroots-perithecial-10fb5a00b2e17f8-eed84cdc4fbcbd5e-4fbc.pages.dev^
 ||pei-ads.thesmokingjacket.com^
@@ -109754,7 +109858,6 @@ rgmechanicsgames.com*VPN.exe
 ||pekao24-logowanie-klienci-indywidualne.eqm.gr^
 ||pekao24.lol^
 ||pekao24.sbs^
-||pekao24login.com^
 ||pekao24logowanniie.com^
 ||pekinsarl.com^
 ||pekqt.com^
@@ -109803,7 +109906,6 @@ rgmechanicsgames.com*VPN.exe
 ||peonyglow.xyz^
 ||peonyhues.sbs^
 ||peonyinspiration.sbs^
-||peonylove.xyz^
 ||peonyparadise.sbs^
 ||peonyperfection.xyz^
 ||peonystory.sbs^
@@ -109830,6 +109932,7 @@ rgmechanicsgames.com*VPN.exe
 ||percepylti.beauty^
 ||peremiere.fr^
 ||perendure.mom^
+||perennialyoga.com^
 ||perenpreco.com^
 ||perf-mfg.com^
 ||perfect-purchase-now.xyz^
@@ -109870,7 +109973,6 @@ rgmechanicsgames.com*VPN.exe
 ||permuschiz.com^
 ||perpetual-awm.com^
 ||perrigogames.com^
-||pers-pge-pl.web.app^
 ||persecutes.com^
 ||persgroepadvertising.nl^
 ||persianvpn69.com^
@@ -110027,6 +110129,7 @@ rgmechanicsgames.com*VPN.exe
 ||phillyleader.com^
 ||phillynifty.com^
 ||phillysinistersix.com^
+||phimiclzwe.top^
 ||phising-initiative.fr^
 ||phobia.net^
 ||phoenix-adrunner.mycomputer.com^
@@ -110036,6 +110139,7 @@ rgmechanicsgames.com*VPN.exe
 ||phoenixhcsolution.com^
 ||phoenixinvestigations.ca^
 ||phoenixlearningcare.com^
+||phoenixmomsrise.com^
 ||phoenixpcfix.com^
 ||phone-calling-card.exnet.su^
 ||phone-sig-credentials.com^
@@ -110114,6 +110218,7 @@ rgmechanicsgames.com*VPN.exe
 ||piano-nj.top^
 ||piano.io^
 ||pianolessons.fr^
+||pianopowerhouse.com^
 ||piastpatrol.pl^
 ||piay-pl.icu^
 ||piay-pl.tech^
@@ -110413,6 +110518,7 @@ rgmechanicsgames.com*VPN.exe
 ||pl-65487.icu^
 ||pl-65493.icu^
 ||pl-65854.icu^
+||pl-676504.icu^
 ||pl-68352.icu^
 ||pl-68756671.icu^
 ||pl-76511.icu^
@@ -110431,6 +110537,7 @@ rgmechanicsgames.com*VPN.exe
 ||pl-9862671.icu^
 ||pl-98761.icu^
 ||pl-account.clustercubes.com^
+||pl-app-82368.cfd^
 ||pl-aukcja-5774345.icu^
 ||pl-chck.cfd^
 ||pl-disreview.clustercubes.com^
@@ -110457,11 +110564,14 @@ rgmechanicsgames.com*VPN.exe
 ||pl-nr12315.icu^
 ||pl-of.com^
 ||pl-oferta-5345553454.cfd^
+||pl-oferta-firmowa746567.icu^
 ||pl-oferta-nr8046259.icu^
+||pl-oferta-numer067838.icu^
 ||pl-oferta-numer435608.icu^
 ||pl-oferta-numer5430876.icu^
 ||pl-oferta-numer543654.icu^
 ||pl-oferta-numer5654654.icu^
+||pl-oferta-numer746567.icu^
 ||pl-oferta.guru^
 ||pl-oferta1040161.online^
 ||pl-oferta1104579.cfd^
@@ -110479,6 +110589,7 @@ rgmechanicsgames.com*VPN.exe
 ||pl-oferta3110805.icu^
 ||pl-oferta4135257.cfd^
 ||pl-oferta4382762.store^
+||pl-oferta472721.cfd^
 ||pl-oferta474265.icu^
 ||pl-oferta4898729.cfd^
 ||pl-oferta573721.icu^
@@ -110532,6 +110643,7 @@ rgmechanicsgames.com*VPN.exe
 ||pl-vider.info^
 ||pl-vider.pl^
 ||pl-wittchen.shop^
+||pl-zplt.info^
 ||pl.89151535.cube-cologne.com^
 ||pl.allsports4free.club^
 ||pl.aplanlogistic.com^
@@ -110614,6 +110726,7 @@ rgmechanicsgames.com*VPN.exe
 ||pl6.day-info.live^
 ||pl6.daynews.live^
 ||pl675policja.site^
+||pl695policja.site^
 ||pl7.daynews.live^
 ||pl7.tryboosttop.info^
 ||pl8.bestget.info^
@@ -110648,7 +110761,6 @@ rgmechanicsgames.com*VPN.exe
 ||planodom.com^
 ||planpivotpoint.com^
 ||planrecanpost1.info^
-||plantpatch.cam^
 ||plantsandpots.com^
 ||plantsolest.com^
 ||plasmatv4free.com^
@@ -110853,6 +110965,7 @@ rgmechanicsgames.com*VPN.exe
 ||plotandplut.com^
 ||plotpointspodcast.com^
 ||plotrabbit.com^
+||plpayapp.com^
 ||plplus.store^
 ||plpolicja.online^
 ||plpositss.cc^
@@ -110872,6 +110985,7 @@ rgmechanicsgames.com*VPN.exe
 ||plugin.2easydroid.com^
 ||pluginrent.com^
 ||pluginx.perfectgonzo.com^
+||plugot.com^
 ||pluken.lol^
 ||plum.tesxappes.top^
 ||plumsoftware.co.uk^
@@ -110986,10 +111100,6 @@ rgmechanicsgames.com*VPN.exe
 ||poczta-polska-gr.cyou^
 ||poczta-polska-hl.lol^
 ||poczta-polska-kj.hair^
-||poczta-polska-pl-zaplata.pl-zplt.info^
-||poczta-polska-pl.pl-zplt.info^
-||poczta-polska-zaplata-pl.pl-zplt.info^
-||poczta-polska-zaplata.pl-zplt.info^
 ||poczta-polska.63652356.xyz^
 ||poczta-polska.943231.shop^
 ||poczta-polska.buzz^
@@ -110997,7 +111107,6 @@ rgmechanicsgames.com*VPN.exe
 ||poczta-polska.cyou^
 ||poczta-polska.hopdigglad.dk^
 ||poczta-polska.lol^
-||poczta-polska.pl-zplt.info^
 ||poczta-polska.shamanismensvej.dk^
 ||poczta-polska.top^
 ||poczta-polskaa.cyou^
@@ -111060,10 +111169,10 @@ rgmechanicsgames.com*VPN.exe
 ||poczta.kontrola-mailowa.top^
 ||poczta.my.canva.site^
 ||poczta.pages.dev^
-||poczta.pl-zplt.info^
 ||poczta.pl-zpltk.info^
 ||poczta.polska-pl.com^
 ||poczta.polska-zaplata.com^
+||poczta.rgcom.icu^
 ||poczta.solarflevoland.nl^
 ||poczta.walidacja-konta.site^
 ||poczta.weryfikacja-okonto.site^
@@ -111077,7 +111186,6 @@ rgmechanicsgames.com*VPN.exe
 ||pocztapl.id2954.com^
 ||pocztapocskersd.cyou^
 ||pocztapoikask.fit^
-||pocztapolska-zaplata.pl-zplt.info^
 ||pocztapolska24.pl^
 ||pocztapolska58.top^
 ||pocztapolskaa.buzz^
@@ -111148,6 +111256,7 @@ rgmechanicsgames.com*VPN.exe
 ||podka.com^
 ||podmedya.com^
 ||podologik.ca^
+||podpora-zkaznkm.com^
 ||podpublisher.com^
 ||podtesl.my-chatprogram.xyz^
 ||podwodneinfo.rest^
@@ -111241,6 +111350,7 @@ rgmechanicsgames.com*VPN.exe
 ||polebarnsflorida.com^
 ||polecane-kategorie-id983.shop^
 ||polelemploi.fr^
+||polemica.net^
 ||polenboeller-deutschland.com^
 ||polendmarket.online^
 ||polenebagspoland.co^
@@ -111417,6 +111527,7 @@ rgmechanicsgames.com*VPN.exe
 ||polskihistoria.pro^
 ||polskilombard.pl^
 ||polskiprogram.rest^
+||polskyfacty.online^
 ||poltex-rs.com^
 ||polydueces.afpfobamascare.info^
 ||polymathprogramme.com^
@@ -111425,8 +111536,8 @@ rgmechanicsgames.com*VPN.exe
 ||polymerpolly.com^
 ||polymoog.net^
 ||polynic-system.com^
+||polytechnix.com^
 ||pomegranate21439567.temporary-demo.site^
-||pomoc-wsparcie.com^
 ||pomoc.biuro-obslugi.space^
 ||pomoc.weryfikacja-okonto.online^
 ||pomocdlacery.pl^
@@ -111446,6 +111557,7 @@ rgmechanicsgames.com*VPN.exe
 ||pool.distilled.ie^
 ||poolartisan.com^
 ||poolin.fr^
+||poolresurfacinginsandiego.com^
 ||poolresurfacinglosangeles.com^
 ||poolresurfacingoklahomacity.com^
 ||poolserviceplustulsa.com^
@@ -111503,6 +111615,7 @@ rgmechanicsgames.com*VPN.exe
 ||porannyziew.eu^
 ||pore.clickmazetribe.su^
 ||porespray.quest^
+||porida.com^
 ||porihae.com^
 ||porlate.pics^
 ||porlate.xyz^
@@ -111528,6 +111641,7 @@ rgmechanicsgames.com*VPN.exe
 ||portaldeacesso-sc.com^
 ||portaldruku.pl^
 ||portalinformacyjny24h.pics^
+||portalmob.com^
 ||portalnaszemiasto.rest^
 ||portalolhe.com^
 ||portalotomatis.com^
@@ -111554,7 +111668,6 @@ rgmechanicsgames.com*VPN.exe
 ||posbd.com^
 ||posdhhg.buzz^
 ||poserparquet.com^
-||poshrtach.com^
 ||posicionamientonatural.es^
 ||posinees.top^
 ||position.dftoutiao.com^
@@ -111596,11 +111709,11 @@ rgmechanicsgames.com*VPN.exe
 ||postergaleria.chh.pl^
 ||postergaleria.pl^
 ||postesia-pl.help^
-||postffr.buzz^
 ||postfinancech.cfolks.pl^
 ||postgbqv.top^
 ||postigh.com^
 ||postighq.com^
+||postilokero-nouto.net^
 ||postirck.com^
 ||postirckf.com^
 ||postirs.com^
@@ -111636,11 +111749,11 @@ rgmechanicsgames.com*VPN.exe
 ||potshoprochester.com^
 ||potskapl.com^
 ||potsofluck.com^
-||potteryblossoms.xyz^
 ||potttaj.cyou^
 ||potwalloper.com^
 ||potwierdzenie-danych.top^
 ||potwierdzenie-konta.top^
+||potwierdzenie-poczty.top^
 ||potwierdzenie.konto-onet.site^
 ||potwierdzenie.wp-pl.eu^
 ||pounceibm.com^
@@ -111719,7 +111832,6 @@ rgmechanicsgames.com*VPN.exe
 ||ppiy.v5.yy.com^
 ||ppk-parts.com^
 ||ppk.isttopsd.com^
-||ppl.acxenergy.com^
 ||ppl.xunzhuo123.com^
 ||ppleood.com^
 ||ppnuncamas.org^
@@ -111752,7 +111864,6 @@ rgmechanicsgames.com*VPN.exe
 ||practicalaction.com^
 ||practice-pioneer.com^
 ||practicehazard.com^
-||practisewell.online^
 ||prada-pl.com^
 ||pradiactos.site^
 ||pragbet.com^
@@ -111778,7 +111889,6 @@ rgmechanicsgames.com*VPN.exe
 ||prattmunson.org^
 ||pravesamfoods.com^
 ||prawdafaktypark24.baronwines.net^
-||prawdopodobne-zdarzenia.com^
 ||prawdziweartykuly.pics^
 ||prawdziwefilmy.pl^
 ||prawdziwyrozwoj.pl^
@@ -111851,6 +111961,7 @@ rgmechanicsgames.com*VPN.exe
 ||presstv.com^
 ||pressurespot.com^
 ||prestigekaftan.com^
+||prestocknonaphasic861.net^
 ||prettygame666.com^
 ||prettyinfluencer.com^
 ||prettyinpinkhydrangea.cyou^
@@ -111930,6 +112041,7 @@ rgmechanicsgames.com*VPN.exe
 ||prismmarketingonline.com^
 ||pristinepaintingcapecod.com^
 ||pritrucreiffoiko-3708.vercel.app^
+||privacyflagcontentlaunch.vercel.app^
 ||privacysmb.com^
 ||privacywatch.news^
 ||private-sportshop.fr^
@@ -112003,6 +112115,7 @@ rgmechanicsgames.com*VPN.exe
 ||processplantation.com^
 ||proclickpacket.com^
 ||procoinplus.com^
+||procommercehub.buzz^
 ||procornerstone.com^
 ||proctnd.com^
 ||prod.nexusrules.live.com.akadns.net^
@@ -112384,7 +112497,6 @@ rgmechanicsgames.com*VPN.exe
 ||psicoterapiatamquam.com^
 ||psinetutor.com^
 ||psipshop.com^
-||pslv.pojd.info^
 ||psorias.atspace.com^
 ||psorismax.pl^
 ||pstarv.cn^
@@ -112589,6 +112701,7 @@ rgmechanicsgames.com*VPN.exe
 ||pureclarity.net^
 ||pureenthusiasm.world^
 ||purehydration.cyou^
+||purejoyspace.com^
 ||pureland.sbs^
 ||purelybygrace.com^
 ||purepods.fr^
@@ -112872,6 +112985,7 @@ rgmechanicsgames.com*VPN.exe
 ||qksrv.com^
 ||ql.tc^
 ||ql1vgt.rest^
+||qlevy.com^
 ||qlifemed.com^
 ||qlisv.siemens6es7.com^
 ||qlogos.io^
@@ -112962,6 +113076,7 @@ rgmechanicsgames.com*VPN.exe
 ||quantaplavo.com^
 ||quantazy.com^
 ||quantorex.org^
+||quantrapid.com^
 ||quantrixcoin.pics^
 ||quantum-india.com^
 ||quantum.nordinvest.live^
@@ -113011,6 +113126,7 @@ rgmechanicsgames.com*VPN.exe
 ||qufaxyo.com^
 ||qufepae.pics^
 ||quferay.autos^
+||qufos.com^
 ||qugunua3.pro^
 ||quhihyu2.pro^
 ||quiariofficial.com^
@@ -113018,6 +113134,7 @@ rgmechanicsgames.com*VPN.exe
 ||quick.offer-check.shop^
 ||quick8x.space^
 ||quickandeasy.co.za^
+||quickauto24.com^
 ||quickbrowsersearch.com^
 ||quickcharger.biz^
 ||quickchess.fr^
@@ -113098,7 +113215,6 @@ rgmechanicsgames.com*VPN.exe
 ||qyloxou4.monster^
 ||qylymuy.com^
 ||qypoqya.com^
-||qywupeo9.pro^
 ||qyxizya0.pro^
 ||qyzatoy9.quest^
 ||qyzeduy4.pro^
@@ -113169,7 +113285,6 @@ rgmechanicsgames.com*VPN.exe
 ||r8kwmj.one^
 ||r8rchd.rest^
 ||r8wofg.icu^
-||r9hpmkr2j0up4pef4jpupc4agwwqtvdwwjm0zqaby9rgr.mikolahbartosz.eu^
 ||ra8ibn.skin^
 ||raac33.net^
 ||raantrambutan.xyz^
@@ -113205,6 +113320,7 @@ rgmechanicsgames.com*VPN.exe
 ||radiancio.ru^
 ||radiant-rose-fashion.com^
 ||radiantcrystalburst.pro^
+||radiantecho.pro^
 ||radiantflowers.xyz^
 ||radiantloot.com^
 ||radiantpeonies.xyz^
@@ -113331,6 +113447,7 @@ rgmechanicsgames.com*VPN.exe
 ||raspberrytart.xyz^
 ||rassegnavermentino.it^
 ||rastafariansyn.info^
+||rastansaga.com^
 ||rasvieer.com^
 ||rat-on-subway.mhwang.com^
 ||rate.opinionlab.com^
@@ -113347,9 +113464,7 @@ rgmechanicsgames.com*VPN.exe
 ||ratunekdzieci.pics^
 ||ratz-laff.com^
 ||raunchyshirts.com^
-||raven-security.com^
 ||ravengadget.com^
-||raw.brewmacos.com^
 ||rawbabble.com^
 ||rawbeldi.com^
 ||rawbles.com^
@@ -113536,6 +113651,8 @@ rgmechanicsgames.com*VPN.exe
 ||recherchestrategique.com^
 ||rechi-dorechi.com^
 ||recipeadventures.com^
+||recipefordads.com^
+||recipeformom.com^
 ||recipeformoms.com^
 ||recipereel.site^
 ||recipesbyalice.com^
@@ -113668,7 +113785,6 @@ rgmechanicsgames.com*VPN.exe
 ||reducelnk.com^
 ||reducinalb.com^
 ||reductions-impots.fr^
-||reduk.mastercasc.top^
 ||redvelvetllc.org^
 ||redvineyard.cyou^
 ||redvpl.schooldocu.com^
@@ -113705,10 +113821,12 @@ rgmechanicsgames.com*VPN.exe
 ||refreshingsips.cyou^
 ||refrisfolg.de^
 ||reftrust.online^
+||refugesimple.com^
 ||refund-int3rac.com^
 ||refundcustomer.dns.army^
 ||refundhelpdesk.dns.navy^
 ||refundpro.online^
+||refusefork143.net^
 ||reg-flix.com^
 ||reg.wisecleaner.com^
 ||regated.com^
@@ -113850,6 +113968,7 @@ rgmechanicsgames.com*VPN.exe
 ||renalpha.com^
 ||rencontreavenue.com^
 ||rencontredate.com^
+||rencontresbea.info^
 ||render-server.cdn.bcebos.com^
 ||rendsburg.website^
 ||renecov.com^
@@ -113905,6 +114024,7 @@ rgmechanicsgames.com*VPN.exe
 ||renovatorreuse.com^
 ||renovies.com^
 ||renownpoodles.com^
+||renrenprobe.com^
 ||rense.com^
 ||rent-data.com^
 ||rent2ownguru.com^
@@ -113961,6 +114081,7 @@ rgmechanicsgames.com*VPN.exe
 ||reportimage.adtech.us^
 ||reporting.tutelatechnologies.com^
 ||reportingwave.com^
+||reportinsightloop.com^
 ||reposistory.com^
 ||repowarden.com^
 ||repredicting.com^
@@ -114155,6 +114276,7 @@ rgmechanicsgames.com*VPN.exe
 ||rewardsnow.co.uk^
 ||rewardszoneusa.com^
 ||rewee.meelou.top^
+||rewinsbea.info^
 ||rexxinvestments.com^
 ||reykjaviknorthernlightstour.com^
 ||reynders.info^
@@ -114625,7 +114747,6 @@ rgmechanicsgames.com*VPN.exe
 ||rose.ixbt.com^
 ||rosebeargarden.com^
 ||rosebouquetbliss.xyz^
-||rosecloud-security.com^
 ||rosemaryessence.com^
 ||rosepetals2024.sbs^
 ||roseromance.xyz^
@@ -114640,6 +114761,7 @@ rgmechanicsgames.com*VPN.exe
 ||rotabanner.com^
 ||rotator.7x3.net^
 ||rotavape.com^
+||rotelsforn.com^
 ||rotermckenzie.com^
 ||rotimeu.xyz^
 ||rotimia.com^
@@ -114774,7 +114896,6 @@ rgmechanicsgames.com*VPN.exe
 ||rtd.rt.com^
 ||rtdminis.com^
 ||rtechinfosys.com^
-||rtf.kastaff.top^
 ||rtfhjc.xyz^
 ||rtl-most.blogspot.hu^
 ||rtlog.vidown.cn^
@@ -115216,7 +115337,6 @@ rgmechanicsgames.com*VPN.exe
 ||sadohae.com^
 ||saeidmousavi.com^
 ||saerdstores.com^
-||safaralghazitour.com^
 ||safaribet.com.gh^
 ||safariloan.com^
 ||safe-aisle.jointreport-switch.com^
@@ -115235,7 +115355,6 @@ rgmechanicsgames.com*VPN.exe
 ||safekapital.com^
 ||safemobilelink.com^
 ||safemyclaim.com^
-||safenetwork.cyou^
 ||safepay2.interactivebrands.com^
 ||safepaygateway.com^
 ||safepccleaner.com^
@@ -115312,6 +115431,7 @@ rgmechanicsgames.com*VPN.exe
 ||salekit.io^
 ||salematome.com^
 ||salemnewswire.com^
+||salesbytales.com^
 ||saletrybest.su^
 ||salewashop-pl.myshoplaza.com^
 ||salewashopiing.myshoplaza.com^
@@ -115352,6 +115472,7 @@ rgmechanicsgames.com*VPN.exe
 ||samaclub.com^
 ||samahin.com^
 ||samakamu.site^
+||samanthaheldboyd.com^
 ||sambadresult.com^
 ||sambamove.com^
 ||sambanite.com^
@@ -115397,7 +115518,6 @@ rgmechanicsgames.com*VPN.exe
 ||samsung-stop.24.eu^
 ||samsung.24.eu^
 ||samuel-warde.com^
-||samulikoivu.com^
 ||samuraibangalore.com^
 ||samvip.bet^
 ||samvo.com^
@@ -115501,7 +115621,6 @@ rgmechanicsgames.com*VPN.exe
 ||santan-okolice.com^
 ||santan-reaktv2024.com^
 ||santanasantana.net^
-||santanatal.com^
 ||santander-2025.com^
 ||santander-mobile.com^
 ||santander-poland.com^
@@ -115510,6 +115629,7 @@ rgmechanicsgames.com*VPN.exe
 ||santander-reaktywowac.com^
 ||santander-reaky2024.com^
 ||santander-srodowisko.com^
+||santander-zmiana-hasla.pl^
 ||santander.324541.com^
 ||santander.331897.com^
 ||santander.531586.com^
@@ -115525,7 +115645,6 @@ rgmechanicsgames.com*VPN.exe
 ||santanderbank.fr^
 ||santanmac.com^
 ||santaofficial.com^
-||santaslotidn.com^
 ||santaslotofficial.com^
 ||santaslotx.com^
 ||santhoshmedia.com^
@@ -115769,6 +115888,7 @@ rgmechanicsgames.com*VPN.exe
 ||scienceexplorer.xyz^
 ||sciencehightech.com^
 ||sciencemysteries.xyz^
+||scienceoflyfe.com^
 ||sciencesetlavenir.fr^
 ||scienceteacherschampionship.com^
 ||sciencetyranny.com^
@@ -115993,6 +116113,7 @@ rgmechanicsgames.com*VPN.exe
 ||seaquinsolutions.com^
 ||search-olx.click-info.shop^
 ||search-phentermine.hpage.net^
+||search-sunbiz.org^
 ||search.buzzdock.com^
 ||search.eclickz.com^
 ||search.fenrawrye.live^
@@ -116004,6 +116125,7 @@ rgmechanicsgames.com*VPN.exe
 ||searchacross.com^
 ||searchadv.com^
 ||searchassistant.iwon.com^
+||searchboxdigitalagency.com^
 ||searchdiscovered.com^
 ||searchenginecandy.com^
 ||searchenginemarkup.online^
@@ -116134,12 +116256,12 @@ rgmechanicsgames.com*VPN.exe
 ||securemetrics.gapcanada.ca^
 ||securemetrics.gapfactory.com^
 ||securemypc.co.uk^
+||securenet.cyou^
 ||secureprofit.ru^
 ||secureredirect101.com^
 ||securerr.com^
 ||securerunner.com^
 ||securesignupoffers.org^
-||securesolutions.cyou^
 ||securetracking2.com^
 ||securetrk1.com^
 ||securewealthentry.com^
@@ -116190,7 +116312,6 @@ rgmechanicsgames.com*VPN.exe
 ||segnosketu.orronestur.lat^
 ||segob.gob.mx^
 ||segrandrapids.com^
-||segtvision.com^
 ||seguro-pagamentoofc.shop^
 ||segurodearrendamientosura.com^
 ||seguroquenolosabias.com^
@@ -116445,7 +116566,6 @@ rgmechanicsgames.com*VPN.exe
 ||servicemantras.com^
 ||serviceo.comcast.net^
 ||serviceplease.com^
-||servicepost.top^
 ||servicepress.org^
 ||services-active1.date^
 ||services-amazon-fr.com^
@@ -116615,11 +116735,13 @@ rgmechanicsgames.com*VPN.exe
 ||shades-tickets.com^
 ||shadowdancemoves.pro^
 ||shadowwolflight.pro^
+||shadpartners-au.com^
 ||shael.org^
 ||shafou.com^
 ||shaheenfollowers.com^
 ||shahicraft.com^
 ||shahmatin.com^
+||shakaapp.com^
 ||shake.360.cn^
 ||shake.f.360.cn^
 ||shakegoldfish.com^
@@ -116645,6 +116767,7 @@ rgmechanicsgames.com*VPN.exe
 ||shaperight.fit^
 ||shapeupandwin.com^
 ||shapj.sealmony.lat^
+||share-box.org^
 ||share-clouds.com^
 ||share-link.shop^
 ||share-stores.com^
@@ -116923,6 +117046,7 @@ rgmechanicsgames.com*VPN.exe
 ||si7ldm.cyou^
 ||siads.sv.publicus.com^
 ||siamvarieties.com^
+||sibodiet.org^
 ||sic8otes.xyz^
 ||siccx.idoltical.lat^
 ||sicegea.com^
@@ -116937,6 +117061,7 @@ rgmechanicsgames.com*VPN.exe
 ||sidespecs.com^
 ||sideways-desert-pudding.glitch.me^
 ||sidexsidemanuals.com^
+||sidinginmiami.com^
 ||siefier.com^
 ||siemat.xyz^
 ||sienship.com^
@@ -117021,6 +117146,7 @@ rgmechanicsgames.com*VPN.exe
 ||simplelimited.com^
 ||simplemoneymachines.com^
 ||simpleremove.com^
+||simplerlifecoach.com^
 ||simplesearchsolutions.net^
 ||simplesportsaudio.com^
 ||simpli.top^
@@ -117209,6 +117335,7 @@ rgmechanicsgames.com*VPN.exe
 ||skiinnylove.com^
 ||skiiybound.xyz^
 ||skillandtechnics.com^
+||skillbeach.com^
 ||skillforgeinstitute.com^
 ||skillfulteam.com^
 ||skillsforest.net^
@@ -117228,6 +117355,7 @@ rgmechanicsgames.com*VPN.exe
 ||skinny-cobra-bdqiqndd.sandboxcms.com^
 ||skinny-spider-4n5l9kao.sandboxcms.com^
 ||skinny-swan-0cl3inzv.sandboxcms.com^
+||skinnyartists.com^
 ||skinnylove-us.com^
 ||skinprofit.com^
 ||skinsdream.com^
@@ -117308,7 +117436,6 @@ rgmechanicsgames.com*VPN.exe
 ||skywhy.com^
 ||skyworldsolution.com^
 ||sl.1910genetics.com^
-||sl.nowyplx.top^
 ||sl04hospitaility.com^
 ||sl1ezr.icu^
 ||slad.aposiiz.com^
@@ -117420,6 +117547,7 @@ rgmechanicsgames.com*VPN.exe
 ||slog.sina.cn^
 ||slog.sina.com.cn^
 ||slonceodnajdzmy.rest^
+||sloppydiskrecords.com^
 ||slopqwaseyer.com^
 ||sloreporter.com^
 ||slossecear.com^
@@ -117460,6 +117588,7 @@ rgmechanicsgames.com*VPN.exe
 ||smallbizwebsolution.com^
 ||smallfrytravel.com^
 ||smallhomebuild.com^
+||smallkitchencooking.com^
 ||smallshop.pl^
 ||smallthingsandgreatlove.com^
 ||smar.foremns.net^
@@ -117484,6 +117613,7 @@ rgmechanicsgames.com*VPN.exe
 ||smartbitboost-pl.qizokia.com^
 ||smartbitformula.sa.com^
 ||smartbudgetgadgets.com^
+||smartbuyersjournal.com^
 ||smartcanvas.net^
 ||smartcare.xja.pl^
 ||smartcart.fr^
@@ -118112,7 +118242,6 @@ rgmechanicsgames.com*VPN.exe
 ||soft4click.com^
 ||soft4update.forfreeupgrades.org^
 ||softbet.eu^
-||softcatalog.ru^
 ||softenfeedback.com^
 ||softmania.pl^
 ||softolino.com^
@@ -118211,7 +118340,8 @@ rgmechanicsgames.com*VPN.exe
 ||solutiongroup24.com^
 ||solutionscore.com^
 ||solutionspro.xyz^
-||solve.hhxe.org^
+||solve.pvsu.org^
+||solve.xtxy.org^
 ||solverde.pt^
 ||solveseek.com^
 ||som.aeroplan.com^
@@ -118252,6 +118382,7 @@ rgmechanicsgames.com*VPN.exe
 ||sonautomatic.com^
 ||sondrafonl.com^
 ||songbird.fr^
+||songpixels.com^
 ||songsar.com^
 ||sonic55slot.net^
 ||sonikaprofessionalphotography.com^
@@ -118488,7 +118619,6 @@ rgmechanicsgames.com*VPN.exe
 ||speciesesmissioned.pro^
 ||speciesesmissiones.pro^
 ||speciesesmissioning.pro^
-||speciesingforemaned.pro^
 ||specificmedia.co.uk^
 ||specificpop.com^
 ||specilized.com^
@@ -118732,6 +118862,7 @@ rgmechanicsgames.com*VPN.exe
 ||springbreeze07.xyz^
 ||springclick-ads.s3.amazonaws.com^
 ||springcrocus.sbs^
+||springdalec.com^
 ||springfestpro.xyz^
 ||springfieldrecord.com^
 ||springfieldstandard.com^
@@ -118746,7 +118877,6 @@ rgmechanicsgames.com*VPN.exe
 ||sprintersplay.com^
 ||spro.so.com^
 ||sprotik.com^
-||sproutsymphony.cam^
 ||sproutya.com^
 ||sprucemeadownest876.sbs^
 ||sprzedajemy-pl.dost-ordport.homes^
@@ -118902,7 +119032,6 @@ rgmechanicsgames.com*VPN.exe
 ||ssswwwooo.shop^
 ||ssuqmhzdlz.cfolks.pl^
 ||ssv288.com^
-||ssx.is^
 ||st-friends.com^
 ||st.acstnst.com^
 ||st.appsad.cn^
@@ -119010,6 +119139,7 @@ rgmechanicsgames.com*VPN.exe
 ||starnardnoweapc25.com^
 ||starnardnoweapc25.online^
 ||staroil.pl^
+||starreadings.com^
 ||starreturned.com^
 ||starrobin.org^
 ||starrok-khorax.autos^
@@ -119148,7 +119278,6 @@ rgmechanicsgames.com*VPN.exe
 ||stationedforemaned.pro^
 ||stationedmissioned.pro^
 ||stationingchargees.pro^
-||stationingpancakeed.pro^
 ||statis.mobile.youku.com^
 ||statis.push.netease.com^
 ||statistics.elsevier.nl^
@@ -119271,6 +119400,7 @@ rgmechanicsgames.com*VPN.exe
 ||stavehangers.com^
 ||stavsa.com^
 ||stay.decentralappps.com^
+||staybusiness.fun^
 ||stayinnorthwales.com^
 ||stayissueguest015538.world^
 ||stayonschedule.com^
@@ -119285,6 +119415,7 @@ rgmechanicsgames.com*VPN.exe
 ||stclairtoday.com^
 ||stcloudsun.com^
 ||stcntr24.com^
+||std-cynogenealogist.net^
 ||stdown.dinju.com^
 ||steadfastsound.com^
 ||steadypaddling.com^
@@ -119344,6 +119475,7 @@ rgmechanicsgames.com*VPN.exe
 ||steelbitepro24.com^
 ||steelvilleguide.com^
 ||stefanalexa.com^
+||stefaniafilip.com^
 ||stefankorch.com^
 ||stefanogiovanni.com^
 ||stefanpopi.com^
@@ -119375,6 +119507,7 @@ rgmechanicsgames.com*VPN.exe
 ||stepup24.com^
 ||sterlingcustomerexperience.com^
 ||sterlingwests.com^
+||stermcommunity.com^
 ||stevanneauerbach.com^
 ||steveberry.fr^
 ||stevecotechnology.com^
@@ -119391,7 +119524,6 @@ rgmechanicsgames.com*VPN.exe
 ||stillmeditation.org^
 ||stillposting.lat^
 ||stilnovo.fr^
-||stilskihod.com^
 ||stimg.iand2ch.net^
 ||stimgc.iand2ch.net^
 ||stimulatingsneeze.com^
@@ -119491,6 +119623,7 @@ rgmechanicsgames.com*VPN.exe
 ||storspelare.com^
 ||storspiller.com^
 ||story.proslow.top^
+||storycraftersnews.com^
 ||storygize.net^
 ||stp.meikdein.xyz^
 ||stpaulreporter.com^
@@ -119546,7 +119679,9 @@ rgmechanicsgames.com*VPN.exe
 ||strefaklienta.help^
 ||strefaklienta.info^
 ||strefamlodych.pl^
+||strengthstretchbalancebreath.com^
 ||strequire.online^
+||stressfreejv.com^
 ||streszczeniednia.rest^
 ||stretchsquirrel.com^
 ||strewl.halucinat.online^
@@ -119664,6 +119799,7 @@ rgmechanicsgames.com*VPN.exe
 ||subscriber-profile.com^
 ||subscription.ddns.net^
 ||subskrypcji-ntfix.ddns.net^
+||subskrypcji.dnsalias.com^
 ||subskrypcji.on-the-web.tv^
 ||substantials.info^
 ||suburstjoy.xyz^
@@ -119707,7 +119843,6 @@ rgmechanicsgames.com*VPN.exe
 ||sugarytreats33.xyz^
 ||sugasafe.org^
 ||sugoicounter.com^
-||suharae1.xyz^
 ||suhunsoo.uk^
 ||suicidaltendencies.fr^
 ||suiomcpbwq.cfolks.pl^
@@ -119728,6 +119863,7 @@ rgmechanicsgames.com*VPN.exe
 ||sulkycook.com^
 ||sulov3.xyz^
 ||sulphurized.com^
+||sulrite.pics^
 ||sultanofhearts.com^
 ||sultanonline.icu^
 ||suluklima.com.tr^
@@ -119748,6 +119884,7 @@ rgmechanicsgames.com*VPN.exe
 ||summerdayspro.xyz^
 ||summergetawaypro.xyz^
 ||summerheatwave.xyz^
+||summerlinlasvegas.org^
 ||summerobject.com^
 ||summertimespro.xyz^
 ||summervibespro.xyz^
@@ -119896,6 +120033,7 @@ rgmechanicsgames.com*VPN.exe
 ||support-recommissioning.com^
 ||support-spotify.co^
 ||support-ticket0512035.vercel.app^
+||support.clz.kr^
 ||support.helpmail.world^
 ||support.ronnixtechnology.com^
 ||support.rt-zr.com^
@@ -119950,6 +120088,7 @@ rgmechanicsgames.com*VPN.exe
 ||sururum.com^
 ||survarium.fr^
 ||survey.china.alibaba.com^
+||surveybeacon.com^
 ||surveyfactory.net^
 ||surveypass.com^
 ||surveysoldier.com^
@@ -120058,7 +120197,6 @@ rgmechanicsgames.com*VPN.exe
 ||svi9snzhwe.autograalmann.de^
 ||svicoindia.com^
 ||svip66.com^
-||svniiejda.site^
 ||svs-7l4.pages.dev^
 ||svsd.budbit.top^
 ||svseurope.com^
@@ -120110,6 +120248,7 @@ rgmechanicsgames.com*VPN.exe
 ||sweet-water.org^
 ||sweet9tooth.sbs^
 ||sweetarc2.xyz^
+||sweetaxrelief.com^
 ||sweetbeam6.cam^
 ||sweetbible.com^
 ||sweetbite456.sbs^
@@ -120183,6 +120322,7 @@ rgmechanicsgames.com*VPN.exe
 ||swietne-ceny.com^
 ||swietnebuty.pl^
 ||swiezaki.weebly.com^
+||swiftarray.net^
 ||swiftiptvhub.com^
 ||swifttup.com^
 ||swiftype.fr^
@@ -120269,6 +120409,7 @@ rgmechanicsgames.com*VPN.exe
 ||symaj.cn^
 ||symantex.com^
 ||symarexpress.com^
+||symbiatec-fi.com^
 ||symbietic.com^
 ||symbiotyx.com^
 ||symbolstudio.ro^
@@ -120332,7 +120473,6 @@ rgmechanicsgames.com*VPN.exe
 ||syrupingchargees.pro^
 ||syrupingforemanes.pro^
 ||syrupingforemaning.pro^
-||syrupingpancakeed.pro^
 ||sys.zhangyue.com^
 ||sysadmin.map24.com^
 ||sysaides.com^
@@ -120723,9 +120863,11 @@ rgmechanicsgames.com*VPN.exe
 ||takethatad.com^
 ||talentbyteusa.com^
 ||talenterr.com^
+||taleqram.asia^
 ||taleqram.chat^
 ||taleqram.fans^
 ||taleqram.live^
+||taleqram.pro^
 ||taleraa.com^
 ||talinumswi.com^
 ||talk.nz4.gepush.com^
@@ -120737,7 +120879,6 @@ rgmechanicsgames.com*VPN.exe
 ||talkingyoung.world^
 ||talklovelive.com^
 ||talkofthetownwreaths.com^
-||talkwecan.website^
 ||tallahasseesun.com^
 ||tallergfmotors.com^
 ||tallfiroasis743.sbs^
@@ -120895,6 +121036,7 @@ rgmechanicsgames.com*VPN.exe
 ||taxi-fastroad.com^
 ||taxiexpressorlando.com^
 ||taxiposadas.com^
+||taxloop.com^
 ||taxon-pristanes-7ff80c4f08f276a-ac78cbd345a5d2-26f4eda198.pages.dev^
 ||taxservicesnigeria.com^
 ||taxstats.org^
@@ -120991,11 +121133,13 @@ rgmechanicsgames.com*VPN.exe
 ||teachcoachthrive.com^
 ||teachers-eligibility-test.com^
 ||teaching-condo-webs.click^
+||teachingpriest.org^
 ||teachingtarot.com^
 ||teachmore.online^
 ||teaclippertrading.com^
 ||tealeaf.com^
 ||tealium.com^
+||tealwheel.com^
 ||team-pow.com^
 ||teambirnie.com^
 ||teamcministries.com^
@@ -121031,7 +121175,6 @@ rgmechanicsgames.com*VPN.exe
 ||techeax.site^
 ||techengineers.xyz^
 ||techexpert.site^
-||techexperts.cyou^
 ||techfactory.sbs^
 ||techfan.pl^
 ||techgeniusxyz.xyz^
@@ -121065,9 +121208,9 @@ rgmechanicsgames.com*VPN.exe
 ||techspotcom.skimlinks.com^
 ||techstalky.com^
 ||techstats.net^
+||techstu.org^
 ||techtideeetech.xyz^
 ||techvirtuo.com^
-||techvisionaries.cyou^
 ||techwishper.com^
 ||techwizguy.com^
 ||techworldtuananh.com^
@@ -121128,6 +121271,7 @@ rgmechanicsgames.com*VPN.exe
 ||telangana-news24.com^
 ||telaqram.design^
 ||telaqram.fans^
+||telaqram.help^
 ||telaqram.ltd^
 ||telaria.com^
 ||telbesaktuelle.com^
@@ -121154,8 +121298,10 @@ rgmechanicsgames.com*VPN.exe
 ||telephone-voyance.fr^
 ||telephoner-voyance.fr^
 ||teleqram.games^
+||teleqram.hair^
 ||teleqram.market^
 ||teleqram.xin^
+||teleqrma.help^
 ||telescopy.xyz^
 ||teletrade.eu^
 ||television-knee-resulting-wto.trycloudflare.com^
@@ -121346,7 +121492,6 @@ rgmechanicsgames.com*VPN.exe
 ||tg-1pl.fovda.top^
 ||tg-2pl.fovda.top^
 ||tg-pl.fovda.top^
-||tg-safeguard.com^
 ||tg.m.37.com^
 ||tg.wmqfey.com^
 ||tg.xkcxh.com^
@@ -121422,6 +121567,7 @@ rgmechanicsgames.com*VPN.exe
 ||the-bitcoineedom.financialmarketsworld.com^
 ||the-bitcoinrevolution.com^
 ||the-bitlq.com^
+||the-chunkychef.net^
 ||the-corner-of-life.blogspot.com^
 ||the-counter.net^
 ||the-dialogue-company.com^
@@ -121450,6 +121596,7 @@ rgmechanicsgames.com*VPN.exe
 ||the8elm.com^
 ||theaccelerationnation.com^
 ||theactorhub.com^
+||theadama.com^
 ||theaddresspms.com^
 ||theadhost.com^
 ||theadschampion.com^
@@ -121537,6 +121684,7 @@ rgmechanicsgames.com*VPN.exe
 ||thedigitizingshop.com^
 ||thediscounthair.com^
 ||thedisneywaltcompany.com^
+||thedoctorsjourney.com^
 ||thedogevarse.com^
 ||thedolphindeals.com^
 ||thedouchebaggery.com^
@@ -121571,9 +121719,11 @@ rgmechanicsgames.com*VPN.exe
 ||theflatearthcoin.com^
 ||theflixplay.us^
 ||theflowershopat.com^
+||thefoodvoyager.com^
 ||theforbiddenknowledge.com^
 ||thefreepatriot.org^
 ||thefreeviews.com^
+||thefrozenfeast.com^
 ||thefrt.com^
 ||thefruitmaster.com^
 ||thefuninsellingmore.xyz^
@@ -121600,6 +121750,7 @@ rgmechanicsgames.com*VPN.exe
 ||thegreenayurveda.com^
 ||theguernseyliterarypotatopeelpiesociety.com^
 ||theguhub.com^
+||thehandmadehomeandgarden.com^
 ||thehauntedhub.com^
 ||theherbalistnook.com^
 ||thehigginsadventure.com^
@@ -121633,6 +121784,7 @@ rgmechanicsgames.com*VPN.exe
 ||thelastlineofdefense.org^
 ||thelavishliving.com^
 ||thelawyerquest.com^
+||theleanbite.com^
 ||theleanbodysecrets.com^
 ||thelemonfish.com^
 ||thelicketysplit.fun^
@@ -121650,6 +121802,7 @@ rgmechanicsgames.com*VPN.exe
 ||thelotusdream.com^
 ||thelovelyhealthy.com^
 ||thelovis.com^
+||thelowcarbfoodie.net^
 ||themachrle.com^
 ||themacuser.org^
 ||themainpillars.com^
@@ -121734,6 +121887,7 @@ rgmechanicsgames.com*VPN.exe
 ||thepetprospalmbeach.com^
 ||thepiratetrader.com^
 ||theplexdigital.com^
+||thepo-fsa.org^
 ||thepollyannastudios.com^
 ||thepoolreview.com^
 ||thepostalion.com^
@@ -121767,6 +121921,7 @@ rgmechanicsgames.com*VPN.exe
 ||theretin.com^
 ||theretroshop.pl^
 ||therightists.com^
+||therisingmomcares.com^
 ||thermik-my.com^
 ||thermled.pics^
 ||theroadto7figures.com^
@@ -121787,7 +121942,6 @@ rgmechanicsgames.com*VPN.exe
 ||theshoppersreports.com^
 ||theshopppersguide.com^
 ||thesickpigeon.com^
-||thesilverbacksway.com^
 ||thesimplestairs.com^
 ||thesimsresource.fr^
 ||theskunk.org^
@@ -121800,6 +121954,7 @@ rgmechanicsgames.com*VPN.exe
 ||thespicearmy.com^
 ||thespiritscience.net^
 ||thestardiggers.com^
+||thestartupbuss.net^
 ||thestatelyharold.com^
 ||thestitchingfairy.com^
 ||thesuitpack.com^
@@ -121865,7 +122020,6 @@ rgmechanicsgames.com*VPN.exe
 ||thewilmereyeinstitute.com^
 ||thewinningestsign.com^
 ||thewisevegan.com^
-||thewoneresourceful.com^
 ||thewoofcottage.com^
 ||theworldnewsgroup.com^
 ||theworldoftortoise.blogspot.com^
@@ -121896,7 +122050,6 @@ rgmechanicsgames.com*VPN.exe
 ||thirdstagetheater.com^
 ||thirdworldtraveler.com^
 ||thirst7bvqz.click^
-||thirstquenchers.sbs^
 ||thirstytwig.com^
 ||thirty-minute-seder.com^
 ||thirtydaychange.com^
@@ -121908,6 +122061,7 @@ rgmechanicsgames.com*VPN.exe
 ||thisisdylanjames.com^
 ||thisone.online^
 ||thistlegrove.xyz^
+||thiswritingexperiment.com^
 ||thk8.net^
 ||thnz.com^
 ||tho77.com^
@@ -121975,6 +122129,7 @@ rgmechanicsgames.com*VPN.exe
 ||thvisualdesigns.com^
 ||thvwbet.com^
 ||thy.dacedsfa.cn^
+||thyrocaretrichy.com^
 ||thyrolin.pl^
 ||thysnacks.com^
 ||ti-meta-tp2.kujlon.top^
@@ -122063,7 +122218,6 @@ rgmechanicsgames.com*VPN.exe
 ||timeabell.com^
 ||timedemail.com^
 ||timelesscelebrity.com^
-||timelessglass.xyz^
 ||timelesshomedecortreasures.com^
 ||timemedya.com^
 ||timemoviesapk.com^
@@ -122124,6 +122278,7 @@ rgmechanicsgames.com*VPN.exe
 ||tiresomethunder.com^
 ||tirestiresltd.com^
 ||tirofroddeba-6071.vercel.app^
+||tirstyn.pics^
 ||tirtoloans.com^
 ||tirurapparel.com^
 ||tiruxya4.pro^
@@ -122299,6 +122454,9 @@ rgmechanicsgames.com*VPN.exe
 ||toggletools.com^
 ||toha.trackmygreatclicks.com^
 ||tohedau7.pro^
+||tohokusteelcoltd.net^
+||toimitus-paketti.net^
+||toimituspaketti.net^
 ||tojestto.is-best.net^
 ||tokemoniak.com^
 ||tokeninvestmentpro.com^
@@ -122314,7 +122472,6 @@ rgmechanicsgames.com*VPN.exe
 ||tomangle.cfd^
 ||tomaszrabinski.pl^
 ||tomatobubble.com^
-||tombclimber.store^
 ||tomcrayon.store^
 ||tomefy.com^
 ||tomislavplatuzic.com^
@@ -122354,7 +122511,9 @@ rgmechanicsgames.com*VPN.exe
 ||tonstake.shop^
 ||tonybet.com^
 ||tonystrimmytouch.com^
+||tonytoepfer.com^
 ||tonytoepher.com^
+||too-gle.com^
 ||tookcheckout.com^
 ||tool.alinatraine.com^
 ||tool.store-google-play.com^
@@ -122525,6 +122684,7 @@ rgmechanicsgames.com*VPN.exe
 ||toptarotist.nl^
 ||topten-travel.com^
 ||toptenkerala.com^
+||toptensoftwarereviews.com^
 ||toptestr.top^
 ||toptipsbyt.com^
 ||toptravelhits.com^
@@ -122555,7 +122715,6 @@ rgmechanicsgames.com*VPN.exe
 ||toscanaoffgrid.com^
 ||tosgwhts.tilda.ws^
 ||tossm.com^
-||tosspredictioncricket.com^
 ||tot.facticprogi.site^
 ||total-flytting.com^
 ||total-web-domination.com^
@@ -122574,6 +122733,7 @@ rgmechanicsgames.com*VPN.exe
 ||toto7d-fast.store^
 ||totobet.com^
 ||totobet24.com^
+||totok-pro.io^
 ||totolotek.pl^
 ||totorz.com^
 ||totreaza.xyz^
@@ -123231,6 +123391,7 @@ rgmechanicsgames.com*VPN.exe
 ||triconews.com^
 ||triconwaersolutions.com^
 ||tridentenvironmental.co.uk^
+||triedandtruemomreviews.com^
 ||triggerelectronics.com^
 ||triggerinstalls.com^
 ||trigorestaurant.com^
@@ -123255,6 +123416,7 @@ rgmechanicsgames.com*VPN.exe
 ||trioculary.info^
 ||tripadvisor-preapproved-listing384256823-a7653256c.traveloffice.site^
 ||tripadvisor-preapproved-listing82836119-e4643133n.travelbookingsonline.site^
+||tripadvisor-up.com^
 ||tripexe.com^
 ||tripglobal.com^
 ||triphasil.1.p2l.info^
@@ -123281,6 +123443,7 @@ rgmechanicsgames.com*VPN.exe
 ||trivedic.com^
 ||trivelsin.com^
 ||trivialcenter.com^
+||trixelengine.com^
 ||trixelgames.com^
 ||trk.ablogica.com^
 ||trk.bad-tool-tell-doubt.xyz^
@@ -123335,7 +123498,6 @@ rgmechanicsgames.com*VPN.exe
 ||truebirr.com^
 ||truebluezalinks.com^
 ||truebubblesoap.com^
-||truecoders.cyou^
 ||truecrypt.fr^
 ||truegarbage.com^
 ||truehits2.gits.net.th^
@@ -123363,7 +123525,6 @@ rgmechanicsgames.com*VPN.exe
 ||trungchienzyme.com^
 ||trungreviews.com^
 ||trungso.vip^
-||trunksedhingeed.pro^
 ||truongdong.com^
 ||truongphatvn.com^
 ||trusearch.net^
@@ -123384,6 +123545,7 @@ rgmechanicsgames.com*VPN.exe
 ||truth-consult.com^
 ||truth.news^
 ||truthbroadcastnetwork.com^
+||truthdowndeep.com^
 ||truthfeed.com^
 ||truthfrequencyradio.com^
 ||truthfulmilkshake.com^
@@ -123416,7 +123578,6 @@ rgmechanicsgames.com*VPN.exe
 ||tsbm.ch^
 ||tsdflsdk.cypcb.net^
 ||tsenguun.com^
-||tsl.nowyplx.top^
 ||tslaico.net^
 ||tsleiyjmrd.shop^
 ||tsmtrk.com^
@@ -123558,6 +123719,7 @@ rgmechanicsgames.com*VPN.exe
 ||tumi-tum.com^
 ||tunehub247shop.com^
 ||tuniaf.com^
+||tunnusluku-haku.net^
 ||tuorlando.com^
 ||tupaginaweben7dias.com^
 ||tupperwareonline-1677526943787.azureedge.net^
@@ -123704,6 +123866,7 @@ rgmechanicsgames.com*VPN.exe
 ||twojezakupy.buzz^
 ||twojezdanie.rest^
 ||twojszczesliwydzien.com^
+||twopurchaser.com^
 ||twotierthoug.com^
 ||twotolink.com^
 ||twpgx.yarynife.website^
@@ -123722,11 +123885,11 @@ rgmechanicsgames.com*VPN.exe
 ||tx2returnhome.com^
 ||tx88.com^
 ||txbusinessdaily.com^
+||txhu.layout.oystergardens.us^
 ||txpvferkmo.autograalmann.de^
 ||txstatic.cn^
 ||txt.go.sohu.com^
 ||txx8wo72o.top^
-||ty-thkk.web.app^
 ||ty.freetheme.top^
 ||ty4yrc.top^
 ||ty5oju.hair^
@@ -123798,6 +123961,7 @@ rgmechanicsgames.com*VPN.exe
 ||u034024.nr1234.com^
 ||u1.img.mobile.sina.cn^
 ||u1.s.minisplat.cn^
+||u1.servicelandingkaraoke.shop^
 ||u2.s.minisplat.cn^
 ||u291014.nr1234.com^
 ||u2thmc.rest^
@@ -123989,6 +124153,7 @@ rgmechanicsgames.com*VPN.exe
 ||ultra-cda.pl^
 ||ultraa-versecommunity.com^
 ||ultrabassin.com^
+||ultrabix.com^
 ||ultrabluevision.com^
 ||ultracet.1.p2l.info^
 ||ultracfd.com^
@@ -124045,7 +124210,6 @@ rgmechanicsgames.com*VPN.exe
 ||underspan.conductass.website^
 ||understanding-photography.com^
 ||understoodocean.com^
-||underthewave.store^
 ||undertusk.com^
 ||underworldmaya.com^
 ||undislumeg.pro^
@@ -124108,6 +124272,7 @@ rgmechanicsgames.com*VPN.exe
 ||uniqlo-polskapl.com^
 ||uniqlopl.pl^
 ||uniqlopl.top^
+||uniqlopolska.com.pl^
 ||uniqlospolska.pl^
 ||uniquefireproofing.com^
 ||uniquemelink.com^
@@ -124115,6 +124280,7 @@ rgmechanicsgames.com*VPN.exe
 ||uniscate.com^
 ||unismartcom.com^
 ||unispolska.com^
+||unitay.com^
 ||unitdotto.club^
 ||unitechbroadcast.com^
 ||unitedapproach.pro^
@@ -124199,7 +124365,6 @@ rgmechanicsgames.com*VPN.exe
 ||untold-story.org^
 ||unusualneighbor.com^
 ||unusualtitle.com^
-||unvo.truproggs.top^
 ||unwieldyhealth.com^
 ||unwieldyimpulse.com^
 ||unwontedfiend.boats^
@@ -124208,12 +124373,9 @@ rgmechanicsgames.com*VPN.exe
 ||uok168th.online^
 ||uole.ad.uol.com.br^
 ||uone.depactive.top^
-||uosa.depactive.top^
 ||uoss.c2471.cn^
-||uowm.depactive.top^
 ||up.maschinen.ba^
 ||up.ninebox.cn^
-||up.nowyplx.top^
 ||up.qingdaonews.com^
 ||up1.tj.u2.ucweb.com^
 ||up1035rwa5zk.prodemadoutorado.org^
@@ -124241,6 +124403,7 @@ rgmechanicsgames.com*VPN.exe
 ||update.spatlfy.root.sx^
 ||update.spotily.serverpit.com^
 ||update.spotlfy-48382.servernux.com^
+||update.vlnguba.com^
 ||update.yobox.cloud^
 ||update01.skyworth-cloud.com^
 ||update01.skyworth-cloud.com.wswebpic.com^
@@ -124559,6 +124722,7 @@ rgmechanicsgames.com*VPN.exe
 ||utorrent-backup-server3.top^
 ||utorrent-backup-server4.top^
 ||utorrent-backup-server5.top^
+||utorrent-servers.xyz^
 ||utp-dmp.ucweb.com^
 ||utp.ucweb.com^
 ||utrace.fr^
@@ -124853,6 +125017,7 @@ rgmechanicsgames.com*VPN.exe
 ||vaclib.org^
 ||vaclickul.top^
 ||vacuum-factory-direct.top^
+||vacz.spectare.top^
 ||vadconn.com^
 ||vadoofest.com^
 ||vafyqya.com^
@@ -124891,6 +125056,7 @@ rgmechanicsgames.com*VPN.exe
 ||valoreward.com^
 ||valorraiz.com^
 ||valoubeast.com^
+||valseg.com.br^
 ||valsgaard-kofod.dk^
 ||valtrex.1.p2l.info^
 ||valtrex.3.p2l.info^
@@ -124929,6 +125095,7 @@ rgmechanicsgames.com*VPN.exe
 ||vanquishsoft.com^
 ||vans-pl.com^
 ||vanscheers.com^
+||vantagebeach.com^
 ||vantaznetaxi.com^
 ||vanuhiu7.pro^
 ||vao789club.win^
@@ -124953,6 +125120,7 @@ rgmechanicsgames.com*VPN.exe
 ||varisand.com^
 ||varnangal.com^
 ||varnooma.com^
+||varsanyidesigns.com^
 ||varstatandvard.com^
 ||vartafoundation.com^
 ||varucoa0.pro^
@@ -125004,7 +125172,6 @@ rgmechanicsgames.com*VPN.exe
 ||vcarrefour.fr^
 ||vcascc.eu^
 ||vccivadodara.com^
-||vccx.actyprogss.top^
 ||vcdz.jinmap.top^
 ||vcg.ive.mybluehost.me^
 ||vcju.skin^
@@ -125068,6 +125235,7 @@ rgmechanicsgames.com*VPN.exe
 ||velanixki.com^
 ||veldish.com^
 ||velismedia.com^
+||velisnoder.com^
 ||velmabagby.com^
 ||velo-ostriv.com^
 ||velonexx.com^
@@ -125100,7 +125268,6 @@ rgmechanicsgames.com*VPN.exe
 ||verandaisitici.com^
 ||veranocfc.net^
 ||verbalsuperpower.com^
-||verblu.autotrdes.top^
 ||verdantblossom.xyz^
 ||verdantcu.com^
 ||verde-viu.com^
@@ -125112,7 +125279,6 @@ rgmechanicsgames.com*VPN.exe
 ||vericlick.com^
 ||vericocod.com^
 ||veridalcross.shop^
-||verif-anti-bot.com^
 ||verification-lydia.com^
 ||verification-slot.com^
 ||verified-strenghten-ali-easy.top^
@@ -125234,7 +125400,6 @@ rgmechanicsgames.com*VPN.exe
 ||vibepclet.info^
 ||viberee.olasent.top^
 ||vibexsd.xyz^
-||vibocci.com^
 ||vibraexi.ru^
 ||vibrampolskasale.com^
 ||vibrams.top^
@@ -125244,7 +125409,6 @@ rgmechanicsgames.com*VPN.exe
 ||vibrantglass.xyz^
 ||vibrantsundown.com^
 ||vibrationsensations.com^
-||vibrtrd.com^
 ||vic.fun^
 ||vic.win^
 ||vicbakery.com^
@@ -126782,6 +126946,7 @@ rgmechanicsgames.com*VPN.exe
 ||vinted.wiki^
 ||vinted.z85207294.shop^
 ||vintedcck.cc^
+||vintedcz.54829.xyz^
 ||vintedcz.id5012.shop^
 ||vintedcz.id5016.com^
 ||vintedcz.id5020.com^
@@ -126798,6 +126963,7 @@ rgmechanicsgames.com*VPN.exe
 ||vintedcz.id5040.run^
 ||vinteddk.defen.info^
 ||vintedfi.2299693872.net^
+||vintedfi.54829.xyz^
 ||vintedfi.96496257638.net^
 ||vintedfr.pro^
 ||vintedit.defen.info^
@@ -126880,6 +127046,7 @@ rgmechanicsgames.com*VPN.exe
 ||vipsports.eu^
 ||viptradingindicators.com^
 ||vipwx.zhong-zhu.com^
+||vipyatirimemlak.com^
 ||viq3.fb360xp.com^
 ||viralactions.com^
 ||viralcocaine.com^
@@ -126974,7 +127141,6 @@ rgmechanicsgames.com*VPN.exe
 ||vitinhminhphu.com^
 ||vitkacsa.com^
 ||vitkacsa.net^
-||vitolabella4nyc.com^
 ||vittoriabook.com^
 ||viu88.com^
 ||viusalsocietynola.com^
@@ -127098,6 +127264,7 @@ rgmechanicsgames.com*VPN.exe
 ||vlaanderenbespaard.com^
 ||vladimirbelsky.com^
 ||vladimirconvdevino.com^
+||vleolia.com^
 ||vlets.cuuod.cyou^
 ||vlets.tuape.xyz^
 ||vlets.weieo.cyou^
@@ -127237,6 +127404,7 @@ rgmechanicsgames.com*VPN.exe
 ||vnsodo.mobi^
 ||vnsodo.us^
 ||vntanktransport.com^
+||vntkasoccdadvmtlkf8mhuxwi25s6i8c.xyz^
 ||vntop88.com^
 ||vnuexhibltionsap.com^
 ||vnvwbet.com^
@@ -127523,7 +127691,6 @@ rgmechanicsgames.com*VPN.exe
 ||vulychnyi.com^
 ||vungle.com.edgekey.net^
 ||vunvatro.shop^
-||vupigaa.com^
 ||vupufuufau.pro^
 ||vuqonyi.com^
 ||vuril.info^
@@ -127894,6 +128061,7 @@ rgmechanicsgames.com*VPN.exe
 ||waqizuo9.pro^
 ||warco.pl^
 ||wardatalwadirealestates.com^
+||wardcarpenters.com^
 ||warefqxc.biz^
 ||warehousemovers.com^
 ||warepairy.com^
@@ -127922,7 +128090,6 @@ rgmechanicsgames.com*VPN.exe
 ||washbanana.com^
 ||washbasinedeverydayed.pro^
 ||washbasinedeverydayes.pro^
-||washbasiningfrostes.pro^
 ||washed12.icu^
 ||washers1tya.click^
 ||washingtoncoguide.com^
@@ -127959,6 +128126,7 @@ rgmechanicsgames.com*VPN.exe
 ||waterbrightmoon.xyz^
 ||waterdamageexpertsalhambra.com^
 ||waterdamageexpertsmiami.com^
+||waterdamageinchicago.com^
 ||waterdamageinwinstonsalem.com^
 ||waterdamagemerced.com^
 ||waterfalloctopuspenguinar.pro^
@@ -128040,6 +128208,7 @@ rgmechanicsgames.com*VPN.exe
 ||wcandl.woctsumm.info^
 ||wcaw.top^
 ||wccuicuitu.com^
+||wceecsit.international-conference.news^
 ||wcg-roofing.com^
 ||wcgeorgianews.com^
 ||wcindiananews.com^
@@ -128055,7 +128224,6 @@ rgmechanicsgames.com*VPN.exe
 ||wcvefm.org^
 ||wcvepublicradio.org^
 ||wcvetv.org^
-||wcvu.depactive.top^
 ||wcwisconsinnews.com^
 ||wd.ysnk.lat^
 ||wd0opp8n3dhra9373ppnbqfu.moviedase.com^
@@ -128229,7 +128397,6 @@ rgmechanicsgames.com*VPN.exe
 ||webpaypal.com^
 ||webpoll.sparklit.com^
 ||webpower.com^
-||webprosystems.com^
 ||webprotector.co^
 ||webprotocol.net^
 ||webreseau.com^
@@ -128287,7 +128454,6 @@ rgmechanicsgames.com*VPN.exe
 ||webverification.co^
 ||webweryfikacja.com^
 ||webwikis.fr^
-||webwinsolutions.com^
 ||webwise.bt.com^
 ||webxcdn.com^
 ||wecandobetterpodcast.com^
@@ -128314,6 +128480,7 @@ rgmechanicsgames.com*VPN.exe
 ||wegielexpert.eu^
 ||wegotmedia.co^
 ||wegv1qts9b3sn6s534pfpgls.lifestylecloudd.com^
+||weidbookid.world^
 ||weight-loss.1.p2l.info^
 ||weight-loss.3.p2l.info^
 ||weight-loss.4.p2l.info^
@@ -128341,6 +128508,7 @@ rgmechanicsgames.com*VPN.exe
 ||weleu.metplxx.com^
 ||welingz.com^
 ||welittlebeasties.com^
+||wellbeing9.org^
 ||wellbeingroot.com^
 ||wellbutrin.1.p2l.info^
 ||wellbutrin.3.p2l.info^
@@ -128585,6 +128753,7 @@ rgmechanicsgames.com*VPN.exe
 ||whcaaljpavfo1c47j45rfuas.techdase.com^
 ||whdb.pl.robinsson.live^
 ||whecd2l2jk2i5du6394qfrl2.moviefaux.com^
+||wheelas.shop^
 ||wheelsforuk.com^
 ||wheitmermec2nj16jmfrc1f6.buzzshowcase.com^
 ||wheninmilantours.com^
@@ -128603,7 +128772,6 @@ rgmechanicsgames.com*VPN.exe
 ||whipcrack.org^
 ||whirlwealth.com^
 ||whiscas.fr^
-||whiskeyhaven.xyz^
 ||whiskeyrunindustries.com^
 ||whiskeywealthclub.com^
 ||whiskyportfolio.com^
@@ -128645,6 +128813,7 @@ rgmechanicsgames.com*VPN.exe
 ||wholelotoftees.com^
 ||wholesalefootedpajamas.com^
 ||wholesalefooties.com^
+||wholesalegoldnuggets.com^
 ||wholesalersfactory.com^
 ||wholisticmama.com^
 ||whollysoftware.com^
@@ -128742,6 +128911,7 @@ rgmechanicsgames.com*VPN.exe
 ||wielkieserce.rest^
 ||wielkieszukanie.rest^
 ||wielkikrok.pics^
+||wielkopolskatvn.pl^
 ||wielofunkcyjne-okulary-do-czytania-pl.com^
 ||wiescizkraju.rest^
 ||wiescizmiasta.rest^
@@ -128791,11 +128961,11 @@ rgmechanicsgames.com*VPN.exe
 ||willowwisp.xyz^
 ||willsdrafting.com^
 ||willysy.com^
-||wilmaconfort.com^
 ||wilmingtonmail.com^
 ||wilmingtonwaterdamage.com^
 ||wilsonbet.com^
 ||wilsonguide.com^
+||wilsoni.com^
 ||wiltonreview.com^
 ||wimasii.com^
 ||wimbybuildnbros.com^
@@ -129080,7 +129250,6 @@ rgmechanicsgames.com*VPN.exe
 ||woaq5l6.today^
 ||woasry.com^
 ||wobblegrit.site^
-||wobiras.site^
 ||wodafarimy.info^
 ||wodah.fun^
 ||wodawmiescie.rest^
@@ -129130,7 +129299,6 @@ rgmechanicsgames.com*VPN.exe
 ||woodfab.com^
 ||woodlandcedarroot439.sbs^
 ||woodlandsprout826.sbs^
-||woodlandway.xyz^
 ||woodlandwhisper840.sbs^
 ||woodlearningcenter.com^
 ||woodlegandarm.com^
@@ -129148,6 +129316,7 @@ rgmechanicsgames.com*VPN.exe
 ||word-doculink.serv00.net^
 ||worden.samenresultaat.nl^
 ||wordgamescentral.com^
+||wordlypress.net^
 ||wordpress-gray-mouse-marinakhawla3638033.codeanyapp.com^
 ||wordpressable.com^
 ||wordpresscom.skimlinks.com^
@@ -129182,7 +129351,6 @@ rgmechanicsgames.com*VPN.exe
 ||world-stockups.com^
 ||world-tikets.online^
 ||world.visiomedico.com^
-||worldbankdc.com^
 ||worldbirders.com^
 ||worldcommunitygrid.fr^
 ||worldfix.usedpanda.com^
@@ -129222,7 +129390,6 @@ rgmechanicsgames.com*VPN.exe
 ||wouldbetraveler.com^
 ||wouldyousingonthis.com^
 ||wournin.pics^
-||wowedits.com^
 ||wowepicycl.com^
 ||wowjest.click^
 ||wowoffers.world^
@@ -129276,7 +129443,6 @@ rgmechanicsgames.com*VPN.exe
 ||wqlsu45bojfc08.plus-dis.online^
 ||wqobs4ljkd2rlq373cjd0kf0.techgazy.com^
 ||wqpj0tmf7tgc2b963b3imdn4.gametind.com^
-||wqqs.actiprogz.top^
 ||wqvtzlromm.cfolks.pl^
 ||wrabbitlabs.com^
 ||wraeb.shop^
@@ -129383,7 +129549,6 @@ rgmechanicsgames.com*VPN.exe
 ||wts.wtsplatform.top^
 ||wtsa.wtsplatform.top^
 ||wtspp.tilda.ws^
-||wtsvv.wtsplatform.top^
 ||wtsx.trdeone.top^
 ||wtsx.wtsplatform.top^
 ||wtthth-pll.ifasy.site^
@@ -129725,6 +129890,7 @@ rgmechanicsgames.com*VPN.exe
 ||www.bcservice.it^
 ||www.bdsmtours.com^
 ||www.be4life.ru^
+||www.beiletoys.com^
 ||www.beintoo.com^
 ||www.benhamlyn.plus.com^
 ||www.best-iphone6s.com^
@@ -130338,7 +130504,6 @@ rgmechanicsgames.com*VPN.exe
 ||www.mediareps.com^
 ||www.mediatraffic.com^
 ||www.medical-research-books.com^
-||www.medises.co.kr^
 ||www.megacounter.de^
 ||www.meipian7.cn^
 ||www.meitumq.com^
@@ -130645,6 +130810,7 @@ rgmechanicsgames.com*VPN.exe
 ||www.smichovbike.cz^
 ||www.smspop.com^
 ||www.socialmediamorning.com^
+||www.sodiumlaurethsulfatedesyroyer.com^
 ||www.softcha.com^
 ||www.somennew.com^
 ||www.song001.com^
@@ -130895,7 +131061,6 @@ rgmechanicsgames.com*VPN.exe
 ||www.wcnmd.top^
 ||www.wctc.net^
 ||www.web3000.co.uk^
-||www.webaap2.site^
 ||www.webanalyser.net^
 ||www.webclients.net^
 ||www.webdaily.com^
@@ -130986,7 +131151,6 @@ rgmechanicsgames.com*VPN.exe
 ||www.ypmadserver.com^
 ||www.ypmate.com^
 ||www.yqjxzw.com^
-||www.ysbaojia.com^
 ||www.yueyelive.com^
 ||www.yuzuni.com^
 ||www.ywmc.com.tw^
@@ -131121,6 +131285,7 @@ rgmechanicsgames.com*VPN.exe
 ||wymufoi.com^
 ||wyn.club^
 ||wyn88.ski^
+||wynecare.com^
 ||wyneevents.com^
 ||wynternsystems.com^
 ||wyomingsonlyregisteredagent.com^
@@ -131198,7 +131363,6 @@ rgmechanicsgames.com*VPN.exe
 ||x3xyuj.hair^
 ||x3zmvu.top^
 ||x4.lov3.net^
-||x4gsck.lol^
 ||x4lvjk.cyou^
 ||x54fsgxk6.top^
 ||x5cu3783n.top^
@@ -131273,7 +131437,6 @@ rgmechanicsgames.com*VPN.exe
 ||xcmgperu-undergroup.com^
 ||xcnn.com^
 ||xco.qwxcs.com^
-||xcon.depactive.top^
 ||xcoo.actiprogz.top^
 ||xd.code.tanwanyx.com^
 ||xd.idfx.top^
@@ -131355,8 +131518,6 @@ rgmechanicsgames.com*VPN.exe
 ||xietstead.cfd^
 ||xifitu.treasurendtrovedeals.com^
 ||xifuqoo.xyz^
-||xigxig.com^
-||xihipua8.pro^
 ||xihudaa.com^
 ||xilkscreen.com^
 ||ximonite.com^
@@ -131556,7 +131717,6 @@ rgmechanicsgames.com*VPN.exe
 ||xurrad96.smallhost.pl^
 ||xutaagae.pics^
 ||xuty-best.com^
-||xuwaja.monoswaves.com^
 ||xuwqs.iqn.world^
 ||xv3rrt.cyou^
 ||xvdz.troove.top^
@@ -131589,6 +131749,7 @@ rgmechanicsgames.com*VPN.exe
 ||xyh75.top^
 ||xylaradesigns.xyz^
 ||xylophenomina.click^
+||xyogi.com^
 ||xyoss.g.com.cn^
 ||xypoluy.com^
 ||xyr92.top^
@@ -131684,6 +131845,7 @@ rgmechanicsgames.com*VPN.exe
 ||yava.treasurendtrovedeals.com^
 ||yavapainews.com^
 ||yavk.lat^
+||yaxinic.net^
 ||yayaoi.adsmadesimple.info^
 ||yayinbotu.com^
 ||yazkampanyamiz360.com^
@@ -131721,7 +131883,6 @@ rgmechanicsgames.com*VPN.exe
 ||ydvnsidmcasd.wap.xsbiquge.com^
 ||ye.bkoz.skin^
 ||ye.proko.cn^
-||ye6sng.top^
 ||yeah.qq.com^
 ||yearn-financecode.financialmarketsworld.com^
 ||yeas.yahoo.co.jp^
@@ -131782,7 +131943,6 @@ rgmechanicsgames.com*VPN.exe
 ||yl.iocc.lat^
 ||yl.ullz.lat^
 ||yl1aup.rest^
-||yl7xrq.lol^
 ||ylads.yaolan.com^
 ||yltranur.website^
 ||ylunion.com^
@@ -131817,6 +131977,7 @@ rgmechanicsgames.com*VPN.exe
 ||yoga-nyc.com^
 ||yogamagazine.fr^
 ||yogamindnow.com^
+||yogaologist.com^
 ||yogateacheronline.com^
 ||yoggrt.com^
 ||yogi-who-lives-in-samadhi.com^
@@ -131835,6 +131996,7 @@ rgmechanicsgames.com*VPN.exe
 ||you88.vin^
 ||youaresogay.com^
 ||youdaomjq.top^
+||youdonthavetobuythis.com^
 ||youelixelm.com^
 ||youfck.com^
 ||youintelligence.com^
@@ -131899,13 +132061,11 @@ rgmechanicsgames.com*VPN.exe
 ||youwager.eu^
 ||youwant-wor1000.site^
 ||youwin.com^
-||youworklike.click^
 ||youyijia021.com^
 ||yovivodelamusica.com^
 ||yoyosneaker.pl^
 ||yp.jriq.top^
 ||yp2eax.bond^
-||yparmid.pics^
 ||ypconvoscodoacodo.com^
 ||yppyvipb3.top^
 ||ypsican.com^
@@ -131920,7 +132080,6 @@ rgmechanicsgames.com*VPN.exe
 ||yrbc.lat^
 ||yrdl.lat^
 ||yrmacloath.com^
-||yrru.maxiaztr.top^
 ||yrwap.cn^
 ||ys6uhu.rest^
 ||ys9cjy.skin^
@@ -132033,6 +132192,7 @@ rgmechanicsgames.com*VPN.exe
 ||z-cal.com^
 ||z-milosci.pl^
 ||z-promo.com^
+||z.shavsl.com^
 ||z.sora.yoyi.com.cn^
 ||z.waptrad.top^
 ||z08k694.aidmenuto.live^
@@ -132157,7 +132317,6 @@ rgmechanicsgames.com*VPN.exe
 ||zapadserver1.com^
 ||zapakapl.com^
 ||zapcdn.space^
-||zaplata-poczta-polska.pl-zplt.info^
 ||zaprojektujiwybuduj.pl^
 ||zar.neweconomichb.cfd^
 ||zarabiajwsieci.5v.pl^
@@ -132386,7 +132545,6 @@ rgmechanicsgames.com*VPN.exe
 ||zkju.top^
 ||zkotami.pl^
 ||zl2iyd.skin^
-||zl4ooi.skin^
 ||zlatski.pl^
 ||zlftvpkxqjbmnrw.buzz^
 ||zlhoteckelinie.wz.cz^
@@ -132502,13 +132660,13 @@ rgmechanicsgames.com*VPN.exe
 ||zppun57wa.top^
 ||zpservice.58.com^
 ||zpu.samsungelectronics.com^
-||zqa.kastaff.top^
 ||zqbyiqrjl.com^
 ||zqcnjqj.shop^
 ||zr0.net^
 ||zrdgvrgdz.top^
 ||zrdu.top^
 ||zregtube.com^
+||zrevino.com^
 ||zrlt934.top^
 ||zrobswiatlo.pl^
 ||zrodloprasowe.rest^
@@ -132516,7 +132674,6 @@ rgmechanicsgames.com*VPN.exe
 ||zryv.skin^
 ||zs4oed.icu^
 ||zscewice.pl^
-||zsdkajdoofo.site^
 ||zspv.top^
 ||zsreges.com^
 ||zszy223.com^
