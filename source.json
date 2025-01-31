@@ -78,16 +78,6 @@
         "type": "adblock"
       },
       {
-        "name": "乘风视频过滤规则",
-        "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt",
-        "type": "adblock"
-      },
-      {
-        "name": "乘风通用过滤规则",
-        "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt",
-        "type": "adblock"
-      },
-      {
         "name": "NEO DEV HOST",
         "source": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker",
         "type": "adblock"
