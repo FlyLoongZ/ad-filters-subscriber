@@ -25,6 +25,4 @@
 - [NoAppDownload](https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt)
 - [uBlock filters – Privacy](https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt)
 - [clash-rules - reject](https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt)
-- [乘风视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt)
-- [乘风通用过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 - [NEO DEV HOST](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker)
