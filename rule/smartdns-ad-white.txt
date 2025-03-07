@@ -179,5 +179,3 @@ adobelogin.com
 adobeid-*.services.adobe.com
 privat24.privatbank.ua
 download.adblockultimate.net
-aainflight.com
-inflight.pacwisp.net
