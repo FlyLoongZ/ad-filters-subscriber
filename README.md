@@ -14,7 +14,6 @@
 - [AdGuard DNS filter](https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt)
 - [AdBlocker Ultimate Ad Filter](https://filters.adavoid.org/ultimate-ad-filter.txt)
 - [AdBlocker Ultimate Privacy Filter](https://filters.adavoid.org/ultimate-ad-filter.txt)
-- [Fanboy's Annoyance List](https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt)
 - [d3Host List by d3ward](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt)
 - [AdAway default blocklist](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt)
 - [WindowsSpyBlocker](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
