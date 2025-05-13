@@ -179,8 +179,4 @@ s-plugins.wordpress.org
 s1.wp.com
 krebsonsecurity.com
 login.gaijin.net
-nwolb.com
-adobelogin.com
-adobeid-*.services.adobe.com
-privat24.privatbank.ua
 download.adblockultimate.net
