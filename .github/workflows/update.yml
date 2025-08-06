@@ -15,7 +15,7 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '18'
+        node-version: '20'
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -32,20 +32,14 @@ jobs:
         python3 ./smartdns-ad.py
         python3 ./smartdns-ad-white.py
 
-    - name: Check for changes
-      run: |
-        if ! git diff --quiet; then
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          current_time=$(date +'%Y.%m.%d %H:%M:%S %Z')
-          git add .
-          git commit -m "🚀Update rule $current_time"
-        else
-          echo "No changes to commit."
-        fi
+    - name: Set tag
+      run: echo "TAG_NAME=$(date +%Y%m%d)" >> $GITHUB_ENV
 
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+    - name: Update Release
+      uses: softprops/action-gh-release@v2
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: main
+        tag_name: ${{ env.TAG_NAME }}
+        files: |
+          ./rule/adblock.txt
+          ./rule/smartdns-ad.txt
+          ./rule/smartdns-ad-white.txt
