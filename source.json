@@ -3,8 +3,13 @@
     "homepage": "https://github.com/FlyLoongZ/ad-filters-subscriber",
     "sources": [
       {
-        "name": "Local rules",
-        "source": "rule/local-rule.txt",
+        "name": "Local filter",
+        "source": "rule/local.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Httpdns filter",
+        "source": "rule/httpdns.txt",
         "type": "adblock"
       },
       { 
@@ -73,5 +78,5 @@
         "type": "adblock"
       }
     ],
-    "transformations": ["RemoveComments", "Compress", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
+    "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "ValidateAllowIp", "Deduplicate", "RemoveEmptyLines", "TrimLines", "ConvertToAscii"]
   }
