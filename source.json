@@ -73,5 +73,5 @@
         "type": "adblock"
       }
     ],
-    "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "ValidateAllowIp", "Deduplicate", "RemoveEmptyLines", "TrimLines", "ConvertToAscii"]
+    "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "ValidateAllowIp", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
   }
