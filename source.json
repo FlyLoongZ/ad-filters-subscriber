@@ -68,11 +68,6 @@
         "type": "adblock"
       },
       {
-        "name": "clash-rules - reject",
-        "source": "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt",
-        "type": "adblock"
-      },
-      {
         "name": "NEO DEV HOST",
         "source": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker",
         "type": "adblock"
