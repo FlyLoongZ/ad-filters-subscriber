@@ -63,11 +63,6 @@
         "type": "adblock"
       },
       {
-        "name": "NoAppDownload",
-        "source": "https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt",
-        "type": "adblock"
-      },
-      {
         "name": "uBlock filters - Privacy",
         "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt",
         "type": "adblock"
