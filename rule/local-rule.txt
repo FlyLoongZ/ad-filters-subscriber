@@ -2,8 +2,8 @@
 @@||app.chat.xiaomi.net^
 @@||resolver.msg.xiaomi.net^
 
-# bilibili history
-@@||data.bilibili.com^
-
 # biliroamingx ban url
 ||black.qimo.ink^
+
+# bilibili pcdn
+||mcdn.bilivideo.cn^
