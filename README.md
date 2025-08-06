@@ -11,6 +11,7 @@
 
 #### 上游规则
 
+- [Httpdns filter](https://github.com/VirgilClyne/GetSomeFries/blob/main/stoverride/HTTPDNS.Block.stoverride)
 - [AdGuard DNS filter](https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt)
 - [AdBlocker Ultimate Ad Filter](https://filters.adavoid.org/ultimate-ad-filter.txt)
 - [AdBlocker Ultimate Privacy Filter](https://filters.adavoid.org/ultimate-ad-filter.txt)

@@ -1,0 +1,102 @@
+  # Alibaba
+||httpdns.alicdn.com^
+
+  # Aliyun
+||httpdns-api.aliyuncs.com^
+||httpdns-sc.aliyuncs.com^
+||203.107.1.*^
+
+  # Baidu
+||httpsdns.baidu.com^
+||httpdns.baidu.com^
+
+  # BaiduBCE
+||httpdns.baidubce.com^
+||180.76.76.200^
+
+  # Bilibili
+||httpdns.bilivideo.com^
+  # KEY_EXT_P2P_HTTPDNS_BILI_IP
+||47.101.175.206^
+||47.100.123.169^
+||120.46.169.234^
+||121.36.72.124^
+  # KEY_EXT_P2P_BILIDNS_CMCC_IP
+||116.63.10.135^
+||122.9.7.134^
+||117.185.228.108^
+||117.144.238.29^
+  # KEY_EXT_P2P_BILIDNS_CT_IP
+||122.9.13.79^
+||122.9.15.129^
+||101.91.140.224^
+||101.91.140.124^
+  # KEY_EXT_P2P_BILIDNS_CU_IP
+||114.116.215.110^
+||116.63.10.31^
+||112.64.218.119^
+||112.65.200.117^
+
+  # Huawei
+||httpdns.c.cdnhwc2.com^
+
+  # JD
+||dns.jd.com^
+||101.124.19.122^
+||2402:db40:5100:1011::5^
+
+  # JD Cloud
+||103.224.222.208^
+
+  # Keep
+||httpdns.calorietech.com^
+
+  # Meituan
+||httpdns.meituan.com^
+||202.90.108.13^
+||202.90.110.46^
+
+  # NetEase
+||httpdns.yunxindns.com^
+||httpdns.n.netease.com^
+||music.httpdns.c.163.com^
+||lofter.httpdns.c.163.com^
+||59.111.239.61^
+||59.111.239.62^
+||115.236.121.51^
+||115.236.121.195^
+
+  # Oppo
+||httpdns.push.oppomobile.com^
+
+  # Tencent Cloud
+||httpdns.pro^
+||119.29.29.98^
+||119.29.29.99^
+
+  # Volcengine
+||httpdns.volcengineapi.com^
+
+  # Weibo
+||dns.weibo.cn^
+||39.97.128.148^
+||39.97.130.51^
+
+  # Weixin
+||dns.weixin.qq.com^
+||dns.weixin.qq.com.cn^
+||42.81.232.18^
+||42.187.182.106^
+||42.187.182.123^
+||42.187.184.154^
+||123.151.54.50^
+||2402:4e00:1900:1700:0:9554:1ad9:c3a^
+||240e:928:1400:10::25^
+
+  # Wework
+||182.254.116.117^
+||182.254.118.119^
+
+  # Zhihu
+||118.89.204.198^
+||2402:4e00:1200:ed00:0:9089:6dac:96b6^
