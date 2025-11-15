@@ -4,9 +4,9 @@
 
 | 名称 | 说明 | GitHub | Github Proxy |
 |---|---|---|---|
-| `adblock.txt` | 完整规则 | [Link](https://github.com/FlyLoongZ/ad-filters-subscriber/releases/latest/download/adblock.txt) | [Link](https://gh.llkk.cc/https://github.com/FlyLoongZ/ad-filters-subscriber/releases/latest/download/adblock.txt) |
-| `smartdns-ad.txt` | 黑名单 | [Link](https://github.com/FlyLoongZ/ad-filters-subscriber/releases/latest/download/smartdns-ad.txt) | [Link](https://gh.llkk.cc/https://github.com/FlyLoongZ/ad-filters-subscriber/releases/latest/download/smartdns-ad.txt) |
-| `smartdns-ad-white.txt` | 白名单 | [Link](https://github.com/FlyLoongZ/ad-filters-subscriber/releases/latest/download/smartdns-ad-white.txt) | [Link](https://gh.llkk.cc/https://github.com/FlyLoongZ/ad-filters-subscriber/releases/latest/download/smartdns-ad-white.txt) |
+| `adblock.txt`           | 完整规则 | [Link](https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/file/rule/adblock.txt)           | [Link](https://gh.llkk.cc/https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/file/rule/adblock.txt) |
+| `smartdns-ad.txt`       | 黑名单 |   [Link](https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/file/rule/smartdns-ad.txt)       | [Link](https://gh.llkk.cc/https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/file/rule/smartdns-ad.txt) |
+| `smartdns-ad-white.txt` | 白名单 |   [Link](https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/file/rule/smartdns-ad-white.txt) | [Link](https://gh.llkk.cc/https://raw.githubusercontent.com/FlyLoongZ/ad-filters-subscriber/refs/heads/file/rule/smartdns-ad-white.txt) |
 > 黑名单 + 白名单 = 完整规则
 
 #### 上游规则

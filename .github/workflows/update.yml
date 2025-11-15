@@ -32,14 +32,46 @@ jobs:
         python3 ./smartdns-ad.py
         python3 ./smartdns-ad-white.py
 
-    - name: Set tag
-      run: echo "TAG_NAME=$(date +%Y%m%d)" >> $GITHUB_ENV
+    - name: Create or checkout file branch
+      run: |
+        if git ls-remote --exit-code --heads origin file; then
+          # 如果 file 分支存在，切换到它
+          git add .
+          git stash
+          git fetch origin file
+          git checkout file
+        else
+          # 如果 file 分支不存在，创建一个新的孤儿分支
+          git checkout --orphan file
+          git rm -rf .
+          echo "# Ad filter file" > README.md
+          git add README.md
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Initial commit for file branch"
+        fi
 
-    - name: Update Release
-      uses: softprops/action-gh-release@v2
+    - name: Check for changes
+      run: |
+        # 弹出 stash,如果有冲突则使用 stash 中的版本
+        if ! git stash pop; then
+          echo "Merge conflicts detected, resolving by accepting stashed changes..."
+          # 对所有冲突文件使用 stash 中的版本
+          git checkout --theirs .
+          git add .
+        fi
+      
+        if git status --porcelain | grep -q .; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          current_time=$(date +'%Y-%m-%d %H:%M:%S')
+          git commit -m "Update file 🚀 - $current_time UTC"
+        else
+          echo "No changes to commit."
+        fi
+
+    - name: Push changes to file branch
+      uses: ad-m/github-push-action@master
       with:
-        tag_name: ${{ env.TAG_NAME }}
-        files: |
-          ./rule/adblock.txt
-          ./rule/smartdns-ad.txt
-          ./rule/smartdns-ad-white.txt
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: file
