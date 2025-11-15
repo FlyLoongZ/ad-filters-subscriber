@@ -1,9 +1,3 @@
 # mipush
 @@||app.chat.xiaomi.net^
 @@||resolver.msg.xiaomi.net^
-
-# biliroamingx ban url
-||black.qimo.ink^
-
-# bilibili pcdn
-||mcdn.bilivideo.cn^

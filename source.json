@@ -8,29 +8,24 @@
         "type": "adblock"
       },
       {
-        "name": "Httpdns filter",
-        "source": "rule/httpdns.txt",
+        "name": "Httpdns(anti-ad)",
+        "source": "https://github.com/privacy-protection-tools/anti-AD/raw/refs/heads/master/discretion/dns.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Pcdn(anti-ad)",
+        "source": "https://github.com/privacy-protection-tools/anti-AD/raw/refs/heads/master/discretion/pcdn.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "运营商自动登陆(anti-ad)",
+        "source": "https://github.com/privacy-protection-tools/anti-AD/raw/refs/heads/master/discretion/anv.txt",
         "type": "adblock"
       },
       { 
         "name": "AdGuard DNS filter",
         "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
         "type": "adblock"
-      },
-      {
-        "name": "AdBlocker Ultimate Ad Filter",
-        "source": "https://filters.adavoid.org/ultimate-ad-filter.txt",
-        "type": "adblock"
-      },
-      {
-        "name": "AdBlocker Ultimate Privacy Filter",
-        "source": "https://filters.adavoid.org/ultimate-ad-filter.txt",
-        "type": "adblock"
-      },
-      {
-        "name": "d3Host List by d3ward",
-        "source": "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt",
-        "type": "hosts"
       },
       {
         "name": "AdAway default blocklist",
@@ -43,16 +38,6 @@
         "type": "hosts"
       },
       {
-        "name": "NoTrack Malware Blocklist",
-        "source": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/malware.hosts",
-        "type": "hosts"
-      },
-      {
-        "name": "Hosts contributed by Steven Black",
-        "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
-        "type": "hosts"
-      },
-      {
         "name": "CJX's Annoyance List",
         "source": "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt",
         "type": "adblock"
@@ -61,17 +46,7 @@
         "name": "AWAvenue 秋风广告规则",
         "source": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
         "type": "adblock"
-      },
-      {
-        "name": "uBlock filters - Privacy",
-        "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt",
-        "type": "adblock"
-      },
-      {
-        "name": "NEO DEV HOST",
-        "source": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker",
-        "type": "adblock"
       }
     ],
-    "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "ValidateAllowIp", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
+    "transformations": ["RemoveComments", "Compress", "ValidateAllowIp", "Deduplicate", "RemoveEmptyLines", "TrimLines", "ConvertToAscii"]
   }

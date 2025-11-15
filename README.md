@@ -11,16 +11,11 @@
 
 #### 上游规则
 
-- [Httpdns filter](https://github.com/VirgilClyne/GetSomeFries/blob/main/stoverride/HTTPDNS.Block.stoverride)
+- [Httpdns(anti-ad)](https://github.com/privacy-protection-tools/anti-AD/raw/refs/heads/master/discretion/dns.txt)
+- [Pcdn(anti-ad)](https://github.com/privacy-protection-tools/anti-AD/raw/refs/heads/master/discretion/pcdn.txt)
+- [运营商自动登陆(anti-ad)](https://github.com/privacy-protection-tools/anti-AD/raw/refs/heads/master/discretion/anv.txt)
 - [AdGuard DNS filter](https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt)
-- [AdBlocker Ultimate Ad Filter](https://filters.adavoid.org/ultimate-ad-filter.txt)
-- [AdBlocker Ultimate Privacy Filter](https://filters.adavoid.org/ultimate-ad-filter.txt)
-- [d3Host List by d3ward](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt)
 - [AdAway default blocklist](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt)
 - [WindowsSpyBlocker](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
-- [NoTrack Malware Blocklist](https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/malware.hosts)
-- [Hosts contributed by Steven Black](https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts)
 - [CJX's Annoyance List](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
 - [AWAvenue 秋风广告规则](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
-- [uBlock filters – Privacy](https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt)
-- [NEO DEV HOST](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker)
