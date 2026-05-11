@@ -11,6 +11,7 @@ app-advertise.zhihuishu.com
 buyad.bi-xenon.cn
 captcha.su.baidu.com
 img.ads.tvb.com
+unsubscribe.lhinsights.com
 belgium.wolterskluwer.com
 ssai.aniview.com
 sedge.nfl.com
