@@ -11,6 +11,7 @@ app-advertise.zhihuishu.com
 buyad.bi-xenon.cn
 captcha.su.baidu.com
 img.ads.tvb.com
+om-ssl.consorsbank.de
 unsubscribe.lhinsights.com
 belgium.wolterskluwer.com
 ssai.aniview.com
@@ -75,6 +76,7 @@ data-*.herz-fuer-tiere.de
 go.adjust.com
 clickattr.wayup.com
 remembering.ca
+obituaries.toacorn.com
 obituaries.thestar.com
 obituaries.therecord.com
 catchup.thisisdax.com
